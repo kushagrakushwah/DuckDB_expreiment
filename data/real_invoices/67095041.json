@@ -1,0 +1,26 @@
+{
+  "invoice_id": "67095041",
+  "file_name": "67095041.jpg",
+  "vendor_name": "Wade, Scott and Glover",
+  "invoice_date": "2018-12-14",
+  "due_date": "2018-12-14",
+  "currency": "USD",
+  "subtotal": 79.96,
+  "tax_amount": 8.0,
+  "total_amount": 87.96,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 67095041\n**Invoice Date:** 2018-12-14\n**Seller / Vendor:** Wade, Scott and Glover 9022 Jeffrey Course Apt. 247 Tylershire, DC 71720\n**Seller Tax ID:** 985-88-4789\n**Client / Bill To:** Bernard, Welch and Freeman 06193 Julia Row Michelleburgh, NH 84339\n**Client Tax ID:** 905-74-4614\n**IBAN / Payment Ref:** GB44IJGO64103154190692\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Champagne Glass Holder Storage Bar Accessory with Shelf Wall Mount Wine Holder | 4.0 | $19.99 | $87.96 |\n\n**Subtotal (Net):** $79.96\n**Total Tax / VAT:** $8.00\n**Total Gross Amount Due:** $87.96\n\n---\n*Source Image: data/real_invoices/images/67095041.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-67095041'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Champagne Glass Holder Storage Bar Accessory with Shelf Wall Mount Wine Holder</td><td>4.0</td><td>19.99</td><td>87.96</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>79.96</td></tr><tr><td colspan='3'>Tax / VAT</td><td>8.00</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>87.96</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-67095041-ITEM-1",
+      "item_description": "Champagne Glass Holder Storage Bar Accessory with Shelf Wall Mount Wine Holder",
+      "quantity": 4.0,
+      "unit_price": 19.99,
+      "line_total": 87.96
+    }
+  ],
+  "image_path": "data/real_invoices/images/67095041.jpg"
+}

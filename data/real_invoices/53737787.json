@@ -1,0 +1,40 @@
+{
+  "invoice_id": "53737787",
+  "file_name": "53737787.jpg",
+  "vendor_name": "Levy-Vargas",
+  "invoice_date": "2011-12-08",
+  "due_date": "2011-12-08",
+  "currency": "USD",
+  "subtotal": 186.82,
+  "tax_amount": 18.68,
+  "total_amount": 205.5,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 53737787\n**Invoice Date:** 2011-12-08\n**Seller / Vendor:** Levy-Vargas 7333 Noble Hill Suite 584 West Valeriechester, AZ 99439\n**Seller Tax ID:** 908-76-0702\n**Client / Bill To:** Kelly-Herring 8621 Maria Fords North Miguel, KS 38601\n**Client Tax ID:** 910-72-9133\n**IBAN / Payment Ref:** GB71DP5417716092625\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Breaking Free from Depression: Pathways to Wellness by Jesse H. Wright (English) | 2.0 | $32.94 | $72.47 |\n| The Graphic Design Reference & Specification Book: Everything Graphic Designers | 5.0 | $20.18 | $110.99 |\n| Escape from the Carnival of Horrors (Give Yourself Goosebumps) by R. L. Stine | 4.0 | $5.01 | $22.04 |\n\n**Subtotal (Net):** $186.82\n**Total Tax / VAT:** $18.68\n**Total Gross Amount Due:** $205.50\n\n---\n*Source Image: data/real_invoices/images/53737787.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-53737787'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Breaking Free from Depression: Pathways to Wellness by Jesse H. Wright (English)</td><td>2.0</td><td>32.94</td><td>72.47</td></tr><tr><td>The Graphic Design Reference & Specification Book: Everything Graphic Designers</td><td>5.0</td><td>20.18</td><td>110.99</td></tr><tr><td>Escape from the Carnival of Horrors (Give Yourself Goosebumps) by R. L. Stine</td><td>4.0</td><td>5.01</td><td>22.04</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>186.82</td></tr><tr><td colspan='3'>Tax / VAT</td><td>18.68</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>205.50</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-53737787-ITEM-1",
+      "item_description": "Breaking Free from Depression: Pathways to Wellness by Jesse H. Wright (English)",
+      "quantity": 2.0,
+      "unit_price": 32.94,
+      "line_total": 72.47
+    },
+    {
+      "item_id": "INV-53737787-ITEM-2",
+      "item_description": "The Graphic Design Reference & Specification Book: Everything Graphic Designers",
+      "quantity": 5.0,
+      "unit_price": 20.18,
+      "line_total": 110.99
+    },
+    {
+      "item_id": "INV-53737787-ITEM-3",
+      "item_description": "Escape from the Carnival of Horrors (Give Yourself Goosebumps) by R. L. Stine",
+      "quantity": 4.0,
+      "unit_price": 5.01,
+      "line_total": 22.04
+    }
+  ],
+  "image_path": "data/real_invoices/images/53737787.jpg"
+}

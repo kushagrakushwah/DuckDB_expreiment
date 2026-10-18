@@ -1,0 +1,47 @@
+{
+  "invoice_id": "61356291",
+  "file_name": "61356291.jpg",
+  "vendor_name": "Chapman, Kim and Green",
+  "invoice_date": "2012-09-06",
+  "due_date": "2012-09-06",
+  "currency": "USD",
+  "subtotal": 192.81,
+  "tax_amount": 19.28,
+  "total_amount": 212.09,
+  "line_items_count": 4,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 61356291\n**Invoice Date:** 2012-09-06\n**Seller / Vendor:** Chapman, Kim and Green 64731 James Branch Smithmouth, NC 26872\n**Seller Tax ID:** 949-84-9105\n**Client / Bill To:** Rodriguez-Stevens 2280 Angela Plain Hortonshire, MS 93248\n**Client Tax ID:** 939-98-8477\n**IBAN / Payment Ref:** GB50ACIE59715038217063\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Wine Glasses Goblets Pair Clear Glass | 5.0 | $12.00 | $66.00 |\n| With Hooks Stemware Storage Multiple Uses Iron Wine Rack Hanging Glass | 4.0 | $28.08 | $123.55 |\n| Replacement Corkscrew Parts Spiral Worm Wine Opener Bottle Houdini | 1.0 | $7.50 | $8.25 |\n| HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 420 FL OZ (591 ml) NEW | 1.0 | $12.99 | $14.29 |\n\n**Subtotal (Net):** $192.81\n**Total Tax / VAT:** $19.28\n**Total Gross Amount Due:** $212.09\n\n---\n*Source Image: data/real_invoices/images/61356291.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-61356291'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Wine Glasses Goblets Pair Clear Glass</td><td>5.0</td><td>12.00</td><td>66.00</td></tr><tr><td>With Hooks Stemware Storage Multiple Uses Iron Wine Rack Hanging Glass</td><td>4.0</td><td>28.08</td><td>123.55</td></tr><tr><td>Replacement Corkscrew Parts Spiral Worm Wine Opener Bottle Houdini</td><td>1.0</td><td>7.50</td><td>8.25</td></tr><tr><td>HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 420 FL OZ (591 ml) NEW</td><td>1.0</td><td>12.99</td><td>14.29</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>192.81</td></tr><tr><td colspan='3'>Tax / VAT</td><td>19.28</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>212.09</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-61356291-ITEM-1",
+      "item_description": "Wine Glasses Goblets Pair Clear Glass",
+      "quantity": 5.0,
+      "unit_price": 12.0,
+      "line_total": 66.0
+    },
+    {
+      "item_id": "INV-61356291-ITEM-2",
+      "item_description": "With Hooks Stemware Storage Multiple Uses Iron Wine Rack Hanging Glass",
+      "quantity": 4.0,
+      "unit_price": 28.08,
+      "line_total": 123.55
+    },
+    {
+      "item_id": "INV-61356291-ITEM-3",
+      "item_description": "Replacement Corkscrew Parts Spiral Worm Wine Opener Bottle Houdini",
+      "quantity": 1.0,
+      "unit_price": 7.5,
+      "line_total": 8.25
+    },
+    {
+      "item_id": "INV-61356291-ITEM-4",
+      "item_description": "HOME ESSENTIALS GRADIENT STEMLESS WINE GLASSES SET OF 420 FL OZ (591 ml) NEW",
+      "quantity": 1.0,
+      "unit_price": 12.99,
+      "line_total": 14.29
+    }
+  ],
+  "image_path": "data/real_invoices/images/61356291.jpg"
+}

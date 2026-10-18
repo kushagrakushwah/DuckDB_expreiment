@@ -1,0 +1,68 @@
+{
+  "invoice_id": "12456262",
+  "file_name": "12456262.jpg",
+  "vendor_name": "Williams and Sons",
+  "invoice_date": "2012-02-22",
+  "due_date": "2012-02-22",
+  "currency": "USD",
+  "subtotal": 53334.33,
+  "tax_amount": 5333.43,
+  "total_amount": 58667.76,
+  "line_items_count": 7,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 12456262\n**Invoice Date:** 2012-02-22\n**Seller / Vendor:** Williams and Sons 655 Stephanie Inlet East James, DC 00603\n**Seller Tax ID:** 999-73-7345\n**Client / Bill To:** Medina-Kennedy 217 Veronica Glen Floydton, AZ 76011\n**Client Tax ID:** 924-94-5998\n**IBAN / Payment Ref:** GB44WCRF64229286775104\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 3 Pieces Fluffy Faux Fur Seat Pads 30cm/12inch Round Pad Floor Carpets | 4.0 | $14.66 | $64.50 |\n| Yilong 8x10ft Hand knotted Wool Carpets Home Decor Modern Villa Area Rug P39 | 3.0 | $5040.00 | $16632.00 |\n| Black+White Rectangle Shape Area Rug Carpet Floor Pad Doormat Mats Non-slip Z4F9 | 5.0 | $21.10 | $116.05 |\n| Indian Green Red Color 2.6'x4' Carpet Hand Knotted Living Room Traditional Chobi | 5.0 | $215.00 | $1182.50 |\n| Item #5 | 1.0 | $12960.00 | $14256.00 |\n| YILONG 4'x6' Golden Hand Knotted Silk Rugs Antistatic Family Room Carpet 085B | 5.0 | $4800.00 | $26400.00 |\n| 3D Stones Florals Corridor Carpet Doorway Mat Soft Antislip Living Room Area Rug | 1.0 | $15.19 | $16.71 |\n\n**Subtotal (Net):** $53334.33\n**Total Tax / VAT:** $5333.43\n**Total Gross Amount Due:** $58667.76\n\n---\n*Source Image: data/real_invoices/images/12456262.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-12456262'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>3 Pieces Fluffy Faux Fur Seat Pads 30cm/12inch Round Pad Floor Carpets</td><td>4.0</td><td>14.66</td><td>64.50</td></tr><tr><td>Yilong 8x10ft Hand knotted Wool Carpets Home Decor Modern Villa Area Rug P39</td><td>3.0</td><td>5040.00</td><td>16632.00</td></tr><tr><td>Black+White Rectangle Shape Area Rug Carpet Floor Pad Doormat Mats Non-slip Z4F9</td><td>5.0</td><td>21.10</td><td>116.05</td></tr><tr><td>Indian Green Red Color 2.6'x4' Carpet Hand Knotted Living Room Traditional Chobi</td><td>5.0</td><td>215.00</td><td>1182.50</td></tr><tr><td>Item #5</td><td>1.0</td><td>12960.00</td><td>14256.00</td></tr><tr><td>YILONG 4'x6' Golden Hand Knotted Silk Rugs Antistatic Family Room Carpet 085B</td><td>5.0</td><td>4800.00</td><td>26400.00</td></tr><tr><td>3D Stones Florals Corridor Carpet Doorway Mat Soft Antislip Living Room Area Rug</td><td>1.0</td><td>15.19</td><td>16.71</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>53334.33</td></tr><tr><td colspan='3'>Tax / VAT</td><td>5333.43</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>58667.76</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-12456262-ITEM-1",
+      "item_description": "3 Pieces Fluffy Faux Fur Seat Pads 30cm/12inch Round Pad Floor Carpets",
+      "quantity": 4.0,
+      "unit_price": 14.66,
+      "line_total": 64.5
+    },
+    {
+      "item_id": "INV-12456262-ITEM-2",
+      "item_description": "Yilong 8x10ft Hand knotted Wool Carpets Home Decor Modern Villa Area Rug P39",
+      "quantity": 3.0,
+      "unit_price": 5040.0,
+      "line_total": 16632.0
+    },
+    {
+      "item_id": "INV-12456262-ITEM-3",
+      "item_description": "Black+White Rectangle Shape Area Rug Carpet Floor Pad Doormat Mats Non-slip Z4F9",
+      "quantity": 5.0,
+      "unit_price": 21.1,
+      "line_total": 116.05
+    },
+    {
+      "item_id": "INV-12456262-ITEM-4",
+      "item_description": "Indian Green Red Color 2.6'x4' Carpet Hand Knotted Living Room Traditional Chobi",
+      "quantity": 5.0,
+      "unit_price": 215.0,
+      "line_total": 1182.5
+    },
+    {
+      "item_id": "INV-12456262-ITEM-5",
+      "item_description": "Item #5",
+      "quantity": 1.0,
+      "unit_price": 12960.0,
+      "line_total": 14256.0
+    },
+    {
+      "item_id": "INV-12456262-ITEM-6",
+      "item_description": "YILONG 4'x6' Golden Hand Knotted Silk Rugs Antistatic Family Room Carpet 085B",
+      "quantity": 5.0,
+      "unit_price": 4800.0,
+      "line_total": 26400.0
+    },
+    {
+      "item_id": "INV-12456262-ITEM-7",
+      "item_description": "3D Stones Florals Corridor Carpet Doorway Mat Soft Antislip Living Room Area Rug",
+      "quantity": 1.0,
+      "unit_price": 15.19,
+      "line_total": 16.71
+    }
+  ],
+  "image_path": "data/real_invoices/images/12456262.jpg"
+}

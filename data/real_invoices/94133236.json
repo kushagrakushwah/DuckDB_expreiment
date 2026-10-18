@@ -1,0 +1,61 @@
+{
+  "invoice_id": "94133236",
+  "file_name": "94133236.jpg",
+  "vendor_name": "Parker Inc",
+  "invoice_date": "2019-12-12",
+  "due_date": "2019-12-12",
+  "currency": "USD",
+  "subtotal": 103986.8,
+  "tax_amount": 10398.68,
+  "total_amount": 114385.48,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 94133236\n**Invoice Date:** 2019-12-12\n**Seller / Vendor:** Parker Inc 6686 Duran Brooks Apt. 003 Lake Jane, MA 15473\n**Seller Tax ID:** 980-76-7923\n**Client / Bill To:** Jefferson Group 87490 Le Brooks South Hollyberg, NH 35858\n**Client Tax ID:** 937-75-3172\n**IBAN / Payment Ref:** GB726HYW09265342345456\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 6'x3' Black Marble Top Dining Room Table Sets Scagaliola Very Pietradure Decor | 5.0 | $5710.22 | $31406.21 |\n| 16\"x16\" Marble Top Customize Table Lapis Lazuli Marquetry Inlaid Halloween Gift | 3.0 | $800.00 | $2640.00 |\n| 12\" Marble Coffee Side Table Top Lapis Peacock Floral Inlay Bedroom Decors W019 | 5.0 | $248.78 | $1368.29 |\n| 12\" White Marble Coffee Table Top Marquetry Multi Inlay Beautiful Room Home Arts | 5.0 | $398.76 | $2193.18 |\n| 30\"x30\" Marble Black Top Table Semi Precious Bird Art Black Friday Gift D\u00e9cor | 2.0 | $2399.00 | $5277.80 |\n| Antique Vintage style hand carved table *Unique* | 5.0 | $13000.00 | $71500.00 |\n\n**Subtotal (Net):** $103986.80\n**Total Tax / VAT:** $10398.68\n**Total Gross Amount Due:** $114385.48\n\n---\n*Source Image: data/real_invoices/images/94133236.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-94133236'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>6'x3' Black Marble Top Dining Room Table Sets Scagaliola Very Pietradure Decor</td><td>5.0</td><td>5710.22</td><td>31406.21</td></tr><tr><td>16\"x16\" Marble Top Customize Table Lapis Lazuli Marquetry Inlaid Halloween Gift</td><td>3.0</td><td>800.00</td><td>2640.00</td></tr><tr><td>12\" Marble Coffee Side Table Top Lapis Peacock Floral Inlay Bedroom Decors W019</td><td>5.0</td><td>248.78</td><td>1368.29</td></tr><tr><td>12\" White Marble Coffee Table Top Marquetry Multi Inlay Beautiful Room Home Arts</td><td>5.0</td><td>398.76</td><td>2193.18</td></tr><tr><td>30\"x30\" Marble Black Top Table Semi Precious Bird Art Black Friday Gift D\u00e9cor</td><td>2.0</td><td>2399.00</td><td>5277.80</td></tr><tr><td>Antique Vintage style hand carved table *Unique*</td><td>5.0</td><td>13000.00</td><td>71500.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>103986.80</td></tr><tr><td colspan='3'>Tax / VAT</td><td>10398.68</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>114385.48</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-94133236-ITEM-1",
+      "item_description": "6'x3' Black Marble Top Dining Room Table Sets Scagaliola Very Pietradure Decor",
+      "quantity": 5.0,
+      "unit_price": 5710.22,
+      "line_total": 31406.21
+    },
+    {
+      "item_id": "INV-94133236-ITEM-2",
+      "item_description": "16\"x16\" Marble Top Customize Table Lapis Lazuli Marquetry Inlaid Halloween Gift",
+      "quantity": 3.0,
+      "unit_price": 800.0,
+      "line_total": 2640.0
+    },
+    {
+      "item_id": "INV-94133236-ITEM-3",
+      "item_description": "12\" Marble Coffee Side Table Top Lapis Peacock Floral Inlay Bedroom Decors W019",
+      "quantity": 5.0,
+      "unit_price": 248.78,
+      "line_total": 1368.29
+    },
+    {
+      "item_id": "INV-94133236-ITEM-4",
+      "item_description": "12\" White Marble Coffee Table Top Marquetry Multi Inlay Beautiful Room Home Arts",
+      "quantity": 5.0,
+      "unit_price": 398.76,
+      "line_total": 2193.18
+    },
+    {
+      "item_id": "INV-94133236-ITEM-5",
+      "item_description": "30\"x30\" Marble Black Top Table Semi Precious Bird Art Black Friday Gift D\u00e9cor",
+      "quantity": 2.0,
+      "unit_price": 2399.0,
+      "line_total": 5277.8
+    },
+    {
+      "item_id": "INV-94133236-ITEM-6",
+      "item_description": "Antique Vintage style hand carved table *Unique*",
+      "quantity": 5.0,
+      "unit_price": 13000.0,
+      "line_total": 71500.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/94133236.jpg"
+}

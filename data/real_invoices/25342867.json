@@ -1,0 +1,61 @@
+{
+  "invoice_id": "25342867",
+  "file_name": "25342867.jpg",
+  "vendor_name": "Scott LLC",
+  "invoice_date": "2015-01-10",
+  "due_date": "2015-01-10",
+  "currency": "USD",
+  "subtotal": 215.9,
+  "tax_amount": 21.59,
+  "total_amount": 237.49,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 25342867\n**Invoice Date:** 2015-01-10\n**Seller / Vendor:** Scott LLC 9711 Baker Estates Suite 344 New Cheryl, MN 85424\n**Seller Tax ID:** 930-98-9727\n**Client / Bill To:** Brown, Miller and Wise 3723 Scott Glen Lake Christophershire, AR 12597\n**Client Tax ID:** 943-78-4216\n**IBAN / Payment Ref:** GB48GPKP09511878652700\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| VTG 1970s MCM Brown Steel Tube Wall or Desk Mounted 12-Wine Rack Bottle Holder | 1.0 | $34.00 | $37.40 |\n| Stemless wine glass Etched coordinates of Myakka River State Park, Very Good | 4.0 | $2.99 | $13.16 |\n| Hazlitt 1852 Vineyard home of the red cat wine glass | 4.0 | $3.00 | $13.20 |\n| Vintage Metal Art Sculpture Carving Chef Wine Bottle Holder and Display Tin Chef | 3.0 | $25.98 | $85.73 |\n| Brand new Cuisinart CWO-25 Electric Wine Opener, Stainless Steel | 1.0 | $20.00 | $22.00 |\n| Elegant Wine Glasses w/Hand Splatter Painted Accents (3pcs) | 3.0 | $20.00 | $66.00 |\n\n**Subtotal (Net):** $215.90\n**Total Tax / VAT:** $21.59\n**Total Gross Amount Due:** $237.49\n\n---\n*Source Image: data/real_invoices/images/25342867.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-25342867'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>VTG 1970s MCM Brown Steel Tube Wall or Desk Mounted 12-Wine Rack Bottle Holder</td><td>1.0</td><td>34.00</td><td>37.40</td></tr><tr><td>Stemless wine glass Etched coordinates of Myakka River State Park, Very Good</td><td>4.0</td><td>2.99</td><td>13.16</td></tr><tr><td>Hazlitt 1852 Vineyard home of the red cat wine glass</td><td>4.0</td><td>3.00</td><td>13.20</td></tr><tr><td>Vintage Metal Art Sculpture Carving Chef Wine Bottle Holder and Display Tin Chef</td><td>3.0</td><td>25.98</td><td>85.73</td></tr><tr><td>Brand new Cuisinart CWO-25 Electric Wine Opener, Stainless Steel</td><td>1.0</td><td>20.00</td><td>22.00</td></tr><tr><td>Elegant Wine Glasses w/Hand Splatter Painted Accents (3pcs)</td><td>3.0</td><td>20.00</td><td>66.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>215.90</td></tr><tr><td colspan='3'>Tax / VAT</td><td>21.59</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>237.49</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-25342867-ITEM-1",
+      "item_description": "VTG 1970s MCM Brown Steel Tube Wall or Desk Mounted 12-Wine Rack Bottle Holder",
+      "quantity": 1.0,
+      "unit_price": 34.0,
+      "line_total": 37.4
+    },
+    {
+      "item_id": "INV-25342867-ITEM-2",
+      "item_description": "Stemless wine glass Etched coordinates of Myakka River State Park, Very Good",
+      "quantity": 4.0,
+      "unit_price": 2.99,
+      "line_total": 13.16
+    },
+    {
+      "item_id": "INV-25342867-ITEM-3",
+      "item_description": "Hazlitt 1852 Vineyard home of the red cat wine glass",
+      "quantity": 4.0,
+      "unit_price": 3.0,
+      "line_total": 13.2
+    },
+    {
+      "item_id": "INV-25342867-ITEM-4",
+      "item_description": "Vintage Metal Art Sculpture Carving Chef Wine Bottle Holder and Display Tin Chef",
+      "quantity": 3.0,
+      "unit_price": 25.98,
+      "line_total": 85.73
+    },
+    {
+      "item_id": "INV-25342867-ITEM-5",
+      "item_description": "Brand new Cuisinart CWO-25 Electric Wine Opener, Stainless Steel",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "line_total": 22.0
+    },
+    {
+      "item_id": "INV-25342867-ITEM-6",
+      "item_description": "Elegant Wine Glasses w/Hand Splatter Painted Accents (3pcs)",
+      "quantity": 3.0,
+      "unit_price": 20.0,
+      "line_total": 66.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/25342867.jpg"
+}

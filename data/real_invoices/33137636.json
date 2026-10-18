@@ -1,0 +1,61 @@
+{
+  "invoice_id": "33137636",
+  "file_name": "33137636.jpg",
+  "vendor_name": "Mckenzie PLC PSC",
+  "invoice_date": "2015-07-20",
+  "due_date": "2015-07-20",
+  "currency": "USD",
+  "subtotal": 195.48,
+  "tax_amount": 19.55,
+  "total_amount": 215.03,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 33137636\n**Invoice Date:** 2015-07-20\n**Seller / Vendor:** Mckenzie PLC PSC 9675, Box 3115 APO AP 66862\n**Seller Tax ID:** 989-72-9794\n**Client / Bill To:** Schultz PLC PSC 8737, Box 8683 APO AE 12600\n**Client Tax ID:** 993-86-5833\n**IBAN / Payment Ref:** GB05ZUCN48071007458396\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| The Fountainhead: 50th Anniversary Edition | 4.0 | $4.49 | $19.76 |\n| A Million Little Bricks The Unofficial Illustrated History of the LE | 3.0 | $4.49 | $14.82 |\n| In the Footsteps of the Russian Snowman (Paperback or Softback) | 4.0 | $25.87 | $113.83 |\n| The Epic of Gilgamesh | 5.0 | $4.49 | $24.70 |\n| Evolutionary Analysis | 5.0 | $6.43 | $35.36 |\n| 300,000 PLR Articles, 2,000 E-books + More | 3.0 | $1.99 | $6.57 |\n\n**Subtotal (Net):** $195.48\n**Total Tax / VAT:** $19.55\n**Total Gross Amount Due:** $215.03\n\n---\n*Source Image: data/real_invoices/images/33137636.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-33137636'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>The Fountainhead: 50th Anniversary Edition</td><td>4.0</td><td>4.49</td><td>19.76</td></tr><tr><td>A Million Little Bricks The Unofficial Illustrated History of the LE</td><td>3.0</td><td>4.49</td><td>14.82</td></tr><tr><td>In the Footsteps of the Russian Snowman (Paperback or Softback)</td><td>4.0</td><td>25.87</td><td>113.83</td></tr><tr><td>The Epic of Gilgamesh</td><td>5.0</td><td>4.49</td><td>24.70</td></tr><tr><td>Evolutionary Analysis</td><td>5.0</td><td>6.43</td><td>35.36</td></tr><tr><td>300,000 PLR Articles, 2,000 E-books + More</td><td>3.0</td><td>1.99</td><td>6.57</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>195.48</td></tr><tr><td colspan='3'>Tax / VAT</td><td>19.55</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>215.03</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-33137636-ITEM-1",
+      "item_description": "The Fountainhead: 50th Anniversary Edition",
+      "quantity": 4.0,
+      "unit_price": 4.49,
+      "line_total": 19.76
+    },
+    {
+      "item_id": "INV-33137636-ITEM-2",
+      "item_description": "A Million Little Bricks The Unofficial Illustrated History of the LE",
+      "quantity": 3.0,
+      "unit_price": 4.49,
+      "line_total": 14.82
+    },
+    {
+      "item_id": "INV-33137636-ITEM-3",
+      "item_description": "In the Footsteps of the Russian Snowman (Paperback or Softback)",
+      "quantity": 4.0,
+      "unit_price": 25.87,
+      "line_total": 113.83
+    },
+    {
+      "item_id": "INV-33137636-ITEM-4",
+      "item_description": "The Epic of Gilgamesh",
+      "quantity": 5.0,
+      "unit_price": 4.49,
+      "line_total": 24.7
+    },
+    {
+      "item_id": "INV-33137636-ITEM-5",
+      "item_description": "Evolutionary Analysis",
+      "quantity": 5.0,
+      "unit_price": 6.43,
+      "line_total": 35.36
+    },
+    {
+      "item_id": "INV-33137636-ITEM-6",
+      "item_description": "300,000 PLR Articles, 2,000 E-books + More",
+      "quantity": 3.0,
+      "unit_price": 1.99,
+      "line_total": 6.57
+    }
+  ],
+  "image_path": "data/real_invoices/images/33137636.jpg"
+}

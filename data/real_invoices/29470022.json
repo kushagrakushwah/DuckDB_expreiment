@@ -1,0 +1,47 @@
+{
+  "invoice_id": "29470022",
+  "file_name": "29470022.jpg",
+  "vendor_name": "Sanchez Group",
+  "invoice_date": "2019-02-17",
+  "due_date": "2019-02-17",
+  "currency": "USD",
+  "subtotal": 522.28,
+  "tax_amount": 52.23,
+  "total_amount": 574.51,
+  "line_items_count": 4,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 29470022\n**Invoice Date:** 2019-02-17\n**Seller / Vendor:** Sanchez Group 5214 Angela Field West Elizabethchester, TN 38827\n**Seller Tax ID:** 936-94-8863\n**Client / Bill To:** Estrada-Vasquez 4555 Morgan Key Caitlinland, WV 65224\n**Client Tax ID:** 965-70-2868\n**IBAN / Payment Ref:** GB50JVRS02423611510258\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Imitation Wool Carpet Rugs Koala Panda Plush Living Room Blankets Non Slip Decor | 5.0 | $26.11 | $143.61 |\n| Romantic Rose Flowers Area Rugs Kitchen Living Room Floor Mat Non-slip Carpets | 5.0 | $13.37 | $73.53 |\n| 3D Printed Mat Vortex Illusion Living room Rug Carpet Floors Doors Round Mat | 3.0 | $11.63 | $38.38 |\n| handmade carpet rug vtg moroccan boucherouite wollen 9.4*3.5 /288cm*107cm | 1.0 | $289.99 | $318.99 |\n\n**Subtotal (Net):** $522.28\n**Total Tax / VAT:** $52.23\n**Total Gross Amount Due:** $574.51\n\n---\n*Source Image: data/real_invoices/images/29470022.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-29470022'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Imitation Wool Carpet Rugs Koala Panda Plush Living Room Blankets Non Slip Decor</td><td>5.0</td><td>26.11</td><td>143.61</td></tr><tr><td>Romantic Rose Flowers Area Rugs Kitchen Living Room Floor Mat Non-slip Carpets</td><td>5.0</td><td>13.37</td><td>73.53</td></tr><tr><td>3D Printed Mat Vortex Illusion Living room Rug Carpet Floors Doors Round Mat</td><td>3.0</td><td>11.63</td><td>38.38</td></tr><tr><td>handmade carpet rug vtg moroccan boucherouite wollen 9.4*3.5 /288cm*107cm</td><td>1.0</td><td>289.99</td><td>318.99</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>522.28</td></tr><tr><td colspan='3'>Tax / VAT</td><td>52.23</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>574.51</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-29470022-ITEM-1",
+      "item_description": "Imitation Wool Carpet Rugs Koala Panda Plush Living Room Blankets Non Slip Decor",
+      "quantity": 5.0,
+      "unit_price": 26.11,
+      "line_total": 143.61
+    },
+    {
+      "item_id": "INV-29470022-ITEM-2",
+      "item_description": "Romantic Rose Flowers Area Rugs Kitchen Living Room Floor Mat Non-slip Carpets",
+      "quantity": 5.0,
+      "unit_price": 13.37,
+      "line_total": 73.53
+    },
+    {
+      "item_id": "INV-29470022-ITEM-3",
+      "item_description": "3D Printed Mat Vortex Illusion Living room Rug Carpet Floors Doors Round Mat",
+      "quantity": 3.0,
+      "unit_price": 11.63,
+      "line_total": 38.38
+    },
+    {
+      "item_id": "INV-29470022-ITEM-4",
+      "item_description": "handmade carpet rug vtg moroccan boucherouite wollen 9.4*3.5 /288cm*107cm",
+      "quantity": 1.0,
+      "unit_price": 289.99,
+      "line_total": 318.99
+    }
+  ],
+  "image_path": "data/real_invoices/images/29470022.jpg"
+}

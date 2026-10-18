@@ -1,0 +1,61 @@
+{
+  "invoice_id": "76999802",
+  "file_name": "76999802.jpg",
+  "vendor_name": "Nolan, Williams and Roach",
+  "invoice_date": "2020-07-14",
+  "due_date": "2020-07-14",
+  "currency": "USD",
+  "subtotal": 74237.4,
+  "tax_amount": 7423.74,
+  "total_amount": 81661.14,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 76999802\n**Invoice Date:** 2020-07-14\n**Seller / Vendor:** Nolan, Williams and Roach 6916 Terry Forest Kelseyland, WI 95749\n**Seller Tax ID:** 962-85-6776\n**Client / Bill To:** Dixon, Hall and Payne 104 Maxwell Coves Merrittport, MI 90167\n**Client Tax ID:** 953-71-2727\n**IBAN / Payment Ref:** GB64FEHQ32175908346356\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 26\"x26\" Marble Black Top Coffee Table Inlay Floral Pietradura Art Christmas Gift | 1.0 | $1489.00 | $1637.90 |\n| October Mist Deer Metal Side Table by Rosemary Millette | 4.0 | $89.95 | $395.78 |\n| 36\" Agate Center Dining Table Top Precious Stone Hallway Furniture Decors A026 | 4.0 | $1490.00 | $6556.00 |\n| 7'x4' Black Marble Pietra dura Dining Table Top Furniture Inlay Patio Decor | 5.0 | $9649.72 | $53073.46 |\n| 34\"x34\" Marble Round Top Coffee Table Elephant Floral Inlaid Art Christmas Gifts | 3.0 | $1900.00 | $6270.00 |\n| Semi precious Stone Work Inlaid Dinning Table Top Marble Kitchen Table 42 Inches | 5.0 | $2496.00 | $13728.00 |\n\n**Subtotal (Net):** $74237.40\n**Total Tax / VAT:** $7423.74\n**Total Gross Amount Due:** $81661.14\n\n---\n*Source Image: data/real_invoices/images/76999802.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-76999802'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>26\"x26\" Marble Black Top Coffee Table Inlay Floral Pietradura Art Christmas Gift</td><td>1.0</td><td>1489.00</td><td>1637.90</td></tr><tr><td>October Mist Deer Metal Side Table by Rosemary Millette</td><td>4.0</td><td>89.95</td><td>395.78</td></tr><tr><td>36\" Agate Center Dining Table Top Precious Stone Hallway Furniture Decors A026</td><td>4.0</td><td>1490.00</td><td>6556.00</td></tr><tr><td>7'x4' Black Marble Pietra dura Dining Table Top Furniture Inlay Patio Decor</td><td>5.0</td><td>9649.72</td><td>53073.46</td></tr><tr><td>34\"x34\" Marble Round Top Coffee Table Elephant Floral Inlaid Art Christmas Gifts</td><td>3.0</td><td>1900.00</td><td>6270.00</td></tr><tr><td>Semi precious Stone Work Inlaid Dinning Table Top Marble Kitchen Table 42 Inches</td><td>5.0</td><td>2496.00</td><td>13728.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>74237.40</td></tr><tr><td colspan='3'>Tax / VAT</td><td>7423.74</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>81661.14</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-76999802-ITEM-1",
+      "item_description": "26\"x26\" Marble Black Top Coffee Table Inlay Floral Pietradura Art Christmas Gift",
+      "quantity": 1.0,
+      "unit_price": 1489.0,
+      "line_total": 1637.9
+    },
+    {
+      "item_id": "INV-76999802-ITEM-2",
+      "item_description": "October Mist Deer Metal Side Table by Rosemary Millette",
+      "quantity": 4.0,
+      "unit_price": 89.95,
+      "line_total": 395.78
+    },
+    {
+      "item_id": "INV-76999802-ITEM-3",
+      "item_description": "36\" Agate Center Dining Table Top Precious Stone Hallway Furniture Decors A026",
+      "quantity": 4.0,
+      "unit_price": 1490.0,
+      "line_total": 6556.0
+    },
+    {
+      "item_id": "INV-76999802-ITEM-4",
+      "item_description": "7'x4' Black Marble Pietra dura Dining Table Top Furniture Inlay Patio Decor",
+      "quantity": 5.0,
+      "unit_price": 9649.72,
+      "line_total": 53073.46
+    },
+    {
+      "item_id": "INV-76999802-ITEM-5",
+      "item_description": "34\"x34\" Marble Round Top Coffee Table Elephant Floral Inlaid Art Christmas Gifts",
+      "quantity": 3.0,
+      "unit_price": 1900.0,
+      "line_total": 6270.0
+    },
+    {
+      "item_id": "INV-76999802-ITEM-6",
+      "item_description": "Semi precious Stone Work Inlaid Dinning Table Top Marble Kitchen Table 42 Inches",
+      "quantity": 5.0,
+      "unit_price": 2496.0,
+      "line_total": 13728.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/76999802.jpg"
+}

@@ -1,0 +1,40 @@
+{
+  "invoice_id": "49565075",
+  "file_name": "49565075.jpg",
+  "vendor_name": "Kane-Morgan",
+  "invoice_date": "2019-10-28",
+  "due_date": "2019-10-28",
+  "currency": "USD",
+  "subtotal": 87.94,
+  "tax_amount": 8.79,
+  "total_amount": 96.73,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 49565075\n**Invoice Date:** 2019-10-28\n**Seller / Vendor:** Kane-Morgan 968 Carr Mission Apt. 320 Bernardville, VA 28211\n**Seller Tax ID:** 964-95-3813\n**Client / Bill To:** Garcia Inc 445 Haas Viaduct Suite 454 Michaelhaven, LA 32852\n**Client Tax ID:** 909-75-5482\n**IBAN / Payment Ref:** GB73WCJ55232646970614\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver | 3.0 | $19.98 | $65.93 |\n| Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H | 1.0 | $8.00 | $8.80 |\n| Lolita Congratulations\" Hand Painted and Decorated Wine Glass NIB | 1.0 | $20.00 | $22.00 |\n\n**Subtotal (Net):** $87.94\n**Total Tax / VAT:** $8.79\n**Total Gross Amount Due:** $96.73\n\n---\n*Source Image: data/real_invoices/images/49565075.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-49565075'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver</td><td>3.0</td><td>19.98</td><td>65.93</td></tr><tr><td>Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H</td><td>1.0</td><td>8.00</td><td>8.80</td></tr><tr><td>Lolita Congratulations\" Hand Painted and Decorated Wine Glass NIB</td><td>1.0</td><td>20.00</td><td>22.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>87.94</td></tr><tr><td colspan='3'>Tax / VAT</td><td>8.79</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>96.73</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-49565075-ITEM-1",
+      "item_description": "Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver",
+      "quantity": 3.0,
+      "unit_price": 19.98,
+      "line_total": 65.93
+    },
+    {
+      "item_id": "INV-49565075-ITEM-2",
+      "item_description": "Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H",
+      "quantity": 1.0,
+      "unit_price": 8.0,
+      "line_total": 8.8
+    },
+    {
+      "item_id": "INV-49565075-ITEM-3",
+      "item_description": "Lolita Congratulations\" Hand Painted and Decorated Wine Glass NIB",
+      "quantity": 1.0,
+      "unit_price": 20.0,
+      "line_total": 22.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/49565075.jpg"
+}

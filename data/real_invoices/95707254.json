@@ -1,0 +1,54 @@
+{
+  "invoice_id": "95707254",
+  "file_name": "95707254.jpg",
+  "vendor_name": "Cobb, Allen and Diaz",
+  "invoice_date": "2020-07-20",
+  "due_date": "2020-07-20",
+  "currency": "USD",
+  "subtotal": 275.07,
+  "tax_amount": 27.51,
+  "total_amount": 302.58,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 95707254\n**Invoice Date:** 2020-07-20\n**Seller / Vendor:** Cobb, Allen and Diaz 8378 Long Station Apt. 840 New Angelabury, CA 19896\n**Seller Tax ID:** 929-85-5933\n**Client / Bill To:** Carr, Odom and Jones 233 Justin Summit West Susan, KY 07746\n**Client Tax ID:** 923-94-2802\n**IBAN / Payment Ref:** GB07AGJU73318785668495\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| New KID CUDI \"WZRD\" Rap Hip Hop Soul Music Men's Black T-Shirt Size S to 3XL | 5.0 | $22.49 | $123.69 |\n| Sperry Top-Sider Boys Toddlers Lace Tie Boat Shoes Brown 13M New | 1.0 | $37.69 | $41.46 |\n| TODDLER SHAQ HIGH TOP SHOES SIZE 4 | 3.0 | $9.99 | $32.97 |\n| PLAE SAM 2.0 Shoes Sandals Breathable Summer Strap Navy Blue Size 12 Kid | 1.0 | $15.00 | $16.50 |\n| Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats | 4.0 | $19.99 | $87.96 |\n\n**Subtotal (Net):** $275.07\n**Total Tax / VAT:** $27.51\n**Total Gross Amount Due:** $302.58\n\n---\n*Source Image: data/real_invoices/images/95707254.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-95707254'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>New KID CUDI \"WZRD\" Rap Hip Hop Soul Music Men's Black T-Shirt Size S to 3XL</td><td>5.0</td><td>22.49</td><td>123.69</td></tr><tr><td>Sperry Top-Sider Boys Toddlers Lace Tie Boat Shoes Brown 13M New</td><td>1.0</td><td>37.69</td><td>41.46</td></tr><tr><td>TODDLER SHAQ HIGH TOP SHOES SIZE 4</td><td>3.0</td><td>9.99</td><td>32.97</td></tr><tr><td>PLAE SAM 2.0 Shoes Sandals Breathable Summer Strap Navy Blue Size 12 Kid</td><td>1.0</td><td>15.00</td><td>16.50</td></tr><tr><td>Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats</td><td>4.0</td><td>19.99</td><td>87.96</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>275.07</td></tr><tr><td colspan='3'>Tax / VAT</td><td>27.51</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>302.58</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-95707254-ITEM-1",
+      "item_description": "New KID CUDI \"WZRD\" Rap Hip Hop Soul Music Men's Black T-Shirt Size S to 3XL",
+      "quantity": 5.0,
+      "unit_price": 22.49,
+      "line_total": 123.69
+    },
+    {
+      "item_id": "INV-95707254-ITEM-2",
+      "item_description": "Sperry Top-Sider Boys Toddlers Lace Tie Boat Shoes Brown 13M New",
+      "quantity": 1.0,
+      "unit_price": 37.69,
+      "line_total": 41.46
+    },
+    {
+      "item_id": "INV-95707254-ITEM-3",
+      "item_description": "TODDLER SHAQ HIGH TOP SHOES SIZE 4",
+      "quantity": 3.0,
+      "unit_price": 9.99,
+      "line_total": 32.97
+    },
+    {
+      "item_id": "INV-95707254-ITEM-4",
+      "item_description": "PLAE SAM 2.0 Shoes Sandals Breathable Summer Strap Navy Blue Size 12 Kid",
+      "quantity": 1.0,
+      "unit_price": 15.0,
+      "line_total": 16.5
+    },
+    {
+      "item_id": "INV-95707254-ITEM-5",
+      "item_description": "Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats",
+      "quantity": 4.0,
+      "unit_price": 19.99,
+      "line_total": 87.96
+    }
+  ],
+  "image_path": "data/real_invoices/images/95707254.jpg"
+}

@@ -1,0 +1,40 @@
+{
+  "invoice_id": "34911755",
+  "file_name": "34911755.jpg",
+  "vendor_name": "Graham, Floyd and Johnson PSC",
+  "invoice_date": "2019-01-30",
+  "due_date": "2019-01-30",
+  "currency": "USD",
+  "subtotal": 181.09,
+  "tax_amount": 18.11,
+  "total_amount": 199.2,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 34911755\n**Invoice Date:** 2019-01-30\n**Seller / Vendor:** Graham, Floyd and Johnson PSC 4671, Box 8111 APO AA 17287\n**Seller Tax ID:** 915-82-2212\n**Client / Bill To:** Martin, Russo and Gaines 439 Savannah Ports Apt. 792 East Adrianton, OR 66623\n**Client Tax ID:** 910-78-0055\n**IBAN / Payment Ref:** GB96HTSB65053102617380\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Metal Storage Shelf Wine Glass Rack Wine Glasses for The Cabinet | 5.0 | $22.42 | $123.31 |\n| Wine Things Unlimited Tipsy Wine Elf Pewter Wine Bottle Stopper/Cork | 1.0 | $8.99 | $9.89 |\n| Set of 2 Stemless Christmas Wine Glasses NEW | 5.0 | $12.00 | $66.00 |\n\n**Subtotal (Net):** $181.09\n**Total Tax / VAT:** $18.11\n**Total Gross Amount Due:** $199.20\n\n---\n*Source Image: data/real_invoices/images/34911755.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-34911755'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Metal Storage Shelf Wine Glass Rack Wine Glasses for The Cabinet</td><td>5.0</td><td>22.42</td><td>123.31</td></tr><tr><td>Wine Things Unlimited Tipsy Wine Elf Pewter Wine Bottle Stopper/Cork</td><td>1.0</td><td>8.99</td><td>9.89</td></tr><tr><td>Set of 2 Stemless Christmas Wine Glasses NEW</td><td>5.0</td><td>12.00</td><td>66.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>181.09</td></tr><tr><td colspan='3'>Tax / VAT</td><td>18.11</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>199.20</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-34911755-ITEM-1",
+      "item_description": "Metal Storage Shelf Wine Glass Rack Wine Glasses for The Cabinet",
+      "quantity": 5.0,
+      "unit_price": 22.42,
+      "line_total": 123.31
+    },
+    {
+      "item_id": "INV-34911755-ITEM-2",
+      "item_description": "Wine Things Unlimited Tipsy Wine Elf Pewter Wine Bottle Stopper/Cork",
+      "quantity": 1.0,
+      "unit_price": 8.99,
+      "line_total": 9.89
+    },
+    {
+      "item_id": "INV-34911755-ITEM-3",
+      "item_description": "Set of 2 Stemless Christmas Wine Glasses NEW",
+      "quantity": 5.0,
+      "unit_price": 12.0,
+      "line_total": 66.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/34911755.jpg"
+}

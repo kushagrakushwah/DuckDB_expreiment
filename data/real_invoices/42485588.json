@@ -1,0 +1,33 @@
+{
+  "invoice_id": "42485588",
+  "file_name": "42485588.jpg",
+  "vendor_name": "Zuniga and Sons",
+  "invoice_date": "2012-03-15",
+  "due_date": "2012-03-15",
+  "currency": "USD",
+  "subtotal": 194.92,
+  "tax_amount": 19.49,
+  "total_amount": 214.41,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 42485588\n**Invoice Date:** 2012-03-15\n**Seller / Vendor:** Zuniga and Sons 455 Jones Trace Suite 479 Port Sarah, NM 29233\n**Seller Tax ID:** 923-88-8185\n**Client / Bill To:** Knight-Brown 316 Garrett Valleys Lake John, LA 21710\n**Client Tax ID:** 970-99-7937\n**IBAN / Payment Ref:** GB47NOK145420514797164\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 3 Gal 12L Moonshine Still Stainless Steel Water Wine Alcohol Distiller Equipment | 1.0 | $99.92 | $109.91 |\n| Custom wine glass | 5.0 | $19.00 | $104.50 |\n\n**Subtotal (Net):** $194.92\n**Total Tax / VAT:** $19.49\n**Total Gross Amount Due:** $214.41\n\n---\n*Source Image: data/real_invoices/images/42485588.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-42485588'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>3 Gal 12L Moonshine Still Stainless Steel Water Wine Alcohol Distiller Equipment</td><td>1.0</td><td>99.92</td><td>109.91</td></tr><tr><td>Custom wine glass</td><td>5.0</td><td>19.00</td><td>104.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>194.92</td></tr><tr><td colspan='3'>Tax / VAT</td><td>19.49</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>214.41</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-42485588-ITEM-1",
+      "item_description": "3 Gal 12L Moonshine Still Stainless Steel Water Wine Alcohol Distiller Equipment",
+      "quantity": 1.0,
+      "unit_price": 99.92,
+      "line_total": 109.91
+    },
+    {
+      "item_id": "INV-42485588-ITEM-2",
+      "item_description": "Custom wine glass",
+      "quantity": 5.0,
+      "unit_price": 19.0,
+      "line_total": 104.5
+    }
+  ],
+  "image_path": "data/real_invoices/images/42485588.jpg"
+}

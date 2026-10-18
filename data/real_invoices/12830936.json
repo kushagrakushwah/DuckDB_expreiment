@@ -1,0 +1,68 @@
+{
+  "invoice_id": "12830936",
+  "file_name": "12830936.jpg",
+  "vendor_name": "Johnson LLC",
+  "invoice_date": "2021-04-27",
+  "due_date": "2021-04-27",
+  "currency": "USD",
+  "subtotal": 5936.86,
+  "tax_amount": 593.69,
+  "total_amount": 6530.55,
+  "line_items_count": 7,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 12830936\n**Invoice Date:** 2021-04-27\n**Seller / Vendor:** Johnson LLC 5736 Boyer Square Suite 316 Daniellebury, MI 72789\n**Seller Tax ID:** 980-77-0423\n**Client / Bill To:** Smith, Anderson and Ward 4365 Osborn Shoals North Bradleyton, NC 21207\n**Client Tax ID:** 914-78-1124\n**IBAN / Payment Ref:** GB30QDVO20178698471358\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| FAST Dell Windows 10 Desktop Computer Core 2 Duo 4GB Ram 250GB DVD WiFi 22\" LCD | 1.0 | $169.95 | $186.95 |\n| Desktop Computer Gaming PC Build Your Own Ryzen 3000G 3200G 3.5Ghz+ Vega or GTX | 5.0 | $579.00 | $3184.50 |\n| HP ProDesk G1 Desktop Computer Core i3 3.4GHz 8GB 500GB HD 19\" LCD Windows 10 PC | 1.0 | $119.95 | $131.95 |\n| AMD Dual Core 3.9Ghz 4GB DDR3 500GB HDD WiFi Windows 10 Desktop PC Computer | 2.0 | $259.99 | $571.98 |\n| personal computer | 4.0 | $59.00 | $259.60 |\n| desktop computers gaming build from scratch | 2.0 | $188.00 | $413.60 |\n| Gaming PC Desktop Computer Intel i7 RGB, GTX 1660, 16GB RAM, 2TB HDD, 480GB SSD | 2.0 | $809.99 | $1781.98 |\n\n**Subtotal (Net):** $5936.86\n**Total Tax / VAT:** $593.69\n**Total Gross Amount Due:** $6530.55\n\n---\n*Source Image: data/real_invoices/images/12830936.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-12830936'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>FAST Dell Windows 10 Desktop Computer Core 2 Duo 4GB Ram 250GB DVD WiFi 22\" LCD</td><td>1.0</td><td>169.95</td><td>186.95</td></tr><tr><td>Desktop Computer Gaming PC Build Your Own Ryzen 3000G 3200G 3.5Ghz+ Vega or GTX</td><td>5.0</td><td>579.00</td><td>3184.50</td></tr><tr><td>HP ProDesk G1 Desktop Computer Core i3 3.4GHz 8GB 500GB HD 19\" LCD Windows 10 PC</td><td>1.0</td><td>119.95</td><td>131.95</td></tr><tr><td>AMD Dual Core 3.9Ghz 4GB DDR3 500GB HDD WiFi Windows 10 Desktop PC Computer</td><td>2.0</td><td>259.99</td><td>571.98</td></tr><tr><td>personal computer</td><td>4.0</td><td>59.00</td><td>259.60</td></tr><tr><td>desktop computers gaming build from scratch</td><td>2.0</td><td>188.00</td><td>413.60</td></tr><tr><td>Gaming PC Desktop Computer Intel i7 RGB, GTX 1660, 16GB RAM, 2TB HDD, 480GB SSD</td><td>2.0</td><td>809.99</td><td>1781.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5936.86</td></tr><tr><td colspan='3'>Tax / VAT</td><td>593.69</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>6530.55</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-12830936-ITEM-1",
+      "item_description": "FAST Dell Windows 10 Desktop Computer Core 2 Duo 4GB Ram 250GB DVD WiFi 22\" LCD",
+      "quantity": 1.0,
+      "unit_price": 169.95,
+      "line_total": 186.95
+    },
+    {
+      "item_id": "INV-12830936-ITEM-2",
+      "item_description": "Desktop Computer Gaming PC Build Your Own Ryzen 3000G 3200G 3.5Ghz+ Vega or GTX",
+      "quantity": 5.0,
+      "unit_price": 579.0,
+      "line_total": 3184.5
+    },
+    {
+      "item_id": "INV-12830936-ITEM-3",
+      "item_description": "HP ProDesk G1 Desktop Computer Core i3 3.4GHz 8GB 500GB HD 19\" LCD Windows 10 PC",
+      "quantity": 1.0,
+      "unit_price": 119.95,
+      "line_total": 131.95
+    },
+    {
+      "item_id": "INV-12830936-ITEM-4",
+      "item_description": "AMD Dual Core 3.9Ghz 4GB DDR3 500GB HDD WiFi Windows 10 Desktop PC Computer",
+      "quantity": 2.0,
+      "unit_price": 259.99,
+      "line_total": 571.98
+    },
+    {
+      "item_id": "INV-12830936-ITEM-5",
+      "item_description": "personal computer",
+      "quantity": 4.0,
+      "unit_price": 59.0,
+      "line_total": 259.6
+    },
+    {
+      "item_id": "INV-12830936-ITEM-6",
+      "item_description": "desktop computers gaming build from scratch",
+      "quantity": 2.0,
+      "unit_price": 188.0,
+      "line_total": 413.6
+    },
+    {
+      "item_id": "INV-12830936-ITEM-7",
+      "item_description": "Gaming PC Desktop Computer Intel i7 RGB, GTX 1660, 16GB RAM, 2TB HDD, 480GB SSD",
+      "quantity": 2.0,
+      "unit_price": 809.99,
+      "line_total": 1781.98
+    }
+  ],
+  "image_path": "data/real_invoices/images/12830936.jpg"
+}

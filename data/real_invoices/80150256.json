@@ -1,0 +1,40 @@
+{
+  "invoice_id": "80150256",
+  "file_name": "80150256.jpg",
+  "vendor_name": "Jenkins, Green and Strickland",
+  "invoice_date": "2017-07-24",
+  "due_date": "2017-07-24",
+  "currency": "USD",
+  "subtotal": 95.32,
+  "tax_amount": 9.53,
+  "total_amount": 104.85,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 80150256\n**Invoice Date:** 2017-07-24\n**Seller / Vendor:** Jenkins, Green and Strickland 74549 Delgado Court Suite 000 South Melanieton, VA 36822\n**Seller Tax ID:** 907-73-8970\n**Client / Bill To:** Perkins PLC 67729 Palmer Creek Apt. 286 Lake Karen, NM 55829\n**Client Tax ID:** 970-76-7515\n**IBAN / Payment Ref:** GB70TBB52427765625418\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| The Heretic's Daughter by Kathleen Kent | 4.0 | $3.99 | $17.56 |\n| How to Get an Asian Girlfriend by Derek Strong (English) Paperback Book Free Shi | 1.0 | $15.44 | $16.98 |\n| Jesus (Hardback or Cased Book) | 2.0 | $31.96 | $70.31 |\n\n**Subtotal (Net):** $95.32\n**Total Tax / VAT:** $9.53\n**Total Gross Amount Due:** $104.85\n\n---\n*Source Image: data/real_invoices/images/80150256.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-80150256'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>The Heretic's Daughter by Kathleen Kent</td><td>4.0</td><td>3.99</td><td>17.56</td></tr><tr><td>How to Get an Asian Girlfriend by Derek Strong (English) Paperback Book Free Shi</td><td>1.0</td><td>15.44</td><td>16.98</td></tr><tr><td>Jesus (Hardback or Cased Book)</td><td>2.0</td><td>31.96</td><td>70.31</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>95.32</td></tr><tr><td colspan='3'>Tax / VAT</td><td>9.53</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>104.85</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-80150256-ITEM-1",
+      "item_description": "The Heretic's Daughter by Kathleen Kent",
+      "quantity": 4.0,
+      "unit_price": 3.99,
+      "line_total": 17.56
+    },
+    {
+      "item_id": "INV-80150256-ITEM-2",
+      "item_description": "How to Get an Asian Girlfriend by Derek Strong (English) Paperback Book Free Shi",
+      "quantity": 1.0,
+      "unit_price": 15.44,
+      "line_total": 16.98
+    },
+    {
+      "item_id": "INV-80150256-ITEM-3",
+      "item_description": "Jesus (Hardback or Cased Book)",
+      "quantity": 2.0,
+      "unit_price": 31.96,
+      "line_total": 70.31
+    }
+  ],
+  "image_path": "data/real_invoices/images/80150256.jpg"
+}

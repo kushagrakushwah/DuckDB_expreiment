@@ -1,0 +1,61 @@
+{
+  "invoice_id": "94689364",
+  "file_name": "94689364.jpg",
+  "vendor_name": "Schwartz, Flynn and Jackson",
+  "invoice_date": "2015-01-12",
+  "due_date": "2015-01-12",
+  "currency": "USD",
+  "subtotal": 33776.06,
+  "tax_amount": 3377.61,
+  "total_amount": 37153.67,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 94689364\n**Invoice Date:** 2015-01-12\n**Seller / Vendor:** Schwartz, Flynn and Jackson 59888 Dawn Valley Suite 242 New Marilyn, WA 49740\n**Seller Tax ID:** 943-70-0376\n**Client / Bill To:** Wilson PLC 674 Leon Cape Suite 819 Burtonstad, NE 12662\n**Client Tax ID:** 963-73-0110\n**IBAN / Payment Ref:** GB67GYBL21403855924419\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Yilong 5'x8' Handknotted Silk Area Rug Home Decor Kid Friendly Carpet L39B | 4.0 | $8000.00 | $35200.00 |\n| Faux Fur Animal Print Hide Skin Rug Cowhide Area Rug Floor Mat Carpet 33.5\"X43\" | 4.0 | $26.03 | $114.53 |\n| Garden Flower Carpet Quilted Bedroom Floor Princess Tapis Lace Rug Carpets | 5.0 | $45.50 | $250.25 |\n| Double Dorje Carpet Tibetan Rug Handwoven by Artisans in Nepal | 3.0 | $297.00 | $980.10 |\n| Egg Bathroom Rug Carpet Area Rugs Rug Floor Mats Nordic Chic Room Decor | 2.0 | $68.10 | $149.82 |\n| Striped Contemporary Gabbeh Kashkoli Oriental Area Rug Handmade Wool Carpet 6x8 | 1.0 | $417.24 | $458.96 |\n\n**Subtotal (Net):** $33776.06\n**Total Tax / VAT:** $3377.61\n**Total Gross Amount Due:** $37153.67\n\n---\n*Source Image: data/real_invoices/images/94689364.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-94689364'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Yilong 5'x8' Handknotted Silk Area Rug Home Decor Kid Friendly Carpet L39B</td><td>4.0</td><td>8000.00</td><td>35200.00</td></tr><tr><td>Faux Fur Animal Print Hide Skin Rug Cowhide Area Rug Floor Mat Carpet 33.5\"X43\"</td><td>4.0</td><td>26.03</td><td>114.53</td></tr><tr><td>Garden Flower Carpet Quilted Bedroom Floor Princess Tapis Lace Rug Carpets</td><td>5.0</td><td>45.50</td><td>250.25</td></tr><tr><td>Double Dorje Carpet Tibetan Rug Handwoven by Artisans in Nepal</td><td>3.0</td><td>297.00</td><td>980.10</td></tr><tr><td>Egg Bathroom Rug Carpet Area Rugs Rug Floor Mats Nordic Chic Room Decor</td><td>2.0</td><td>68.10</td><td>149.82</td></tr><tr><td>Striped Contemporary Gabbeh Kashkoli Oriental Area Rug Handmade Wool Carpet 6x8</td><td>1.0</td><td>417.24</td><td>458.96</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>33776.06</td></tr><tr><td colspan='3'>Tax / VAT</td><td>3377.61</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>37153.67</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-94689364-ITEM-1",
+      "item_description": "Yilong 5'x8' Handknotted Silk Area Rug Home Decor Kid Friendly Carpet L39B",
+      "quantity": 4.0,
+      "unit_price": 8000.0,
+      "line_total": 35200.0
+    },
+    {
+      "item_id": "INV-94689364-ITEM-2",
+      "item_description": "Faux Fur Animal Print Hide Skin Rug Cowhide Area Rug Floor Mat Carpet 33.5\"X43\"",
+      "quantity": 4.0,
+      "unit_price": 26.03,
+      "line_total": 114.53
+    },
+    {
+      "item_id": "INV-94689364-ITEM-3",
+      "item_description": "Garden Flower Carpet Quilted Bedroom Floor Princess Tapis Lace Rug Carpets",
+      "quantity": 5.0,
+      "unit_price": 45.5,
+      "line_total": 250.25
+    },
+    {
+      "item_id": "INV-94689364-ITEM-4",
+      "item_description": "Double Dorje Carpet Tibetan Rug Handwoven by Artisans in Nepal",
+      "quantity": 3.0,
+      "unit_price": 297.0,
+      "line_total": 980.1
+    },
+    {
+      "item_id": "INV-94689364-ITEM-5",
+      "item_description": "Egg Bathroom Rug Carpet Area Rugs Rug Floor Mats Nordic Chic Room Decor",
+      "quantity": 2.0,
+      "unit_price": 68.1,
+      "line_total": 149.82
+    },
+    {
+      "item_id": "INV-94689364-ITEM-6",
+      "item_description": "Striped Contemporary Gabbeh Kashkoli Oriental Area Rug Handmade Wool Carpet 6x8",
+      "quantity": 1.0,
+      "unit_price": 417.24,
+      "line_total": 458.96
+    }
+  ],
+  "image_path": "data/real_invoices/images/94689364.jpg"
+}

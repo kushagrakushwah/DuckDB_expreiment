@@ -1,0 +1,40 @@
+{
+  "invoice_id": "20850516",
+  "file_name": "20850516.jpg",
+  "vendor_name": "Carney-Rogers USNS Peterson FPO AP",
+  "invoice_date": "2017-07-10",
+  "due_date": "2017-07-10",
+  "currency": "USD",
+  "subtotal": 177.55,
+  "tax_amount": 17.76,
+  "total_amount": 195.31,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 20850516\n**Invoice Date:** 2017-07-10\n**Seller / Vendor:** Carney-Rogers USNS Peterson FPO AP 71052\n**Seller Tax ID:** 902-92-0164\n**Client / Bill To:** Duncan, Mendoza and Mitchell 21954 Eduardo Passage South Brianchester, MI 84023\n**Client Tax ID:** 908-70-1405\n**IBAN / Payment Ref:** GB48NZE0291529152051083956\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Jordan B'Loyal Boys Grade School Sneakers US 3Y | 4.0 | $9.00 | $39.60 |\n| Western Chief Kids' Boys Classic Rain Boots w/ Pull Handles Navy Blue Size 12 | 1.0 | $9.99 | $10.99 |\n| Hot Toys COSB748 Mandalorian & The Child COSBABY Mini Figure Model Collection | 4.0 | $32.89 | $144.72 |\n\n**Subtotal (Net):** $177.55\n**Total Tax / VAT:** $17.76\n**Total Gross Amount Due:** $195.31\n\n---\n*Source Image: data/real_invoices/images/20850516.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-20850516'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Jordan B'Loyal Boys Grade School Sneakers US 3Y</td><td>4.0</td><td>9.00</td><td>39.60</td></tr><tr><td>Western Chief Kids' Boys Classic Rain Boots w/ Pull Handles Navy Blue Size 12</td><td>1.0</td><td>9.99</td><td>10.99</td></tr><tr><td>Hot Toys COSB748 Mandalorian & The Child COSBABY Mini Figure Model Collection</td><td>4.0</td><td>32.89</td><td>144.72</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>177.55</td></tr><tr><td colspan='3'>Tax / VAT</td><td>17.76</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>195.31</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-20850516-ITEM-1",
+      "item_description": "Jordan B'Loyal Boys Grade School Sneakers US 3Y",
+      "quantity": 4.0,
+      "unit_price": 9.0,
+      "line_total": 39.6
+    },
+    {
+      "item_id": "INV-20850516-ITEM-2",
+      "item_description": "Western Chief Kids' Boys Classic Rain Boots w/ Pull Handles Navy Blue Size 12",
+      "quantity": 1.0,
+      "unit_price": 9.99,
+      "line_total": 10.99
+    },
+    {
+      "item_id": "INV-20850516-ITEM-3",
+      "item_description": "Hot Toys COSB748 Mandalorian & The Child COSBABY Mini Figure Model Collection",
+      "quantity": 4.0,
+      "unit_price": 32.89,
+      "line_total": 144.72
+    }
+  ],
+  "image_path": "data/real_invoices/images/20850516.jpg"
+}

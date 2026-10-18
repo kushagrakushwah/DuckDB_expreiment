@@ -1,0 +1,54 @@
+{
+  "invoice_id": "51686132",
+  "file_name": "51686132.jpg",
+  "vendor_name": "Stephens PLC PSC",
+  "invoice_date": "2015-06-27",
+  "due_date": "2015-06-27",
+  "currency": "USD",
+  "subtotal": 1384.95,
+  "tax_amount": 138.5,
+  "total_amount": 1523.45,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 51686132\n**Invoice Date:** 2015-06-27\n**Seller / Vendor:** Stephens PLC PSC 4501, Box 4964 APO AA 03160\n**Seller Tax ID:** 953-96-5860\n**Client / Bill To:** White, Blevins and Ellis Unit 7297 Box 4160 DPO AP 42542\n**Client Tax ID:** 990-87-4012\n**IBAN / Payment Ref:** GB67D5XM44548665165041\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Nintendo Switch Lite Console Gray with Animal Crossing New Horizons Game | 3.0 | $310.00 | $1023.00 |\n| Nintendo Wii U Console Deluxe/Handheld Bundle | 1.0 | $79.99 | $87.99 |\n| Nintendo Wii U WUP-101(02) 32GB Console Black US Model | 3.0 | $40.00 | $132.00 |\n| Nintendo Wii Console With Cables And Accessories And New Super Mario Bros Disc! | 4.0 | $29.99 | $131.96 |\n| Nintendo Switch Lite Yellow CONSOLE ONLY No Accessories or Charger [B1-2] | 1.0 | $135.00 | $148.50 |\n\n**Subtotal (Net):** $1384.95\n**Total Tax / VAT:** $138.50\n**Total Gross Amount Due:** $1523.45\n\n---\n*Source Image: data/real_invoices/images/51686132.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-51686132'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Nintendo Switch Lite Console Gray with Animal Crossing New Horizons Game</td><td>3.0</td><td>310.00</td><td>1023.00</td></tr><tr><td>Nintendo Wii U Console Deluxe/Handheld Bundle</td><td>1.0</td><td>79.99</td><td>87.99</td></tr><tr><td>Nintendo Wii U WUP-101(02) 32GB Console Black US Model</td><td>3.0</td><td>40.00</td><td>132.00</td></tr><tr><td>Nintendo Wii Console With Cables And Accessories And New Super Mario Bros Disc!</td><td>4.0</td><td>29.99</td><td>131.96</td></tr><tr><td>Nintendo Switch Lite Yellow CONSOLE ONLY No Accessories or Charger [B1-2]</td><td>1.0</td><td>135.00</td><td>148.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1384.95</td></tr><tr><td colspan='3'>Tax / VAT</td><td>138.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1523.45</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-51686132-ITEM-1",
+      "item_description": "Nintendo Switch Lite Console Gray with Animal Crossing New Horizons Game",
+      "quantity": 3.0,
+      "unit_price": 310.0,
+      "line_total": 1023.0
+    },
+    {
+      "item_id": "INV-51686132-ITEM-2",
+      "item_description": "Nintendo Wii U Console Deluxe/Handheld Bundle",
+      "quantity": 1.0,
+      "unit_price": 79.99,
+      "line_total": 87.99
+    },
+    {
+      "item_id": "INV-51686132-ITEM-3",
+      "item_description": "Nintendo Wii U WUP-101(02) 32GB Console Black US Model",
+      "quantity": 3.0,
+      "unit_price": 40.0,
+      "line_total": 132.0
+    },
+    {
+      "item_id": "INV-51686132-ITEM-4",
+      "item_description": "Nintendo Wii Console With Cables And Accessories And New Super Mario Bros Disc!",
+      "quantity": 4.0,
+      "unit_price": 29.99,
+      "line_total": 131.96
+    },
+    {
+      "item_id": "INV-51686132-ITEM-5",
+      "item_description": "Nintendo Switch Lite Yellow CONSOLE ONLY No Accessories or Charger [B1-2]",
+      "quantity": 1.0,
+      "unit_price": 135.0,
+      "line_total": 148.5
+    }
+  ],
+  "image_path": "data/real_invoices/images/51686132.jpg"
+}

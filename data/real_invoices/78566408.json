@@ -1,0 +1,61 @@
+{
+  "invoice_id": "78566408",
+  "file_name": "78566408.jpg",
+  "vendor_name": "Clark PLC",
+  "invoice_date": "2016-03-18",
+  "due_date": "2016-03-18",
+  "currency": "USD",
+  "subtotal": 207.89,
+  "tax_amount": 20.79,
+  "total_amount": 228.68,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 78566408\n**Invoice Date:** 2016-03-18\n**Seller / Vendor:** Clark PLC 3577 John Glen Suite 454 North Michaelborough, NE 70613\n**Seller Tax ID:** 918-88-8070\n**Client / Bill To:** Adams and Sons 957 Flowers Drive Apt. 985 East Jared, NJ 51167\n**Client Tax ID:** 906-74-9305\n**IBAN / Payment Ref:** GB76QCXU43762789246312\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Oomphies Boys Ankle Boots Shoes Gray Green Kids Size 2 | 2.0 | $11.99 | $26.38 |\n| Boys water/beach/pool black orange and blue hook and loop size 13-1 shoes | 2.0 | $1.18 | $2.60 |\n| Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats | 3.0 | $19.99 | $65.97 |\n| Blueteeth LED Galaxy Projector Starry Night Lamp Star Projection Night Light USB | 1.0 | $28.49 | $31.34 |\n| Joma Boys Youth Gol-102 Soccer Cleats Shoes Size 4 White Red Futbol NEW | 3.0 | $19.99 | $65.97 |\n| Adult Kids Pokemon Pikachu Kigurumi Pajama Cosplay Christmas Costume Sleepwear | 2.0 | $16.56 | $36.43 |\n\n**Subtotal (Net):** $207.89\n**Total Tax / VAT:** $20.79\n**Total Gross Amount Due:** $228.68\n\n---\n*Source Image: data/real_invoices/images/78566408.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-78566408'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Oomphies Boys Ankle Boots Shoes Gray Green Kids Size 2</td><td>2.0</td><td>11.99</td><td>26.38</td></tr><tr><td>Boys water/beach/pool black orange and blue hook and loop size 13-1 shoes</td><td>2.0</td><td>1.18</td><td>2.60</td></tr><tr><td>Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats</td><td>3.0</td><td>19.99</td><td>65.97</td></tr><tr><td>Blueteeth LED Galaxy Projector Starry Night Lamp Star Projection Night Light USB</td><td>1.0</td><td>28.49</td><td>31.34</td></tr><tr><td>Joma Boys Youth Gol-102 Soccer Cleats Shoes Size 4 White Red Futbol NEW</td><td>3.0</td><td>19.99</td><td>65.97</td></tr><tr><td>Adult Kids Pokemon Pikachu Kigurumi Pajama Cosplay Christmas Costume Sleepwear</td><td>2.0</td><td>16.56</td><td>36.43</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>207.89</td></tr><tr><td colspan='3'>Tax / VAT</td><td>20.79</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>228.68</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-78566408-ITEM-1",
+      "item_description": "Oomphies Boys Ankle Boots Shoes Gray Green Kids Size 2",
+      "quantity": 2.0,
+      "unit_price": 11.99,
+      "line_total": 26.38
+    },
+    {
+      "item_id": "INV-78566408-ITEM-2",
+      "item_description": "Boys water/beach/pool black orange and blue hook and loop size 13-1 shoes",
+      "quantity": 2.0,
+      "unit_price": 1.18,
+      "line_total": 2.6
+    },
+    {
+      "item_id": "INV-78566408-ITEM-3",
+      "item_description": "Lotto Soccer Turf Shoes 6 Black Vincente Turf Jr Indoor Outdoor Futbol Cleats",
+      "quantity": 3.0,
+      "unit_price": 19.99,
+      "line_total": 65.97
+    },
+    {
+      "item_id": "INV-78566408-ITEM-4",
+      "item_description": "Blueteeth LED Galaxy Projector Starry Night Lamp Star Projection Night Light USB",
+      "quantity": 1.0,
+      "unit_price": 28.49,
+      "line_total": 31.34
+    },
+    {
+      "item_id": "INV-78566408-ITEM-5",
+      "item_description": "Joma Boys Youth Gol-102 Soccer Cleats Shoes Size 4 White Red Futbol NEW",
+      "quantity": 3.0,
+      "unit_price": 19.99,
+      "line_total": 65.97
+    },
+    {
+      "item_id": "INV-78566408-ITEM-6",
+      "item_description": "Adult Kids Pokemon Pikachu Kigurumi Pajama Cosplay Christmas Costume Sleepwear",
+      "quantity": 2.0,
+      "unit_price": 16.56,
+      "line_total": 36.43
+    }
+  ],
+  "image_path": "data/real_invoices/images/78566408.jpg"
+}

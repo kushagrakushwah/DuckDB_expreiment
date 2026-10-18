@@ -1,0 +1,54 @@
+{
+  "invoice_id": "68043569",
+  "file_name": "68043569.jpg",
+  "vendor_name": "Schultz, Lopez and Smith",
+  "invoice_date": "2011-09-09",
+  "due_date": "2011-09-09",
+  "currency": "USD",
+  "subtotal": 881.64,
+  "tax_amount": 88.16,
+  "total_amount": 969.8,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 68043569\n**Invoice Date:** 2011-09-09\n**Seller / Vendor:** Schultz, Lopez and Smith 789 Ramirez Row Jeffreybury, SC 21462\n**Seller Tax ID:** 958-76-9947\n**Client / Bill To:** David-Rhodes 306 Valdez Run Edwardsmouth, DC 53145\n**Client Tax ID:** 960-87-0985\n**IBAN / Payment Ref:** GB94RSWA52694096609663\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 10\" Cuphead Game Soft Plush Doll Cuphead Mugman Mecup Brocup kids Gift US Stock | 4.0 | $26.99 | $118.76 |\n| Sketchers Energy Lights Boys Black Canvas Size 4 With Charging Cable | 3.0 | $12.00 | $39.60 |\n| Boys Kids Printed Cotton Slippers Zip Fastening 350172494 | 1.0 | $19.68 | $21.65 |\n| 6 Pairs Of Jordan's Size 7y | 5.0 | $130.00 | $715.00 |\n| Durango Lill Little Kid Western Casual Western Purple Boys - Size 2 M | 1.0 | $68.00 | $74.80 |\n\n**Subtotal (Net):** $881.64\n**Total Tax / VAT:** $88.16\n**Total Gross Amount Due:** $969.80\n\n---\n*Source Image: data/real_invoices/images/68043569.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-68043569'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>10\" Cuphead Game Soft Plush Doll Cuphead Mugman Mecup Brocup kids Gift US Stock</td><td>4.0</td><td>26.99</td><td>118.76</td></tr><tr><td>Sketchers Energy Lights Boys Black Canvas Size 4 With Charging Cable</td><td>3.0</td><td>12.00</td><td>39.60</td></tr><tr><td>Boys Kids Printed Cotton Slippers Zip Fastening 350172494</td><td>1.0</td><td>19.68</td><td>21.65</td></tr><tr><td>6 Pairs Of Jordan's Size 7y</td><td>5.0</td><td>130.00</td><td>715.00</td></tr><tr><td>Durango Lill Little Kid Western Casual Western Purple Boys - Size 2 M</td><td>1.0</td><td>68.00</td><td>74.80</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>881.64</td></tr><tr><td colspan='3'>Tax / VAT</td><td>88.16</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>969.80</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-68043569-ITEM-1",
+      "item_description": "10\" Cuphead Game Soft Plush Doll Cuphead Mugman Mecup Brocup kids Gift US Stock",
+      "quantity": 4.0,
+      "unit_price": 26.99,
+      "line_total": 118.76
+    },
+    {
+      "item_id": "INV-68043569-ITEM-2",
+      "item_description": "Sketchers Energy Lights Boys Black Canvas Size 4 With Charging Cable",
+      "quantity": 3.0,
+      "unit_price": 12.0,
+      "line_total": 39.6
+    },
+    {
+      "item_id": "INV-68043569-ITEM-3",
+      "item_description": "Boys Kids Printed Cotton Slippers Zip Fastening 350172494",
+      "quantity": 1.0,
+      "unit_price": 19.68,
+      "line_total": 21.65
+    },
+    {
+      "item_id": "INV-68043569-ITEM-4",
+      "item_description": "6 Pairs Of Jordan's Size 7y",
+      "quantity": 5.0,
+      "unit_price": 130.0,
+      "line_total": 715.0
+    },
+    {
+      "item_id": "INV-68043569-ITEM-5",
+      "item_description": "Durango Lill Little Kid Western Casual Western Purple Boys - Size 2 M",
+      "quantity": 1.0,
+      "unit_price": 68.0,
+      "line_total": 74.8
+    }
+  ],
+  "image_path": "data/real_invoices/images/68043569.jpg"
+}

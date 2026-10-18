@@ -1,0 +1,33 @@
+{
+  "invoice_id": "61619303",
+  "file_name": "61619303.jpg",
+  "vendor_name": "Glenn, Roberts and Cochran",
+  "invoice_date": "2013-09-20",
+  "due_date": "2013-09-20",
+  "currency": "USD",
+  "subtotal": 961.21,
+  "tax_amount": 96.12,
+  "total_amount": 1057.33,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 61619303\n**Invoice Date:** 2013-09-20\n**Seller / Vendor:** Glenn, Roberts and Cochran 673 Ryan Loop Rodriguezhaven, NE 81351\n**Seller Tax ID:** 930-98-2356\n**Client / Bill To:** Burgess, Evans and Moreno 0243 Adkins Shoals Westchester, AK 72317\n**Client Tax ID:** 971-86-1778\n**IBAN / Payment Ref:** GB89PBXV06755096377275\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Silky Fake Fur Fluffy Carpets Non-slip Shaggy Area Rug Floor Mat Light Pink | 3.0 | $14.12 | $46.60 |\n| Modern Tribal Geometric 4X6 Indo Gabbeh Wool & Bamboo Silk Oriental Rug Carpet | 5.0 | $183.77 | $1010.74 |\n\n**Subtotal (Net):** $961.21\n**Total Tax / VAT:** $96.12\n**Total Gross Amount Due:** $1057.33\n\n---\n*Source Image: data/real_invoices/images/61619303.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-61619303'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Silky Fake Fur Fluffy Carpets Non-slip Shaggy Area Rug Floor Mat Light Pink</td><td>3.0</td><td>14.12</td><td>46.60</td></tr><tr><td>Modern Tribal Geometric 4X6 Indo Gabbeh Wool & Bamboo Silk Oriental Rug Carpet</td><td>5.0</td><td>183.77</td><td>1010.74</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>961.21</td></tr><tr><td colspan='3'>Tax / VAT</td><td>96.12</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1057.33</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-61619303-ITEM-1",
+      "item_description": "Silky Fake Fur Fluffy Carpets Non-slip Shaggy Area Rug Floor Mat Light Pink",
+      "quantity": 3.0,
+      "unit_price": 14.12,
+      "line_total": 46.6
+    },
+    {
+      "item_id": "INV-61619303-ITEM-2",
+      "item_description": "Modern Tribal Geometric 4X6 Indo Gabbeh Wool & Bamboo Silk Oriental Rug Carpet",
+      "quantity": 5.0,
+      "unit_price": 183.77,
+      "line_total": 1010.74
+    }
+  ],
+  "image_path": "data/real_invoices/images/61619303.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "invoice_id": "33931957",
+  "file_name": "33931957.jpg",
+  "vendor_name": "Rojas-Cook",
+  "invoice_date": "2015-12-17",
+  "due_date": "2015-12-17",
+  "currency": "USD",
+  "subtotal": 25.0,
+  "tax_amount": 2.5,
+  "total_amount": 27.5,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 33931957\n**Invoice Date:** 2015-12-17\n**Seller / Vendor:** Rojas-Cook 0132. Joy Views Apt. 106 Burnstown, LA 74485\n**Seller Tax ID:** 957-97-8143\n**Client / Bill To:** Cohen LLC 637 Blake Keys New Ryanchester, NM 64213\n**Client Tax ID:** 903-94-1332\n**IBAN / Payment Ref:** GB17YMKF08477262646620\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL | 2.0 | $12.50 | $27.50 |\n\n**Subtotal (Net):** $25.00\n**Total Tax / VAT:** $2.50\n**Total Gross Amount Due:** $27.50\n\n---\n*Source Image: data/real_invoices/images/33931957.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-33931957'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL</td><td>2.0</td><td>12.50</td><td>27.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>25.00</td></tr><tr><td colspan='3'>Tax / VAT</td><td>2.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>27.50</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-33931957-ITEM-1",
+      "item_description": "NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL",
+      "quantity": 2.0,
+      "unit_price": 12.5,
+      "line_total": 27.5
+    }
+  ],
+  "image_path": "data/real_invoices/images/33931957.jpg"
+}

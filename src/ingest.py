@@ -72,16 +72,25 @@ def ingest_invoices(manifest_path: Path):
         )
     """, (run_id,))
 
-    # Insert sample extraction outputs
+    # Insert sample extraction outputs linked to the first real invoice
+    first_inv = invoices[0]
+    first_id = first_inv["invoice_id"]
+    first_vendor = first_inv.get("vendor_name", "Vendor")
+    first_total = f"${first_inv.get('total_amount', 0.0):.2f}"
+
     conn.execute("""
         INSERT INTO extracted_entities (
             extraction_id, run_id, invoice_id, entity_label, extracted_value,
             ground_truth_value, confidence_score, is_exact_match, latency_ms
         ) VALUES 
-        ('EXT-001', 'RUN-EXP-001', 'INV-2026-1001', 'invoice_number', 'INV-2026-1001', 'INV-2026-1001', 0.98, true, 138.2),
-        ('EXT-002', 'RUN-EXP-001', 'INV-2026-1001', 'vendor_name', 'Acme Logistics Inc.', 'Acme Logistics Inc.', 0.96, true, 145.0),
-        ('EXT-003', 'RUN-EXP-001', 'INV-2026-1001', 'total_amount', '$1,850.00', '$1850.00', 0.89, false, 140.8);
-    """)
+        ('EXT-001', 'RUN-EXP-001', ?, 'invoice_number', ?, ?, 0.98, true, 138.2),
+        ('EXT-002', 'RUN-EXP-001', ?, 'vendor_name', ?, ?, 0.96, true, 145.0),
+        ('EXT-003', 'RUN-EXP-001', ?, 'total_amount', ?, ?, 0.89, false, 140.8);
+    """, (
+        first_id, first_id, first_id,
+        first_id, first_vendor, first_vendor,
+        first_id, first_total, first_total
+    ))
 
     # Verify counts
     invoice_count = conn.execute("SELECT count(*) FROM raw_invoices;").fetchone()[0]

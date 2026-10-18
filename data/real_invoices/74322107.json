@@ -1,0 +1,26 @@
+{
+  "invoice_id": "74322107",
+  "file_name": "74322107.jpg",
+  "vendor_name": "Davis-Obrien",
+  "invoice_date": "2016-02-02",
+  "due_date": "2016-02-02",
+  "currency": "USD",
+  "subtotal": 61.96,
+  "tax_amount": 6.2,
+  "total_amount": 68.16,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 74322107\n**Invoice Date:** 2016-02-02\n**Seller / Vendor:** Davis-Obrien 736 Derek Station Suite 883 New Laura, WA 77568\n**Seller Tax ID:** 930-75-0933\n**Client / Bill To:** Taylor Ltd 213 Thomas Vista East Zacharyshire, WI 95033\n**Client Tax ID:** 915-98-4870\n**IBAN / Payment Ref:** GB31YDUN56799610017131\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| 100cm Nordic Round Area Rug Abstract Geometric Patterns Non-Slip Floor Carpet | 2.0 | $30.98 | $68.16 |\n\n**Subtotal (Net):** $61.96\n**Total Tax / VAT:** $6.20\n**Total Gross Amount Due:** $68.16\n\n---\n*Source Image: data/real_invoices/images/74322107.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-74322107'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>100cm Nordic Round Area Rug Abstract Geometric Patterns Non-Slip Floor Carpet</td><td>2.0</td><td>30.98</td><td>68.16</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>61.96</td></tr><tr><td colspan='3'>Tax / VAT</td><td>6.20</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>68.16</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-74322107-ITEM-1",
+      "item_description": "100cm Nordic Round Area Rug Abstract Geometric Patterns Non-Slip Floor Carpet",
+      "quantity": 2.0,
+      "unit_price": 30.98,
+      "line_total": 68.16
+    }
+  ],
+  "image_path": "data/real_invoices/images/74322107.jpg"
+}

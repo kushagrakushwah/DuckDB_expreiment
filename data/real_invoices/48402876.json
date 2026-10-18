@@ -1,0 +1,54 @@
+{
+  "invoice_id": "48402876",
+  "file_name": "48402876.jpg",
+  "vendor_name": "Stone-Ruiz",
+  "invoice_date": "2020-02-06",
+  "due_date": "2020-02-06",
+  "currency": "USD",
+  "subtotal": 4198.86,
+  "tax_amount": 419.89,
+  "total_amount": 4618.75,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 48402876\n**Invoice Date:** 2020-02-06\n**Seller / Vendor:** Stone-Ruiz 938 Dillon Views Suite 267 Doyleport, SC 14345\n**Seller Tax ID:** 949-90-2869\n**Client / Bill To:** Chapman-Pineda 8840 Daniel Coves Suite 235 Pattersonton, HI 63052\n**Client Tax ID:** 930-79-2809\n**IBAN / Payment Ref:** GB80ESDN56327720432862\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Dell Optiplex 990 MT Computer PC Quad Core i7 3.4GHz 16GB 2TB HD Windows 10 Pro | 2.0 | $269.95 | $593.89 |\n| Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB | 3.0 | $500.00 | $1650.00 |\n| Dell Precision Workstation Computer Intel Xeon Quad Core 16GB 1TB Windows 10 Pro | 4.0 | $139.00 | $611.60 |\n| Lenovo C20-00..all in one desktop computer with Wireless Mouse.. | 3.0 | $277.64 | $916.21 |\n| HP 6200 Pro Core i7 3.4GHz Quad Core 16GB 500GB Computer | 3.0 | $256.68 | $847.04 |\n\n**Subtotal (Net):** $4198.86\n**Total Tax / VAT:** $419.89\n**Total Gross Amount Due:** $4618.75\n\n---\n*Source Image: data/real_invoices/images/48402876.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-48402876'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Dell Optiplex 990 MT Computer PC Quad Core i7 3.4GHz 16GB 2TB HD Windows 10 Pro</td><td>2.0</td><td>269.95</td><td>593.89</td></tr><tr><td>Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB</td><td>3.0</td><td>500.00</td><td>1650.00</td></tr><tr><td>Dell Precision Workstation Computer Intel Xeon Quad Core 16GB 1TB Windows 10 Pro</td><td>4.0</td><td>139.00</td><td>611.60</td></tr><tr><td>Lenovo C20-00..all in one desktop computer with Wireless Mouse..</td><td>3.0</td><td>277.64</td><td>916.21</td></tr><tr><td>HP 6200 Pro Core i7 3.4GHz Quad Core 16GB 500GB Computer</td><td>3.0</td><td>256.68</td><td>847.04</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4198.86</td></tr><tr><td colspan='3'>Tax / VAT</td><td>419.89</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4618.75</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-48402876-ITEM-1",
+      "item_description": "Dell Optiplex 990 MT Computer PC Quad Core i7 3.4GHz 16GB 2TB HD Windows 10 Pro",
+      "quantity": 2.0,
+      "unit_price": 269.95,
+      "line_total": 593.89
+    },
+    {
+      "item_id": "INV-48402876-ITEM-2",
+      "item_description": "Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB",
+      "quantity": 3.0,
+      "unit_price": 500.0,
+      "line_total": 1650.0
+    },
+    {
+      "item_id": "INV-48402876-ITEM-3",
+      "item_description": "Dell Precision Workstation Computer Intel Xeon Quad Core 16GB 1TB Windows 10 Pro",
+      "quantity": 4.0,
+      "unit_price": 139.0,
+      "line_total": 611.6
+    },
+    {
+      "item_id": "INV-48402876-ITEM-4",
+      "item_description": "Lenovo C20-00..all in one desktop computer with Wireless Mouse..",
+      "quantity": 3.0,
+      "unit_price": 277.64,
+      "line_total": 916.21
+    },
+    {
+      "item_id": "INV-48402876-ITEM-5",
+      "item_description": "HP 6200 Pro Core i7 3.4GHz Quad Core 16GB 500GB Computer",
+      "quantity": 3.0,
+      "unit_price": 256.68,
+      "line_total": 847.04
+    }
+  ],
+  "image_path": "data/real_invoices/images/48402876.jpg"
+}

@@ -1,0 +1,26 @@
+{
+  "invoice_id": "94885760",
+  "file_name": "94885760.jpg",
+  "vendor_name": "Crawford, Acosta and Solomon",
+  "invoice_date": "2012-08-22",
+  "due_date": "2012-08-22",
+  "currency": "USD",
+  "subtotal": 54.95,
+  "tax_amount": 5.5,
+  "total_amount": 60.45,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 94885760\n**Invoice Date:** 2012-08-22\n**Seller / Vendor:** Crawford, Acosta and Solomon 65675 Watkins Springs Dudleyport, GA 24388\n**Seller Tax ID:** 995-99-2920\n**Client / Bill To:** Chen-Ortega 451 Christine Branch Suite 192 Lisahaven, NY 75573\n**Client Tax ID:** 974-99-3914\n**IBAN / Payment Ref:** GB36ENEJ21422561399911\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Nike 747998-401 Team Hustle D7 Kids Blue Mid Top Basketball Shoes Size 4Y US | 5.0 | $10.99 | $60.45 |\n\n**Subtotal (Net):** $54.95\n**Total Tax / VAT:** $5.50\n**Total Gross Amount Due:** $60.45\n\n---\n*Source Image: data/real_invoices/images/94885760.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-94885760'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Nike 747998-401 Team Hustle D7 Kids Blue Mid Top Basketball Shoes Size 4Y US</td><td>5.0</td><td>10.99</td><td>60.45</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>54.95</td></tr><tr><td colspan='3'>Tax / VAT</td><td>5.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60.45</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-94885760-ITEM-1",
+      "item_description": "Nike 747998-401 Team Hustle D7 Kids Blue Mid Top Basketball Shoes Size 4Y US",
+      "quantity": 5.0,
+      "unit_price": 10.99,
+      "line_total": 60.45
+    }
+  ],
+  "image_path": "data/real_invoices/images/94885760.jpg"
+}

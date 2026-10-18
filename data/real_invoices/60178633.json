@@ -1,0 +1,26 @@
+{
+  "invoice_id": "60178633",
+  "file_name": "60178633.jpg",
+  "vendor_name": "Mendoza Group",
+  "invoice_date": "2013-12-25",
+  "due_date": "2013-12-25",
+  "currency": "USD",
+  "subtotal": 119.95,
+  "tax_amount": 11.99,
+  "total_amount": 131.94,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 60178633\n**Invoice Date:** 2013-12-25\n**Seller / Vendor:** Mendoza Group 40007 Brown Creek South Meredithburgh, ND 48117\n**Seller Tax ID:** 900-78-2621\n**Client / Bill To:** Elliott, Kelly and Warren 70134 Bridges Plains Priceton, CO 07903\n**Client Tax ID:** 939-81-7319\n**IBAN / Payment Ref:** GB36JYKL45599075785785\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Confetti Stemless Wine Drink Glass Multi Green & Blue TAG FREE SHIPPING | 5.0 | $23.99 | $131.94 |\n\n**Subtotal (Net):** $119.95\n**Total Tax / VAT:** $11.99\n**Total Gross Amount Due:** $131.94\n\n---\n*Source Image: data/real_invoices/images/60178633.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-60178633'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Confetti Stemless Wine Drink Glass Multi Green & Blue TAG FREE SHIPPING</td><td>5.0</td><td>23.99</td><td>131.94</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>119.95</td></tr><tr><td colspan='3'>Tax / VAT</td><td>11.99</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>131.94</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-60178633-ITEM-1",
+      "item_description": "Confetti Stemless Wine Drink Glass Multi Green & Blue TAG FREE SHIPPING",
+      "quantity": 5.0,
+      "unit_price": 23.99,
+      "line_total": 131.94
+    }
+  ],
+  "image_path": "data/real_invoices/images/60178633.jpg"
+}

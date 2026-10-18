@@ -1,0 +1,61 @@
+{
+  "invoice_id": "32656405",
+  "file_name": "32656405.jpg",
+  "vendor_name": "Mcdonald and Sons",
+  "invoice_date": "2013-10-25",
+  "due_date": "2013-10-25",
+  "currency": "USD",
+  "subtotal": 801.86,
+  "tax_amount": 80.19,
+  "total_amount": 882.05,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 32656405\n**Invoice Date:** 2013-10-25\n**Seller / Vendor:** Mcdonald and Sons 66687 Lori Common West Cindyshire, CO 65813\n**Seller Tax ID:** 991-86-2003\n**Client / Bill To:** James, Johnson and Adkins 0809 Paul Course Apt. 768 Hornbury, CT 89077\n**Client Tax ID:** 931-98-1810\n**IBAN / Payment Ref:** GB32NFY133796812641240\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Toddler Kids Monster Jam Shoes Size 11c Grave Digger | 1.0 | $9.00 | $9.90 |\n| PUMA Pre-School Scuderia Ferrari Drift Cat 5 Ultra II Shoes Boys 12c | 5.0 | $21.22 | $116.71 |\n| Newborn Infant Baby Girl Boy Kid Winter Warm Coat Knit Outwear Hooded Jumpsuit | 4.0 | $22.69 | $99.84 |\n| Nike Kids KD Trey 5 / Nike Black Size 4.5aY | 3.0 | $22.00 | $72.60 |\n| Skechers Shoes Kids Size 2 | 3.0 | $10.00 | $33.00 |\n| Nautica Kids Boys Navy & Red with White Rubber Sole Running Sneakers Shoes US 10 | 1.0 | $500.00 | $550.00 |\n\n**Subtotal (Net):** $801.86\n**Total Tax / VAT:** $80.19\n**Total Gross Amount Due:** $882.05\n\n---\n*Source Image: data/real_invoices/images/32656405.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-32656405'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Toddler Kids Monster Jam Shoes Size 11c Grave Digger</td><td>1.0</td><td>9.00</td><td>9.90</td></tr><tr><td>PUMA Pre-School Scuderia Ferrari Drift Cat 5 Ultra II Shoes Boys 12c</td><td>5.0</td><td>21.22</td><td>116.71</td></tr><tr><td>Newborn Infant Baby Girl Boy Kid Winter Warm Coat Knit Outwear Hooded Jumpsuit</td><td>4.0</td><td>22.69</td><td>99.84</td></tr><tr><td>Nike Kids KD Trey 5 / Nike Black Size 4.5aY</td><td>3.0</td><td>22.00</td><td>72.60</td></tr><tr><td>Skechers Shoes Kids Size 2</td><td>3.0</td><td>10.00</td><td>33.00</td></tr><tr><td>Nautica Kids Boys Navy & Red with White Rubber Sole Running Sneakers Shoes US 10</td><td>1.0</td><td>500.00</td><td>550.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>801.86</td></tr><tr><td colspan='3'>Tax / VAT</td><td>80.19</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>882.05</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-32656405-ITEM-1",
+      "item_description": "Toddler Kids Monster Jam Shoes Size 11c Grave Digger",
+      "quantity": 1.0,
+      "unit_price": 9.0,
+      "line_total": 9.9
+    },
+    {
+      "item_id": "INV-32656405-ITEM-2",
+      "item_description": "PUMA Pre-School Scuderia Ferrari Drift Cat 5 Ultra II Shoes Boys 12c",
+      "quantity": 5.0,
+      "unit_price": 21.22,
+      "line_total": 116.71
+    },
+    {
+      "item_id": "INV-32656405-ITEM-3",
+      "item_description": "Newborn Infant Baby Girl Boy Kid Winter Warm Coat Knit Outwear Hooded Jumpsuit",
+      "quantity": 4.0,
+      "unit_price": 22.69,
+      "line_total": 99.84
+    },
+    {
+      "item_id": "INV-32656405-ITEM-4",
+      "item_description": "Nike Kids KD Trey 5 / Nike Black Size 4.5aY",
+      "quantity": 3.0,
+      "unit_price": 22.0,
+      "line_total": 72.6
+    },
+    {
+      "item_id": "INV-32656405-ITEM-5",
+      "item_description": "Skechers Shoes Kids Size 2",
+      "quantity": 3.0,
+      "unit_price": 10.0,
+      "line_total": 33.0
+    },
+    {
+      "item_id": "INV-32656405-ITEM-6",
+      "item_description": "Nautica Kids Boys Navy & Red with White Rubber Sole Running Sneakers Shoes US 10",
+      "quantity": 1.0,
+      "unit_price": 500.0,
+      "line_total": 550.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/32656405.jpg"
+}

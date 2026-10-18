@@ -1,0 +1,68 @@
+{
+  "invoice_id": "84422507",
+  "file_name": "84422507.jpg",
+  "vendor_name": "Shelton Inc",
+  "invoice_date": "2019-12-08",
+  "due_date": "2019-12-08",
+  "currency": "USD",
+  "subtotal": 4794.87,
+  "tax_amount": 479.49,
+  "total_amount": 5274.36,
+  "line_items_count": 7,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 84422507\n**Invoice Date:** 2019-12-08\n**Seller / Vendor:** Shelton Inc 6718 Esparza Bridge Lake Waltermouth, MS 38936\n**Seller Tax ID:** 925-76-2898\n**Client / Bill To:** Watson, White and Lawrence 5575 Santiago Extension Port Rebeccamouth, MI 17974\n**Client Tax ID:** 961-79-5330\n**IBAN / Payment Ref:** GB90LFJV64626371402095\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| HP Windows 10 Pro Desktop Computer Intel QUAD CORE i5 Wifi, Keyboard & Mouse | 1.0 | $169.95 | $186.95 |\n| Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB | 1.0 | $500.00 | $550.00 |\n| HP Pro 3500 Microtower Desktop Computer 3.4GHz i3 4GB 500GB Windows 10 Pro | 1.0 | $74.99 | $82.49 |\n| Intel Compute Stick PC (32GB, 1.33GHz, 2GB) - BOXSTCKIA32WFC + Wireless Keyboard | 5.0 | $29.99 | $164.94 |\n| NEW RGB Quad Core Gaming PC Desktop Computer 4.2 GHz 500 8GB RAM WIN 10 WIFI | 2.0 | $299.99 | $659.98 |\n| HP XW9400 AMD Dual Core 2216 2. .6GHz /8GB/250GB/ PC Computer 1 Desktop | 4.0 | $225.00 | $990.00 |\n| Alienware Area 51 Gaming Desktop Computer | 4.0 | $600.00 | $2640.00 |\n\n**Subtotal (Net):** $4794.87\n**Total Tax / VAT:** $479.49\n**Total Gross Amount Due:** $5274.36\n\n---\n*Source Image: data/real_invoices/images/84422507.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-84422507'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>HP Windows 10 Pro Desktop Computer Intel QUAD CORE i5 Wifi, Keyboard & Mouse</td><td>1.0</td><td>169.95</td><td>186.95</td></tr><tr><td>Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB</td><td>1.0</td><td>500.00</td><td>550.00</td></tr><tr><td>HP Pro 3500 Microtower Desktop Computer 3.4GHz i3 4GB 500GB Windows 10 Pro</td><td>1.0</td><td>74.99</td><td>82.49</td></tr><tr><td>Intel Compute Stick PC (32GB, 1.33GHz, 2GB) - BOXSTCKIA32WFC + Wireless Keyboard</td><td>5.0</td><td>29.99</td><td>164.94</td></tr><tr><td>NEW RGB Quad Core Gaming PC Desktop Computer 4.2 GHz 500 8GB RAM WIN 10 WIFI</td><td>2.0</td><td>299.99</td><td>659.98</td></tr><tr><td>HP XW9400 AMD Dual Core 2216 2. .6GHz /8GB/250GB/ PC Computer 1 Desktop</td><td>4.0</td><td>225.00</td><td>990.00</td></tr><tr><td>Alienware Area 51 Gaming Desktop Computer</td><td>4.0</td><td>600.00</td><td>2640.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4794.87</td></tr><tr><td colspan='3'>Tax / VAT</td><td>479.49</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>5274.36</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-84422507-ITEM-1",
+      "item_description": "HP Windows 10 Pro Desktop Computer Intel QUAD CORE i5 Wifi, Keyboard & Mouse",
+      "quantity": 1.0,
+      "unit_price": 169.95,
+      "line_total": 186.95
+    },
+    {
+      "item_id": "INV-84422507-ITEM-2",
+      "item_description": "Alarco Gaming PC Desktop Computer Intel i5v 8GV 1Tbv WIN 10v NVIDIA GTX 650 1GB",
+      "quantity": 1.0,
+      "unit_price": 500.0,
+      "line_total": 550.0
+    },
+    {
+      "item_id": "INV-84422507-ITEM-3",
+      "item_description": "HP Pro 3500 Microtower Desktop Computer 3.4GHz i3 4GB 500GB Windows 10 Pro",
+      "quantity": 1.0,
+      "unit_price": 74.99,
+      "line_total": 82.49
+    },
+    {
+      "item_id": "INV-84422507-ITEM-4",
+      "item_description": "Intel Compute Stick PC (32GB, 1.33GHz, 2GB) - BOXSTCKIA32WFC + Wireless Keyboard",
+      "quantity": 5.0,
+      "unit_price": 29.99,
+      "line_total": 164.94
+    },
+    {
+      "item_id": "INV-84422507-ITEM-5",
+      "item_description": "NEW RGB Quad Core Gaming PC Desktop Computer 4.2 GHz 500 8GB RAM WIN 10 WIFI",
+      "quantity": 2.0,
+      "unit_price": 299.99,
+      "line_total": 659.98
+    },
+    {
+      "item_id": "INV-84422507-ITEM-6",
+      "item_description": "HP XW9400 AMD Dual Core 2216 2. .6GHz /8GB/250GB/ PC Computer 1 Desktop",
+      "quantity": 4.0,
+      "unit_price": 225.0,
+      "line_total": 990.0
+    },
+    {
+      "item_id": "INV-84422507-ITEM-7",
+      "item_description": "Alienware Area 51 Gaming Desktop Computer",
+      "quantity": 4.0,
+      "unit_price": 600.0,
+      "line_total": 2640.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/84422507.jpg"
+}

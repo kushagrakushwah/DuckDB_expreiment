@@ -1,0 +1,54 @@
+{
+  "invoice_id": "93411242",
+  "file_name": "93411242.jpg",
+  "vendor_name": "Harrison-Harris",
+  "invoice_date": "2017-01-07",
+  "due_date": "2017-01-07",
+  "currency": "USD",
+  "subtotal": 7160.71,
+  "tax_amount": 716.07,
+  "total_amount": 7876.78,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 93411242\n**Invoice Date:** 2017-01-07\n**Seller / Vendor:** Harrison-Harris 9076 Maria Prairie Suite 382 Nicholsville, NC 06077\n**Seller Tax ID:** 965-74-4646\n**Client / Bill To:** Smith-Hill 65866 Armstrong Meadows Suite 009 East Heather, OK 70218\n**Client Tax ID:** 974-85-7776\n**IBAN / Payment Ref:** GB42RRTT66211676813047\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Fast HP Desktop Computer Intel Processor 4GB 160GB 17\" LCD DVD Wifi Windows 10 | 4.0 | $99.95 | $439.78 |\n| Fast Dell Optiplex Windows 10 Desktop Computer Tower PC Core i3 3.1GHz 4GB 320GB | 5.0 | $89.95 | $494.73 |\n| Dell Optiplex 390 i5 3.10Ghz Quad Core Computer w/4Gb RAM DVDRW noHD Free Ship | 4.0 | $84.99 | $373.96 |\n| Dell Desktop Computer Tower Optiplex Core i5 8GB 1TB HD DVD Wifi Windows 10 Pro | 3.0 | $169.95 | $560.83 |\n| Custom Gaming Computer Ryzen 7 2700 32GBDDR4 Nvidia RTX 2060 RGBSSD 500GB HDD | 5.0 | $1092.27 | $6007.49 |\n\n**Subtotal (Net):** $7160.71\n**Total Tax / VAT:** $716.07\n**Total Gross Amount Due:** $7876.78\n\n---\n*Source Image: data/real_invoices/images/93411242.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-93411242'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Fast HP Desktop Computer Intel Processor 4GB 160GB 17\" LCD DVD Wifi Windows 10</td><td>4.0</td><td>99.95</td><td>439.78</td></tr><tr><td>Fast Dell Optiplex Windows 10 Desktop Computer Tower PC Core i3 3.1GHz 4GB 320GB</td><td>5.0</td><td>89.95</td><td>494.73</td></tr><tr><td>Dell Optiplex 390 i5 3.10Ghz Quad Core Computer w/4Gb RAM DVDRW noHD Free Ship</td><td>4.0</td><td>84.99</td><td>373.96</td></tr><tr><td>Dell Desktop Computer Tower Optiplex Core i5 8GB 1TB HD DVD Wifi Windows 10 Pro</td><td>3.0</td><td>169.95</td><td>560.83</td></tr><tr><td>Custom Gaming Computer Ryzen 7 2700 32GBDDR4 Nvidia RTX 2060 RGBSSD 500GB HDD</td><td>5.0</td><td>1092.27</td><td>6007.49</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7160.71</td></tr><tr><td colspan='3'>Tax / VAT</td><td>716.07</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7876.78</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-93411242-ITEM-1",
+      "item_description": "Fast HP Desktop Computer Intel Processor 4GB 160GB 17\" LCD DVD Wifi Windows 10",
+      "quantity": 4.0,
+      "unit_price": 99.95,
+      "line_total": 439.78
+    },
+    {
+      "item_id": "INV-93411242-ITEM-2",
+      "item_description": "Fast Dell Optiplex Windows 10 Desktop Computer Tower PC Core i3 3.1GHz 4GB 320GB",
+      "quantity": 5.0,
+      "unit_price": 89.95,
+      "line_total": 494.73
+    },
+    {
+      "item_id": "INV-93411242-ITEM-3",
+      "item_description": "Dell Optiplex 390 i5 3.10Ghz Quad Core Computer w/4Gb RAM DVDRW noHD Free Ship",
+      "quantity": 4.0,
+      "unit_price": 84.99,
+      "line_total": 373.96
+    },
+    {
+      "item_id": "INV-93411242-ITEM-4",
+      "item_description": "Dell Desktop Computer Tower Optiplex Core i5 8GB 1TB HD DVD Wifi Windows 10 Pro",
+      "quantity": 3.0,
+      "unit_price": 169.95,
+      "line_total": 560.83
+    },
+    {
+      "item_id": "INV-93411242-ITEM-5",
+      "item_description": "Custom Gaming Computer Ryzen 7 2700 32GBDDR4 Nvidia RTX 2060 RGBSSD 500GB HDD",
+      "quantity": 5.0,
+      "unit_price": 1092.27,
+      "line_total": 6007.49
+    }
+  ],
+  "image_path": "data/real_invoices/images/93411242.jpg"
+}

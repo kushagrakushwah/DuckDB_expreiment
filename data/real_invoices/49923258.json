@@ -1,0 +1,33 @@
+{
+  "invoice_id": "49923258",
+  "file_name": "49923258.jpg",
+  "vendor_name": "Watson LLC",
+  "invoice_date": "2011-10-26",
+  "due_date": "2011-10-26",
+  "currency": "USD",
+  "subtotal": 1075.0,
+  "tax_amount": 107.5,
+  "total_amount": 1182.5,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 49923258\n**Invoice Date:** 2011-10-26\n**Seller / Vendor:** Watson LLC 15758 Hartman Summit Port Pamelamouth, SC 83489\n**Seller Tax ID:** 903-74-7444\n**Client / Bill To:** Roth-Smith 802 Pamela Mission Matthewview, IL 73213\n**Client Tax ID:** 935-77-3388\n**IBAN / Payment Ref:** GB25DWRK25073532649300\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Original Nintendo Gaming Console with Robot, 9 games & extras | 1.0 | $475.00 | $522.50 |\n| Nintendo Switch Gaming Console W/ Neon Blue & Red Controllers,Carry Case,Cable | 2.0 | $300.00 | $660.00 |\n\n**Subtotal (Net):** $1075.00\n**Total Tax / VAT:** $107.50\n**Total Gross Amount Due:** $1182.50\n\n---\n*Source Image: data/real_invoices/images/49923258.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-49923258'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Original Nintendo Gaming Console with Robot, 9 games & extras</td><td>1.0</td><td>475.00</td><td>522.50</td></tr><tr><td>Nintendo Switch Gaming Console W/ Neon Blue & Red Controllers,Carry Case,Cable</td><td>2.0</td><td>300.00</td><td>660.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1075.00</td></tr><tr><td colspan='3'>Tax / VAT</td><td>107.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1182.50</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-49923258-ITEM-1",
+      "item_description": "Original Nintendo Gaming Console with Robot, 9 games & extras",
+      "quantity": 1.0,
+      "unit_price": 475.0,
+      "line_total": 522.5
+    },
+    {
+      "item_id": "INV-49923258-ITEM-2",
+      "item_description": "Nintendo Switch Gaming Console W/ Neon Blue & Red Controllers,Carry Case,Cable",
+      "quantity": 2.0,
+      "unit_price": 300.0,
+      "line_total": 660.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/49923258.jpg"
+}

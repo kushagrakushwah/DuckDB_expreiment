@@ -1,0 +1,47 @@
+{
+  "invoice_id": "24344887",
+  "file_name": "24344887.jpg",
+  "vendor_name": "Cook Group",
+  "invoice_date": "2020-02-20",
+  "due_date": "2020-02-20",
+  "currency": "USD",
+  "subtotal": 54.99,
+  "tax_amount": 5.5,
+  "total_amount": 60.49,
+  "line_items_count": 4,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 24344887\n**Invoice Date:** 2020-02-20\n**Seller / Vendor:** Cook Group 2562 Christie Freeway New Kimberly, WV 35092\n**Seller Tax ID:** 909-87-7832\n**Client / Bill To:** Mercado-Nelson 53379 Kenneth Prairie Andreside, AL 50687\n**Client Tax ID:** 951-75-2882\n**IBAN / Payment Ref:** GB54XIPK87973282182425\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Endurance : Shackleton's Incredible Voyage by Alfred Lansing | 4.0 | $4.09 | $18.00 |\n| The Wim Hof Method Activate Your Potential, Transcend Your Limits00D | 1.0 | $4.22 | $4.64 |\n| B0028NA06C Shoeless Joe | 4.0 | $3.49 | $15.36 |\n| A History of Christianity Vol. 1 : Beginnings to 1500 by Kenneth S. Latourette | 5.0 | $4.09 | $22.49 |\n\n**Subtotal (Net):** $54.99\n**Total Tax / VAT:** $5.50\n**Total Gross Amount Due:** $60.49\n\n---\n*Source Image: data/real_invoices/images/24344887.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-24344887'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Endurance : Shackleton's Incredible Voyage by Alfred Lansing</td><td>4.0</td><td>4.09</td><td>18.00</td></tr><tr><td>The Wim Hof Method Activate Your Potential, Transcend Your Limits00D</td><td>1.0</td><td>4.22</td><td>4.64</td></tr><tr><td>B0028NA06C Shoeless Joe</td><td>4.0</td><td>3.49</td><td>15.36</td></tr><tr><td>A History of Christianity Vol. 1 : Beginnings to 1500 by Kenneth S. Latourette</td><td>5.0</td><td>4.09</td><td>22.49</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>54.99</td></tr><tr><td colspan='3'>Tax / VAT</td><td>5.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60.49</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-24344887-ITEM-1",
+      "item_description": "Endurance : Shackleton's Incredible Voyage by Alfred Lansing",
+      "quantity": 4.0,
+      "unit_price": 4.09,
+      "line_total": 18.0
+    },
+    {
+      "item_id": "INV-24344887-ITEM-2",
+      "item_description": "The Wim Hof Method Activate Your Potential, Transcend Your Limits00D",
+      "quantity": 1.0,
+      "unit_price": 4.22,
+      "line_total": 4.64
+    },
+    {
+      "item_id": "INV-24344887-ITEM-3",
+      "item_description": "B0028NA06C Shoeless Joe",
+      "quantity": 4.0,
+      "unit_price": 3.49,
+      "line_total": 15.36
+    },
+    {
+      "item_id": "INV-24344887-ITEM-4",
+      "item_description": "A History of Christianity Vol. 1 : Beginnings to 1500 by Kenneth S. Latourette",
+      "quantity": 5.0,
+      "unit_price": 4.09,
+      "line_total": 22.49
+    }
+  ],
+  "image_path": "data/real_invoices/images/24344887.jpg"
+}

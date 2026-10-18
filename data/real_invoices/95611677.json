@@ -1,0 +1,33 @@
+{
+  "invoice_id": "95611677",
+  "file_name": "95611677.jpg",
+  "vendor_name": "Franco Group",
+  "invoice_date": "2016-07-19",
+  "due_date": "2016-07-19",
+  "currency": "USD",
+  "subtotal": 958.27,
+  "tax_amount": 95.83,
+  "total_amount": 1054.1,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 95611677\n**Invoice Date:** 2016-07-19\n**Seller / Vendor:** Franco Group 796 Arnold Cove Apt. 091 Reginaport, AZ 06940\n**Seller Tax ID:** 973-97-5084\n**Client / Bill To:** Johnson Group 0693 Robin Mountain Apt. 180 Lake Christina, MI 87634\n**Client Tax ID:** 952-81-0165\n**IBAN / Payment Ref:** GB95MPFV88552069556163\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Round Indian Braided Jute Carpet I Hand Woven Brown Round Shape Living Room Rug | 5.0 | $49.99 | $274.95 |\n| Cartoon Rabbit Printed Round Carpet Area Rug Children Play Tent Floor Mat Rug | 4.0 | $177.08 | $779.15 |\n\n**Subtotal (Net):** $958.27\n**Total Tax / VAT:** $95.83\n**Total Gross Amount Due:** $1054.10\n\n---\n*Source Image: data/real_invoices/images/95611677.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-95611677'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Round Indian Braided Jute Carpet I Hand Woven Brown Round Shape Living Room Rug</td><td>5.0</td><td>49.99</td><td>274.95</td></tr><tr><td>Cartoon Rabbit Printed Round Carpet Area Rug Children Play Tent Floor Mat Rug</td><td>4.0</td><td>177.08</td><td>779.15</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>958.27</td></tr><tr><td colspan='3'>Tax / VAT</td><td>95.83</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1054.10</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-95611677-ITEM-1",
+      "item_description": "Round Indian Braided Jute Carpet I Hand Woven Brown Round Shape Living Room Rug",
+      "quantity": 5.0,
+      "unit_price": 49.99,
+      "line_total": 274.95
+    },
+    {
+      "item_id": "INV-95611677-ITEM-2",
+      "item_description": "Cartoon Rabbit Printed Round Carpet Area Rug Children Play Tent Floor Mat Rug",
+      "quantity": 4.0,
+      "unit_price": 177.08,
+      "line_total": 779.15
+    }
+  ],
+  "image_path": "data/real_invoices/images/95611677.jpg"
+}

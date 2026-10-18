@@ -1,0 +1,47 @@
+{
+  "invoice_id": "92651511",
+  "file_name": "92651511.jpg",
+  "vendor_name": "Jones Inc",
+  "invoice_date": "2015-01-18",
+  "due_date": "2015-01-18",
+  "currency": "USD",
+  "subtotal": 12714.86,
+  "tax_amount": 1271.49,
+  "total_amount": 13986.35,
+  "line_items_count": 4,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 92651511\n**Invoice Date:** 2015-01-18\n**Seller / Vendor:** Jones Inc 841 Megan Square Apt. 156 Danielbury, VA 27103\n**Seller Tax ID:** 953-80-8084\n**Client / Bill To:** Macdonald Ltd 33169 Cody Falls Apt. 775 North Matthew, MA 96841\n**Client Tax ID:** 989-90-6230\n**IBAN / Payment Ref:** GB20PPSV40476334461682\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Rug Beni Ourain, Moroccan Handmade 100% Wool Area Rug Berber Beni Ouarain Carpet | 4.0 | $450.00 | $1980.00 |\n| Nordic Style Round Carpet Blue Green Stitching Pattern Decor Rug Room Area Rugs | 4.0 | $25.30 | $111.32 |\n| YILONG 4'x6' Vintage Handmade Carpet Medallion Porch Hand Knotted Silk Rugs 080B | 3.0 | $3600.00 | $11880.00 |\n| Nordic Cartoon Phoenix Carpets Kids Bedroom Area Rugs Parlor Anti-slip Mat Decor | 1.0 | $13.66 | $15.03 |\n\n**Subtotal (Net):** $12714.86\n**Total Tax / VAT:** $1271.49\n**Total Gross Amount Due:** $13986.35\n\n---\n*Source Image: data/real_invoices/images/92651511.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-92651511'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Rug Beni Ourain, Moroccan Handmade 100% Wool Area Rug Berber Beni Ouarain Carpet</td><td>4.0</td><td>450.00</td><td>1980.00</td></tr><tr><td>Nordic Style Round Carpet Blue Green Stitching Pattern Decor Rug Room Area Rugs</td><td>4.0</td><td>25.30</td><td>111.32</td></tr><tr><td>YILONG 4'x6' Vintage Handmade Carpet Medallion Porch Hand Knotted Silk Rugs 080B</td><td>3.0</td><td>3600.00</td><td>11880.00</td></tr><tr><td>Nordic Cartoon Phoenix Carpets Kids Bedroom Area Rugs Parlor Anti-slip Mat Decor</td><td>1.0</td><td>13.66</td><td>15.03</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>12714.86</td></tr><tr><td colspan='3'>Tax / VAT</td><td>1271.49</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>13986.35</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-92651511-ITEM-1",
+      "item_description": "Rug Beni Ourain, Moroccan Handmade 100% Wool Area Rug Berber Beni Ouarain Carpet",
+      "quantity": 4.0,
+      "unit_price": 450.0,
+      "line_total": 1980.0
+    },
+    {
+      "item_id": "INV-92651511-ITEM-2",
+      "item_description": "Nordic Style Round Carpet Blue Green Stitching Pattern Decor Rug Room Area Rugs",
+      "quantity": 4.0,
+      "unit_price": 25.3,
+      "line_total": 111.32
+    },
+    {
+      "item_id": "INV-92651511-ITEM-3",
+      "item_description": "YILONG 4'x6' Vintage Handmade Carpet Medallion Porch Hand Knotted Silk Rugs 080B",
+      "quantity": 3.0,
+      "unit_price": 3600.0,
+      "line_total": 11880.0
+    },
+    {
+      "item_id": "INV-92651511-ITEM-4",
+      "item_description": "Nordic Cartoon Phoenix Carpets Kids Bedroom Area Rugs Parlor Anti-slip Mat Decor",
+      "quantity": 1.0,
+      "unit_price": 13.66,
+      "line_total": 15.03
+    }
+  ],
+  "image_path": "data/real_invoices/images/92651511.jpg"
+}

@@ -1,0 +1,47 @@
+{
+  "invoice_id": "87970852",
+  "file_name": "87970852.jpg",
+  "vendor_name": "Harvey-Rivas",
+  "invoice_date": "2018-05-16",
+  "due_date": "2018-05-16",
+  "currency": "USD",
+  "subtotal": 304.58,
+  "tax_amount": 30.46,
+  "total_amount": 335.04,
+  "line_items_count": 4,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 87970852\n**Invoice Date:** 2018-05-16\n**Seller / Vendor:** Harvey-Rivas 205 Smith Camp Lewiston, TX 81451\n**Seller Tax ID:** 944-74-6922\n**Client / Bill To:** Trujillo PLC USS Chen FPO AA 56870\n**Client Tax ID:** 903-83-8188\n**IBAN / Payment Ref:** GB80JAPJ33404818900485\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Rabbit Wine Tool Kit 6 Piece Set. Open box Sealed | 3.0 | $24.20 | $79.86 |\n| Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H | 4.0 | $8.00 | $35.20 |\n| VINTAGE ANTIQUE BRASS TABLE TOP WINE BOTTLE OPENER /WOOD HANDLE | 3.0 | $60.00 | $198.00 |\n| Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver | 1.0 | $19.98 | $21.98 |\n\n**Subtotal (Net):** $304.58\n**Total Tax / VAT:** $30.46\n**Total Gross Amount Due:** $335.04\n\n---\n*Source Image: data/real_invoices/images/87970852.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-87970852'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Rabbit Wine Tool Kit 6 Piece Set. Open box Sealed</td><td>3.0</td><td>24.20</td><td>79.86</td></tr><tr><td>Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H</td><td>4.0</td><td>8.00</td><td>35.20</td></tr><tr><td>VINTAGE ANTIQUE BRASS TABLE TOP WINE BOTTLE OPENER /WOOD HANDLE</td><td>3.0</td><td>60.00</td><td>198.00</td></tr><tr><td>Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver</td><td>1.0</td><td>19.98</td><td>21.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>304.58</td></tr><tr><td colspan='3'>Tax / VAT</td><td>30.46</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>335.04</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-87970852-ITEM-1",
+      "item_description": "Rabbit Wine Tool Kit 6 Piece Set. Open box Sealed",
+      "quantity": 3.0,
+      "unit_price": 24.2,
+      "line_total": 79.86
+    },
+    {
+      "item_id": "INV-87970852-ITEM-2",
+      "item_description": "Lolita Happy Retirement Wine Glass 15 Ounce GLS11-5534H",
+      "quantity": 4.0,
+      "unit_price": 8.0,
+      "line_total": 35.2
+    },
+    {
+      "item_id": "INV-87970852-ITEM-3",
+      "item_description": "VINTAGE ANTIQUE BRASS TABLE TOP WINE BOTTLE OPENER /WOOD HANDLE",
+      "quantity": 3.0,
+      "unit_price": 60.0,
+      "line_total": 198.0
+    },
+    {
+      "item_id": "INV-87970852-ITEM-4",
+      "item_description": "Anthropologie Gold Elegant Swan Decorative Metal Bottle Stopper Wine Saver",
+      "quantity": 1.0,
+      "unit_price": 19.98,
+      "line_total": 21.98
+    }
+  ],
+  "image_path": "data/real_invoices/images/87970852.jpg"
+}

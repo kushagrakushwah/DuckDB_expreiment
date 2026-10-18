@@ -1,0 +1,26 @@
+{
+  "invoice_id": "40378170",
+  "file_name": "40378170.jpg",
+  "vendor_name": "Patel, Thompson and Montgomery",
+  "invoice_date": "2012-10-15",
+  "due_date": "2012-10-15",
+  "currency": "USD",
+  "subtotal": 7.5,
+  "tax_amount": 0.75,
+  "total_amount": 8.25,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 40378170\n**Invoice Date:** 2012-10-15\n**Seller / Vendor:** Patel, Thompson and Montgomery 356 Kyle Vista New James, MA 46228\n**Seller Tax ID:** 958-74-3511\n**Client / Bill To:** Jackson, Odonnell and Jackson 267 John Track Suite 841 Jenniferville, PA 98601\n**Client Tax ID:** 998-87-7723\n**IBAN / Payment Ref:** GB77WRBQ31965128414006\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Leed's Wine Companion Bottle Corkscrew Opener Gift Box Set with Foil Cutter | 1.0 | $7.50 | $8.25 |\n\n**Subtotal (Net):** $7.50\n**Total Tax / VAT:** $0.75\n**Total Gross Amount Due:** $8.25\n\n---\n*Source Image: data/real_invoices/images/40378170.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-40378170'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Leed's Wine Companion Bottle Corkscrew Opener Gift Box Set with Foil Cutter</td><td>1.0</td><td>7.50</td><td>8.25</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7.50</td></tr><tr><td colspan='3'>Tax / VAT</td><td>0.75</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>8.25</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-40378170-ITEM-1",
+      "item_description": "Leed's Wine Companion Bottle Corkscrew Opener Gift Box Set with Foil Cutter",
+      "quantity": 1.0,
+      "unit_price": 7.5,
+      "line_total": 8.25
+    }
+  ],
+  "image_path": "data/real_invoices/images/40378170.jpg"
+}

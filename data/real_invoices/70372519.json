@@ -1,0 +1,68 @@
+{
+  "invoice_id": "70372519",
+  "file_name": "70372519.jpg",
+  "vendor_name": "Williamson, Murphy and Winters",
+  "invoice_date": "2013-05-01",
+  "due_date": "2013-05-01",
+  "currency": "USD",
+  "subtotal": 4469.89,
+  "tax_amount": 446.99,
+  "total_amount": 4916.88,
+  "line_items_count": 7,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 70372519\n**Invoice Date:** 2013-05-01\n**Seller / Vendor:** Williamson, Murphy and Winters 6341 Pamela Views Smithtown, DC 63428\n**Seller Tax ID:** 970-75-4240\n**Client / Bill To:** Brown, Rodriguez and Lopez 8747 Charles Alley Sherrybury, CT 27957\n**Client Tax ID:** 933-82-8453\n**IBAN / Payment Ref:** GB19KZPB65453134501012\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Black Nintendo Wii Console Bundle RVL-101 with 2 Controllers & Cords | 3.0 | $89.99 | $296.97 |\n| SONY Playstation2 Console SCPH-39000 \" Aqua Color \" / TESTED 11180 | 3.0 | $60.00 | $198.00 |\n| Sony PlayStation 5 Console - White Digital Version | 5.0 | $630.00 | $3465.00 |\n| Nintendo Wii Console Mario Kart Controller Wii Fit 2 Board Remotes Game BUNDLE | 1.0 | $199.97 | $219.97 |\n| Sega V Saturn Victor Console RG-JX1 Gray Tested Working | 2.0 | $109.99 | $241.98 |\n| Super Nintendo SNES System Console SNS 001 with 2 Controllers Cleaned And Tested | 1.0 | $149.99 | $164.99 |\n| Retro Arcade Game Console All In One 128G Raspberry PI 4 Model B 4GB Plug Play | 2.0 | $149.99 | $329.98 |\n\n**Subtotal (Net):** $4469.89\n**Total Tax / VAT:** $446.99\n**Total Gross Amount Due:** $4916.88\n\n---\n*Source Image: data/real_invoices/images/70372519.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-70372519'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Black Nintendo Wii Console Bundle RVL-101 with 2 Controllers & Cords</td><td>3.0</td><td>89.99</td><td>296.97</td></tr><tr><td>SONY Playstation2 Console SCPH-39000 \" Aqua Color \" / TESTED 11180</td><td>3.0</td><td>60.00</td><td>198.00</td></tr><tr><td>Sony PlayStation 5 Console - White Digital Version</td><td>5.0</td><td>630.00</td><td>3465.00</td></tr><tr><td>Nintendo Wii Console Mario Kart Controller Wii Fit 2 Board Remotes Game BUNDLE</td><td>1.0</td><td>199.97</td><td>219.97</td></tr><tr><td>Sega V Saturn Victor Console RG-JX1 Gray Tested Working</td><td>2.0</td><td>109.99</td><td>241.98</td></tr><tr><td>Super Nintendo SNES System Console SNS 001 with 2 Controllers Cleaned And Tested</td><td>1.0</td><td>149.99</td><td>164.99</td></tr><tr><td>Retro Arcade Game Console All In One 128G Raspberry PI 4 Model B 4GB Plug Play</td><td>2.0</td><td>149.99</td><td>329.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4469.89</td></tr><tr><td colspan='3'>Tax / VAT</td><td>446.99</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4916.88</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-70372519-ITEM-1",
+      "item_description": "Black Nintendo Wii Console Bundle RVL-101 with 2 Controllers & Cords",
+      "quantity": 3.0,
+      "unit_price": 89.99,
+      "line_total": 296.97
+    },
+    {
+      "item_id": "INV-70372519-ITEM-2",
+      "item_description": "SONY Playstation2 Console SCPH-39000 \" Aqua Color \" / TESTED 11180",
+      "quantity": 3.0,
+      "unit_price": 60.0,
+      "line_total": 198.0
+    },
+    {
+      "item_id": "INV-70372519-ITEM-3",
+      "item_description": "Sony PlayStation 5 Console - White Digital Version",
+      "quantity": 5.0,
+      "unit_price": 630.0,
+      "line_total": 3465.0
+    },
+    {
+      "item_id": "INV-70372519-ITEM-4",
+      "item_description": "Nintendo Wii Console Mario Kart Controller Wii Fit 2 Board Remotes Game BUNDLE",
+      "quantity": 1.0,
+      "unit_price": 199.97,
+      "line_total": 219.97
+    },
+    {
+      "item_id": "INV-70372519-ITEM-5",
+      "item_description": "Sega V Saturn Victor Console RG-JX1 Gray Tested Working",
+      "quantity": 2.0,
+      "unit_price": 109.99,
+      "line_total": 241.98
+    },
+    {
+      "item_id": "INV-70372519-ITEM-6",
+      "item_description": "Super Nintendo SNES System Console SNS 001 with 2 Controllers Cleaned And Tested",
+      "quantity": 1.0,
+      "unit_price": 149.99,
+      "line_total": 164.99
+    },
+    {
+      "item_id": "INV-70372519-ITEM-7",
+      "item_description": "Retro Arcade Game Console All In One 128G Raspberry PI 4 Model B 4GB Plug Play",
+      "quantity": 2.0,
+      "unit_price": 149.99,
+      "line_total": 329.98
+    }
+  ],
+  "image_path": "data/real_invoices/images/70372519.jpg"
+}

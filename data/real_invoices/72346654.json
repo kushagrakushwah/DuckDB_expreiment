@@ -1,0 +1,54 @@
+{
+  "invoice_id": "72346654",
+  "file_name": "72346654.jpg",
+  "vendor_name": "Malone-Lopez",
+  "invoice_date": "2015-10-25",
+  "due_date": "2015-10-25",
+  "currency": "USD",
+  "subtotal": 6757.46,
+  "tax_amount": 675.75,
+  "total_amount": 7433.21,
+  "line_items_count": 5,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 72346654\n**Invoice Date:** 2015-10-25\n**Seller / Vendor:** Malone-Lopez 851 Hall Extensions Apt. 554 Port Yolandaland, WY 20517\n**Seller Tax ID:** 955-96-9323\n**Client / Bill To:** Perez Group 480 Destiny Ridge Suite 247 Port Laura, IL 30520\n**Client Tax ID:** 927-90-3514\n**IBAN / Payment Ref:** GB98THYE24829931003032\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL | 3.0 | $12.50 | $41.25 |\n| Rebecca Minkoff Black Polyester Fringe and Lambskin Dress Sz 12 | 2.0 | $9.99 | $21.98 |\n| balmain dress 36 | 4.0 | $1550.00 | $6820.00 |\n| sandro dress | 5.0 | $80.00 | $440.00 |\n| Kate Spade NY Sleeveless Ponte Fit & Flare Solid Black Dress Size 6 | 2.0 | $49.99 | $109.98 |\n\n**Subtotal (Net):** $6757.46\n**Total Tax / VAT:** $675.75\n**Total Gross Amount Due:** $7433.21\n\n---\n*Source Image: data/real_invoices/images/72346654.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-72346654'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL</td><td>3.0</td><td>12.50</td><td>41.25</td></tr><tr><td>Rebecca Minkoff Black Polyester Fringe and Lambskin Dress Sz 12</td><td>2.0</td><td>9.99</td><td>21.98</td></tr><tr><td>balmain dress 36</td><td>4.0</td><td>1550.00</td><td>6820.00</td></tr><tr><td>sandro dress</td><td>5.0</td><td>80.00</td><td>440.00</td></tr><tr><td>Kate Spade NY Sleeveless Ponte Fit & Flare Solid Black Dress Size 6</td><td>2.0</td><td>49.99</td><td>109.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>6757.46</td></tr><tr><td colspan='3'>Tax / VAT</td><td>675.75</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7433.21</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-72346654-ITEM-1",
+      "item_description": "NWT Women's MAX EDITION Classy Gray Knit Stretch Dress side bow tie 3/4 sleeve XL",
+      "quantity": 3.0,
+      "unit_price": 12.5,
+      "line_total": 41.25
+    },
+    {
+      "item_id": "INV-72346654-ITEM-2",
+      "item_description": "Rebecca Minkoff Black Polyester Fringe and Lambskin Dress Sz 12",
+      "quantity": 2.0,
+      "unit_price": 9.99,
+      "line_total": 21.98
+    },
+    {
+      "item_id": "INV-72346654-ITEM-3",
+      "item_description": "balmain dress 36",
+      "quantity": 4.0,
+      "unit_price": 1550.0,
+      "line_total": 6820.0
+    },
+    {
+      "item_id": "INV-72346654-ITEM-4",
+      "item_description": "sandro dress",
+      "quantity": 5.0,
+      "unit_price": 80.0,
+      "line_total": 440.0
+    },
+    {
+      "item_id": "INV-72346654-ITEM-5",
+      "item_description": "Kate Spade NY Sleeveless Ponte Fit & Flare Solid Black Dress Size 6",
+      "quantity": 2.0,
+      "unit_price": 49.99,
+      "line_total": 109.98
+    }
+  ],
+  "image_path": "data/real_invoices/images/72346654.jpg"
+}

@@ -1,0 +1,33 @@
+{
+  "invoice_id": "40703934",
+  "file_name": "40703934.jpg",
+  "vendor_name": "Morales LLC",
+  "invoice_date": "2016-03-10",
+  "due_date": "2016-03-10",
+  "currency": "USD",
+  "subtotal": 217.48,
+  "tax_amount": 21.75,
+  "total_amount": 239.23,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 40703934\n**Invoice Date:** 2016-03-10\n**Seller / Vendor:** Morales LLC 0655 Miles Radial Darlenetown, IL 99206\n**Seller Tax ID:** 980-91-2489\n**Client / Bill To:** Moore-Miller 617 Davis Land Apt. 270 Hammondberg, AR 43526\n**Client Tax ID:** 995-90-7291\n**IBAN / Payment Ref:** GB76QY1O56599829861096\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Victorian European Country Traditional Floral Floor Mat Area Rug Carpet Beige U | 1.0 | $178.00 | $195.80 |\n| Round Rug Carpet For Living Room Decor Faux Fur Rugs Kids Room Long Plush Rugs | 4.0 | $10.86 | $43.43 |\n\n**Subtotal (Net):** $217.48\n**Total Tax / VAT:** $21.75\n**Total Gross Amount Due:** $239.23\n\n---\n*Source Image: data/real_invoices/images/40703934.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-40703934'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Victorian European Country Traditional Floral Floor Mat Area Rug Carpet Beige U</td><td>1.0</td><td>178.00</td><td>195.80</td></tr><tr><td>Round Rug Carpet For Living Room Decor Faux Fur Rugs Kids Room Long Plush Rugs</td><td>4.0</td><td>10.86</td><td>43.43</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>217.48</td></tr><tr><td colspan='3'>Tax / VAT</td><td>21.75</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>239.23</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-40703934-ITEM-1",
+      "item_description": "Victorian European Country Traditional Floral Floor Mat Area Rug Carpet Beige U",
+      "quantity": 1.0,
+      "unit_price": 178.0,
+      "line_total": 195.8
+    },
+    {
+      "item_id": "INV-40703934-ITEM-2",
+      "item_description": "Round Rug Carpet For Living Room Decor Faux Fur Rugs Kids Room Long Plush Rugs",
+      "quantity": 4.0,
+      "unit_price": 10.86,
+      "line_total": 43.43
+    }
+  ],
+  "image_path": "data/real_invoices/images/40703934.jpg"
+}

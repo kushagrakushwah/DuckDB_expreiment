@@ -1,0 +1,61 @@
+{
+  "invoice_id": "33691533",
+  "file_name": "33691533.jpg",
+  "vendor_name": "Fowler-Griffin",
+  "invoice_date": "2014-07-25",
+  "due_date": "2014-07-25",
+  "currency": "USD",
+  "subtotal": 3290.45,
+  "tax_amount": 329.05,
+  "total_amount": 3619.5,
+  "line_items_count": 6,
+  "page_count": 1,
+  "document_quality_score": 0.95,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** 33691533\n**Invoice Date:** 2014-07-25\n**Seller / Vendor:** Fowler-Griffin 3122 Gene Mountain Marcport, AK 52348\n**Seller Tax ID:** 996-86-5609\n**Client / Bill To:** Scott-Garcia 808 Stacy Squares East Oscarchester, KS 93753\n**Client Tax ID:** 963-95-6326\n**IBAN / Payment Ref:** GB79HWNL47420369669125\n\n## Itemized Line Items\n| Description | Qty | Net Unit Price | Line Gross Total |\n| :--- | :---: | :---: | :---: |\n| Dell Optiplex 9010 PC Computer | 5.0 | $99.90 | $549.45 |\n| HP 8300 Slim Desktop Small Computer PC i5 3.2GHz 4GB 500GB Windows 10 Pro WiFi | 4.0 | $99.99 | $439.96 |\n| Custom Built Windows 98 Retro Gaming Industrial PC Computer P2 B Montego II 5GB | 1.0 | $409.99 | $450.99 |\n| Custom Build Dell Desktop Computer i5 I 16GB I 1TB SSD I HDMI Windows 10 PC WiFi | 4.0 | $99.00 | $435.60 |\n| $5.00 Desktop Computers! | 5.0 | $5.00 | $27.50 |\n| CAD Solidworks Video Photo Editing Workstation 64GB 8C Xeon Quadro Computer NVME | 3.0 | $520.00 | $1716.00 |\n\n**Subtotal (Net):** $3290.45\n**Total Tax / VAT:** $329.05\n**Total Gross Amount Due:** $3619.50\n\n---\n*Source Image: data/real_invoices/images/33691533.jpg*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-33691533'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Dell Optiplex 9010 PC Computer</td><td>5.0</td><td>99.90</td><td>549.45</td></tr><tr><td>HP 8300 Slim Desktop Small Computer PC i5 3.2GHz 4GB 500GB Windows 10 Pro WiFi</td><td>4.0</td><td>99.99</td><td>439.96</td></tr><tr><td>Custom Built Windows 98 Retro Gaming Industrial PC Computer P2 B Montego II 5GB</td><td>1.0</td><td>409.99</td><td>450.99</td></tr><tr><td>Custom Build Dell Desktop Computer i5 I 16GB I 1TB SSD I HDMI Windows 10 PC WiFi</td><td>4.0</td><td>99.00</td><td>435.60</td></tr><tr><td>$5.00 Desktop Computers!</td><td>5.0</td><td>5.00</td><td>27.50</td></tr><tr><td>CAD Solidworks Video Photo Editing Workstation 64GB 8C Xeon Quadro Computer NVME</td><td>3.0</td><td>520.00</td><td>1716.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>3290.45</td></tr><tr><td colspan='3'>Tax / VAT</td><td>329.05</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>3619.50</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-33691533-ITEM-1",
+      "item_description": "Dell Optiplex 9010 PC Computer",
+      "quantity": 5.0,
+      "unit_price": 99.9,
+      "line_total": 549.45
+    },
+    {
+      "item_id": "INV-33691533-ITEM-2",
+      "item_description": "HP 8300 Slim Desktop Small Computer PC i5 3.2GHz 4GB 500GB Windows 10 Pro WiFi",
+      "quantity": 4.0,
+      "unit_price": 99.99,
+      "line_total": 439.96
+    },
+    {
+      "item_id": "INV-33691533-ITEM-3",
+      "item_description": "Custom Built Windows 98 Retro Gaming Industrial PC Computer P2 B Montego II 5GB",
+      "quantity": 1.0,
+      "unit_price": 409.99,
+      "line_total": 450.99
+    },
+    {
+      "item_id": "INV-33691533-ITEM-4",
+      "item_description": "Custom Build Dell Desktop Computer i5 I 16GB I 1TB SSD I HDMI Windows 10 PC WiFi",
+      "quantity": 4.0,
+      "unit_price": 99.0,
+      "line_total": 435.6
+    },
+    {
+      "item_id": "INV-33691533-ITEM-5",
+      "item_description": "$5.00 Desktop Computers!",
+      "quantity": 5.0,
+      "unit_price": 5.0,
+      "line_total": 27.5
+    },
+    {
+      "item_id": "INV-33691533-ITEM-6",
+      "item_description": "CAD Solidworks Video Photo Editing Workstation 64GB 8C Xeon Quadro Computer NVME",
+      "quantity": 3.0,
+      "unit_price": 520.0,
+      "line_total": 1716.0
+    }
+  ],
+  "image_path": "data/real_invoices/images/33691533.jpg"
+}
