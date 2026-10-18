@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-2026-1049",
+  "file_name": "INV-2026-1049.pdf",
+  "vendor_name": "CloudScale Technologies",
+  "invoice_date": "2026-05-22",
+  "due_date": "2026-07-06",
+  "currency": "USD",
+  "subtotal": 972.65,
+  "tax_amount": 80.24,
+  "total_amount": 1052.89,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.976,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1049\n**Date:** 2026-05-22\n**Due Date:** 2026-07-06\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-176\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $194.53 | $972.65 |\n\n**Subtotal:** $972.65\n**Tax Amount (8.2%):** $80.24\n**Total Amount Due:** $1052.89\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1049'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>194.53</td><td>972.65</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>972.65</td></tr><tr><td colspan='3'>Tax</td><td>80.24</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1052.89</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1049-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 5,
+      "unit_price": 194.53,
+      "line_total": 972.65
+    }
+  ]
+}

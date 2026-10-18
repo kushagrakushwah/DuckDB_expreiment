@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1019",
+  "file_name": "INV-2026-1019.pdf",
+  "vendor_name": "Vertex Industrial Supply",
+  "invoice_date": "2026-06-05",
+  "due_date": "2026-07-05",
+  "currency": "USD",
+  "subtotal": 7322.42,
+  "tax_amount": 512.57,
+  "total_amount": 7834.99,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.821,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1019\n**Date:** 2026-06-05\n**Due Date:** 2026-07-05\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-720\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $191.91 | $3838.20 |\n| Enterprise Cloud Storage (1TB/mo) | 2 | $117.82 | $235.64 |\n| Hardware Maintenance & Replacement Kit | 1 | $319.98 | $319.98 |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $146.43 | $2928.60 |\n\n**Subtotal:** $7322.42\n**Tax Amount (7.0%):** $512.57\n**Total Amount Due:** $7834.99\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1019'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>191.91</td><td>3838.20</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>2</td><td>117.82</td><td>235.64</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>319.98</td><td>319.98</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>146.43</td><td>2928.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7322.42</td></tr><tr><td colspan='3'>Tax</td><td>512.57</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7834.99</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1019-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 191.91,
+      "line_total": 3838.2
+    },
+    {
+      "item_id": "INV-2026-1019-ITEM-2",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 2,
+      "unit_price": 117.82,
+      "line_total": 235.64
+    },
+    {
+      "item_id": "INV-2026-1019-ITEM-3",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 1,
+      "unit_price": 319.98,
+      "line_total": 319.98
+    },
+    {
+      "item_id": "INV-2026-1019-ITEM-4",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 20,
+      "unit_price": 146.43,
+      "line_total": 2928.6
+    }
+  ]
+}

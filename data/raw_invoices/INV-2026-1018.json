@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1018",
+  "file_name": "INV-2026-1018.pdf",
+  "vendor_name": "Vertex Industrial Supply",
+  "invoice_date": "2026-01-09",
+  "due_date": "2026-02-23",
+  "currency": "USD",
+  "subtotal": 33812.06,
+  "tax_amount": 2366.84,
+  "total_amount": 36178.9,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.891,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1018\n**Date:** 2026-01-09\n**Due Date:** 2026-02-23\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-864\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 20 | $848.23 | $16964.60 |\n| Hardware Maintenance & Replacement Kit | 50 | $329.60 | $16480.00 |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $142.37 | $284.74 |\n| Software License - Professional Tier (Seats) | 2 | $41.36 | $82.72 |\n\n**Subtotal:** $33812.06\n**Tax Amount (7.0%):** $2366.84\n**Total Amount Due:** $36178.90\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1018'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>848.23</td><td>16964.60</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>50</td><td>329.60</td><td>16480.00</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>142.37</td><td>284.74</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>41.36</td><td>82.72</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>33812.06</td></tr><tr><td colspan='3'>Tax</td><td>2366.84</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>36178.90</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1018-ITEM-1",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 20,
+      "unit_price": 848.23,
+      "line_total": 16964.6
+    },
+    {
+      "item_id": "INV-2026-1018-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 50,
+      "unit_price": 329.6,
+      "line_total": 16480.0
+    },
+    {
+      "item_id": "INV-2026-1018-ITEM-3",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 2,
+      "unit_price": 142.37,
+      "line_total": 284.74
+    },
+    {
+      "item_id": "INV-2026-1018-ITEM-4",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 2,
+      "unit_price": 41.36,
+      "line_total": 82.72
+    }
+  ]
+}

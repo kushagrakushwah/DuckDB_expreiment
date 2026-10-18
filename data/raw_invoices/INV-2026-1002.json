@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1002",
+  "file_name": "INV-2026-1002.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-08-26",
+  "due_date": "2026-09-25",
+  "currency": "USD",
+  "subtotal": 10986.2,
+  "tax_amount": 1098.62,
+  "total_amount": 12084.82,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.927,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1002\n**Date:** 2026-08-26\n**Due Date:** 2026-09-25\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-831\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 50 | $189.73 | $9486.50 |\n| Hardware Maintenance & Replacement Kit | 5 | $299.94 | $1499.70 |\n\n**Subtotal:** $10986.20\n**Tax Amount (10.0%):** $1098.62\n**Total Amount Due:** $12084.82\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1002'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>50</td><td>189.73</td><td>9486.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>299.94</td><td>1499.70</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>10986.20</td></tr><tr><td colspan='3'>Tax</td><td>1098.62</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>12084.82</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1002-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 50,
+      "unit_price": 189.73,
+      "line_total": 9486.5
+    },
+    {
+      "item_id": "INV-2026-1002-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 5,
+      "unit_price": 299.94,
+      "line_total": 1499.7
+    }
+  ]
+}

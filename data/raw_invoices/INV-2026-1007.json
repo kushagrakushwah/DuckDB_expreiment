@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1007",
+  "file_name": "INV-2026-1007.pdf",
+  "vendor_name": "CloudScale Technologies",
+  "invoice_date": "2026-08-01",
+  "due_date": "2026-09-15",
+  "currency": "USD",
+  "subtotal": 5878.55,
+  "tax_amount": 293.93,
+  "total_amount": 6172.48,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.983,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1007\n**Date:** 2026-08-01\n**Due Date:** 2026-09-15\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-770\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 1 | $791.93 | $791.93 |\n| Technical Support SLA - 24/7 Platinum | 10 | $468.64 | $4686.40 |\n| Enterprise Cloud Storage (1TB/mo) | 2 | $116.36 | $232.72 |\n| Network Egress & Transit Bandwidth | 50 | $0.07 | $3.50 |\n| High-Performance Compute Node (hr) | 50 | $3.28 | $164.00 |\n\n**Subtotal:** $5878.55\n**Tax Amount (5.0%):** $293.93\n**Total Amount Due:** $6172.48\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1007'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>791.93</td><td>791.93</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>468.64</td><td>4686.40</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>2</td><td>116.36</td><td>232.72</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>50</td><td>0.07</td><td>3.50</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.28</td><td>164.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5878.55</td></tr><tr><td colspan='3'>Tax</td><td>293.93</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>6172.48</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1007-ITEM-1",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 1,
+      "unit_price": 791.93,
+      "line_total": 791.93
+    },
+    {
+      "item_id": "INV-2026-1007-ITEM-2",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 10,
+      "unit_price": 468.64,
+      "line_total": 4686.4
+    },
+    {
+      "item_id": "INV-2026-1007-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 2,
+      "unit_price": 116.36,
+      "line_total": 232.72
+    },
+    {
+      "item_id": "INV-2026-1007-ITEM-4",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 50,
+      "unit_price": 0.07,
+      "line_total": 3.5
+    },
+    {
+      "item_id": "INV-2026-1007-ITEM-5",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 50,
+      "unit_price": 3.28,
+      "line_total": 164.0
+    }
+  ]
+}

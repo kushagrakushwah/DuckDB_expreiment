@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-2026-1034",
+  "file_name": "INV-2026-1034.pdf",
+  "vendor_name": "CyberShield Security Ltd.",
+  "invoice_date": "2026-04-14",
+  "due_date": "2026-04-29",
+  "currency": "USD",
+  "subtotal": 50149.13,
+  "tax_amount": 4137.3,
+  "total_amount": 54286.43,
+  "line_items_count": 6,
+  "page_count": 3,
+  "document_quality_score": 0.886,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1034\n**Date:** 2026-04-14\n**Due Date:** 2026-04-29\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-942\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 5 | $3.41 | $17.05 |\n| SSL/TLS Certificate Renewal (Annual) | 50 | $163.54 | $8177.00 |\n| Managed Database Hosting - Multi-Region | 50 | $825.41 | $41270.50 |\n| Enterprise Cloud Storage (1TB/mo) | 5 | $118.70 | $593.50 |\n| Software License - Professional Tier (Seats) | 2 | $45.47 | $90.94 |\n| Network Egress & Transit Bandwidth | 2 | $0.07 | $0.14 |\n\n**Subtotal:** $50149.13\n**Tax Amount (8.2%):** $4137.30\n**Total Amount Due:** $54286.43\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1034'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.41</td><td>17.05</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>50</td><td>163.54</td><td>8177.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>825.41</td><td>41270.50</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>5</td><td>118.70</td><td>593.50</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>45.47</td><td>90.94</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.07</td><td>0.14</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>50149.13</td></tr><tr><td colspan='3'>Tax</td><td>4137.30</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>54286.43</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1034-ITEM-1",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 5,
+      "unit_price": 3.41,
+      "line_total": 17.05
+    },
+    {
+      "item_id": "INV-2026-1034-ITEM-2",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 50,
+      "unit_price": 163.54,
+      "line_total": 8177.0
+    },
+    {
+      "item_id": "INV-2026-1034-ITEM-3",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 50,
+      "unit_price": 825.41,
+      "line_total": 41270.5
+    },
+    {
+      "item_id": "INV-2026-1034-ITEM-4",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 5,
+      "unit_price": 118.7,
+      "line_total": 593.5
+    },
+    {
+      "item_id": "INV-2026-1034-ITEM-5",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 2,
+      "unit_price": 45.47,
+      "line_total": 90.94
+    },
+    {
+      "item_id": "INV-2026-1034-ITEM-6",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 2,
+      "unit_price": 0.07,
+      "line_total": 0.14
+    }
+  ]
+}

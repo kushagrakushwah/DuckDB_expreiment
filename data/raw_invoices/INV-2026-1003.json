@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1003",
+  "file_name": "INV-2026-1003.pdf",
+  "vendor_name": "BlueSky Consulting Group",
+  "invoice_date": "2026-08-29",
+  "due_date": "2026-10-13",
+  "currency": "USD",
+  "subtotal": 4415.03,
+  "tax_amount": 220.75,
+  "total_amount": 4635.78,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.952,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1003\n**Date:** 2026-08-29\n**Due Date:** 2026-10-13\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-616\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 5 | $3.59 | $17.95 |\n| Managed Database Hosting - Multi-Region | 5 | $879.40 | $4397.00 |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n\n**Subtotal:** $4415.03\n**Tax Amount (5.0%):** $220.75\n**Total Amount Due:** $4635.78\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1003'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.59</td><td>17.95</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>879.40</td><td>4397.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4415.03</td></tr><tr><td colspan='3'>Tax</td><td>220.75</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4635.78</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1003-ITEM-1",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 5,
+      "unit_price": 3.59,
+      "line_total": 17.95
+    },
+    {
+      "item_id": "INV-2026-1003-ITEM-2",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 5,
+      "unit_price": 879.4,
+      "line_total": 4397.0
+    },
+    {
+      "item_id": "INV-2026-1003-ITEM-3",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 1,
+      "unit_price": 0.08,
+      "line_total": 0.08
+    }
+  ]
+}

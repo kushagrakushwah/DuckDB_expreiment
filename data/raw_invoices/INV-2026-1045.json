@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1045",
+  "file_name": "INV-2026-1045.pdf",
+  "vendor_name": "CloudScale Technologies",
+  "invoice_date": "2026-08-18",
+  "due_date": "2026-10-02",
+  "currency": "USD",
+  "subtotal": 9406.06,
+  "tax_amount": 940.61,
+  "total_amount": 10346.67,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.918,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1045\n**Date:** 2026-08-18\n**Due Date:** 2026-10-02\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-368\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $171.77 | $858.85 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $140.41 | $140.41 |\n| Software License - Professional Tier (Seats) | 10 | $43.55 | $435.50 |\n| Technical Support SLA - 24/7 Platinum | 5 | $484.66 | $2423.30 |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $110.96 | $5548.00 |\n\n**Subtotal:** $9406.06\n**Tax Amount (10.0%):** $940.61\n**Total Amount Due:** $10346.67\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1045'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>171.77</td><td>858.85</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>140.41</td><td>140.41</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>10</td><td>43.55</td><td>435.50</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>484.66</td><td>2423.30</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>110.96</td><td>5548.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>9406.06</td></tr><tr><td colspan='3'>Tax</td><td>940.61</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>10346.67</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1045-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 5,
+      "unit_price": 171.77,
+      "line_total": 858.85
+    },
+    {
+      "item_id": "INV-2026-1045-ITEM-2",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 1,
+      "unit_price": 140.41,
+      "line_total": 140.41
+    },
+    {
+      "item_id": "INV-2026-1045-ITEM-3",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 10,
+      "unit_price": 43.55,
+      "line_total": 435.5
+    },
+    {
+      "item_id": "INV-2026-1045-ITEM-4",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 5,
+      "unit_price": 484.66,
+      "line_total": 2423.3
+    },
+    {
+      "item_id": "INV-2026-1045-ITEM-5",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 50,
+      "unit_price": 110.96,
+      "line_total": 5548.0
+    }
+  ]
+}

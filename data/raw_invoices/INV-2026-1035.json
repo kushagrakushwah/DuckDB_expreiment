@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1035",
+  "file_name": "INV-2026-1035.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-07-13",
+  "due_date": "2026-07-28",
+  "currency": "USD",
+  "subtotal": 7646.82,
+  "tax_amount": 764.68,
+  "total_amount": 8411.5,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.929,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1035\n**Date:** 2026-07-13\n**Due Date:** 2026-07-28\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-987\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 5 | $867.01 | $4335.05 |\n| Hardware Maintenance & Replacement Kit | 10 | $320.31 | $3203.10 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $108.67 | $108.67 |\n\n**Subtotal:** $7646.82\n**Tax Amount (10.0%):** $764.68\n**Total Amount Due:** $8411.50\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1035'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>867.01</td><td>4335.05</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>320.31</td><td>3203.10</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>108.67</td><td>108.67</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7646.82</td></tr><tr><td colspan='3'>Tax</td><td>764.68</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>8411.50</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1035-ITEM-1",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 5,
+      "unit_price": 867.01,
+      "line_total": 4335.05
+    },
+    {
+      "item_id": "INV-2026-1035-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 10,
+      "unit_price": 320.31,
+      "line_total": 3203.1
+    },
+    {
+      "item_id": "INV-2026-1035-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 1,
+      "unit_price": 108.67,
+      "line_total": 108.67
+    }
+  ]
+}

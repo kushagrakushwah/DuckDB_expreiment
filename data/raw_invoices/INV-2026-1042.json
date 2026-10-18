@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-2026-1042",
+  "file_name": "INV-2026-1042.pdf",
+  "vendor_name": "CyberShield Security Ltd.",
+  "invoice_date": "2026-07-12",
+  "due_date": "2026-09-10",
+  "currency": "USD",
+  "subtotal": 148692.17,
+  "tax_amount": 12267.1,
+  "total_amount": 160959.27,
+  "line_items_count": 6,
+  "page_count": 3,
+  "document_quality_score": 0.956,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1042\n**Date:** 2026-07-12\n**Due Date:** 2026-09-10\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-912\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $170.31 | $851.55 |\n| Technical Support SLA - 24/7 Platinum | 20 | $481.89 | $9637.80 |\n| Security Audit & Vulnerability Assessment | 50 | $2662.71 | $133135.50 |\n| Hardware Maintenance & Replacement Kit | 2 | $302.76 | $605.52 |\n| High-Performance Compute Node (hr) | 50 | $3.75 | $187.50 |\n| Managed Database Hosting - Multi-Region | 5 | $854.86 | $4274.30 |\n\n**Subtotal:** $148692.17\n**Tax Amount (8.2%):** $12267.10\n**Total Amount Due:** $160959.27\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1042'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>170.31</td><td>851.55</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>20</td><td>481.89</td><td>9637.80</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2662.71</td><td>133135.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>2</td><td>302.76</td><td>605.52</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.75</td><td>187.50</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>854.86</td><td>4274.30</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>148692.17</td></tr><tr><td colspan='3'>Tax</td><td>12267.10</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>160959.27</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1042-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 5,
+      "unit_price": 170.31,
+      "line_total": 851.55
+    },
+    {
+      "item_id": "INV-2026-1042-ITEM-2",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 20,
+      "unit_price": 481.89,
+      "line_total": 9637.8
+    },
+    {
+      "item_id": "INV-2026-1042-ITEM-3",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 50,
+      "unit_price": 2662.71,
+      "line_total": 133135.5
+    },
+    {
+      "item_id": "INV-2026-1042-ITEM-4",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 2,
+      "unit_price": 302.76,
+      "line_total": 605.52
+    },
+    {
+      "item_id": "INV-2026-1042-ITEM-5",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 50,
+      "unit_price": 3.75,
+      "line_total": 187.5
+    },
+    {
+      "item_id": "INV-2026-1042-ITEM-6",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 5,
+      "unit_price": 854.86,
+      "line_total": 4274.3
+    }
+  ]
+}

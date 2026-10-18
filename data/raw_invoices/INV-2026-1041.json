@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-2026-1041",
+  "file_name": "INV-2026-1041.pdf",
+  "vendor_name": "Apex Office & Hardware",
+  "invoice_date": "2026-05-06",
+  "due_date": "2026-07-05",
+  "currency": "USD",
+  "subtotal": 2689.0,
+  "tax_amount": 268.9,
+  "total_amount": 2957.9,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.915,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1041\n**Date:** 2026-05-06\n**Due Date:** 2026-07-05\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-456\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 5 | $537.80 | $2689.00 |\n\n**Subtotal:** $2689.00\n**Tax Amount (10.0%):** $268.90\n**Total Amount Due:** $2957.90\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1041'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>537.80</td><td>2689.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>2689.00</td></tr><tr><td colspan='3'>Tax</td><td>268.90</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>2957.90</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1041-ITEM-1",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 5,
+      "unit_price": 537.8,
+      "line_total": 2689.0
+    }
+  ]
+}

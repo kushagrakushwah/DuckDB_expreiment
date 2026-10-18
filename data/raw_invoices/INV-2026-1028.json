@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1028",
+  "file_name": "INV-2026-1028.pdf",
+  "vendor_name": "Vertex Industrial Supply",
+  "invoice_date": "2026-08-30",
+  "due_date": "2026-09-14",
+  "currency": "USD",
+  "subtotal": 42504.5,
+  "tax_amount": 2125.22,
+  "total_amount": 44629.72,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.896,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1028\n**Date:** 2026-08-30\n**Due Date:** 2026-09-14\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-768\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 5 | $471.60 | $2358.00 |\n| Managed Database Hosting - Multi-Region | 50 | $802.93 | $40146.50 |\n\n**Subtotal:** $42504.50\n**Tax Amount (5.0%):** $2125.22\n**Total Amount Due:** $44629.72\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1028'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>471.60</td><td>2358.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>802.93</td><td>40146.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>42504.50</td></tr><tr><td colspan='3'>Tax</td><td>2125.22</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>44629.72</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1028-ITEM-1",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 5,
+      "unit_price": 471.6,
+      "line_total": 2358.0
+    },
+    {
+      "item_id": "INV-2026-1028-ITEM-2",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 50,
+      "unit_price": 802.93,
+      "line_total": 40146.5
+    }
+  ]
+}

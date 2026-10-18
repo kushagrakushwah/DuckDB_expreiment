@@ -1,0 +1,2162 @@
+[
+  {
+    "invoice_id": "INV-2026-1001",
+    "file_name": "INV-2026-1001.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-04-25",
+    "due_date": "2026-06-09",
+    "currency": "USD",
+    "subtotal": 14665.02,
+    "tax_amount": 1466.5,
+    "total_amount": 16131.52,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.95,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1001\n**Date:** 2026-04-25\n**Due Date:** 2026-06-09\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-403\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 5 | $2541.54 | $12707.70 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $125.94 | $125.94 |\n| Managed Database Hosting - Multi-Region | 2 | $915.69 | $1831.38 |\n\n**Subtotal:** $14665.02\n**Tax Amount (10.0%):** $1466.50\n**Total Amount Due:** $16131.52\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1001'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>5</td><td>2541.54</td><td>12707.70</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>125.94</td><td>125.94</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>915.69</td><td>1831.38</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>14665.02</td></tr><tr><td colspan='3'>Tax</td><td>1466.50</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>16131.52</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1001-ITEM-1",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 5,
+        "unit_price": 2541.54,
+        "line_total": 12707.7
+      },
+      {
+        "item_id": "INV-2026-1001-ITEM-2",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 125.94,
+        "line_total": 125.94
+      },
+      {
+        "item_id": "INV-2026-1001-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 2,
+        "unit_price": 915.69,
+        "line_total": 1831.38
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1002",
+    "file_name": "INV-2026-1002.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-08-26",
+    "due_date": "2026-09-25",
+    "currency": "USD",
+    "subtotal": 10986.2,
+    "tax_amount": 1098.62,
+    "total_amount": 12084.82,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.927,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1002\n**Date:** 2026-08-26\n**Due Date:** 2026-09-25\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-831\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 50 | $189.73 | $9486.50 |\n| Hardware Maintenance & Replacement Kit | 5 | $299.94 | $1499.70 |\n\n**Subtotal:** $10986.20\n**Tax Amount (10.0%):** $1098.62\n**Total Amount Due:** $12084.82\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1002'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>50</td><td>189.73</td><td>9486.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>299.94</td><td>1499.70</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>10986.20</td></tr><tr><td colspan='3'>Tax</td><td>1098.62</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>12084.82</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1002-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 50,
+        "unit_price": 189.73,
+        "line_total": 9486.5
+      },
+      {
+        "item_id": "INV-2026-1002-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 5,
+        "unit_price": 299.94,
+        "line_total": 1499.7
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1003",
+    "file_name": "INV-2026-1003.pdf",
+    "vendor_name": "BlueSky Consulting Group",
+    "invoice_date": "2026-08-29",
+    "due_date": "2026-10-13",
+    "currency": "USD",
+    "subtotal": 4415.03,
+    "tax_amount": 220.75,
+    "total_amount": 4635.78,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.952,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1003\n**Date:** 2026-08-29\n**Due Date:** 2026-10-13\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-616\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 5 | $3.59 | $17.95 |\n| Managed Database Hosting - Multi-Region | 5 | $879.40 | $4397.00 |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n\n**Subtotal:** $4415.03\n**Tax Amount (5.0%):** $220.75\n**Total Amount Due:** $4635.78\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1003'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.59</td><td>17.95</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>879.40</td><td>4397.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4415.03</td></tr><tr><td colspan='3'>Tax</td><td>220.75</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4635.78</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1003-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 5,
+        "unit_price": 3.59,
+        "line_total": 17.95
+      },
+      {
+        "item_id": "INV-2026-1003-ITEM-2",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 5,
+        "unit_price": 879.4,
+        "line_total": 4397.0
+      },
+      {
+        "item_id": "INV-2026-1003-ITEM-3",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 1,
+        "unit_price": 0.08,
+        "line_total": 0.08
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1004",
+    "file_name": "INV-2026-1004.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-02-25",
+    "due_date": "2026-04-26",
+    "currency": "USD",
+    "subtotal": 801.17,
+    "tax_amount": 56.08,
+    "total_amount": 857.25,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.927,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1004\n**Date:** 2026-02-25\n**Due Date:** 2026-04-26\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-519\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 50 | $3.52 | $176.00 |\n| Network Egress & Transit Bandwidth | 5 | $0.08 | $0.40 |\n| Consulting Hours - Senior ML Engineer | 2 | $185.03 | $370.06 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $160.77 | $160.77 |\n| Software License - Professional Tier (Seats) | 2 | $46.97 | $93.94 |\n\n**Subtotal:** $801.17\n**Tax Amount (7.0%):** $56.08\n**Total Amount Due:** $857.25\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1004'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.52</td><td>176.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>5</td><td>0.08</td><td>0.40</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>2</td><td>185.03</td><td>370.06</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>160.77</td><td>160.77</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>46.97</td><td>93.94</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>801.17</td></tr><tr><td colspan='3'>Tax</td><td>56.08</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>857.25</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1004-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 50,
+        "unit_price": 3.52,
+        "line_total": 176.0
+      },
+      {
+        "item_id": "INV-2026-1004-ITEM-2",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 5,
+        "unit_price": 0.08,
+        "line_total": 0.4
+      },
+      {
+        "item_id": "INV-2026-1004-ITEM-3",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 2,
+        "unit_price": 185.03,
+        "line_total": 370.06
+      },
+      {
+        "item_id": "INV-2026-1004-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 160.77,
+        "line_total": 160.77
+      },
+      {
+        "item_id": "INV-2026-1004-ITEM-5",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 46.97,
+        "line_total": 93.94
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1005",
+    "file_name": "INV-2026-1005.pdf",
+    "vendor_name": "BlueSky Consulting Group",
+    "invoice_date": "2026-01-29",
+    "due_date": "2026-02-28",
+    "currency": "USD",
+    "subtotal": 180.69,
+    "tax_amount": 12.65,
+    "total_amount": 193.34,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.891,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1005\n**Date:** 2026-01-29\n**Due Date:** 2026-02-28\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-438\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 1 | $180.69 | $180.69 |\n\n**Subtotal:** $180.69\n**Tax Amount (7.0%):** $12.65\n**Total Amount Due:** $193.34\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1005'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>1</td><td>180.69</td><td>180.69</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>180.69</td></tr><tr><td colspan='3'>Tax</td><td>12.65</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>193.34</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1005-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 1,
+        "unit_price": 180.69,
+        "line_total": 180.69
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1006",
+    "file_name": "INV-2026-1006.pdf",
+    "vendor_name": "Quantum Data Services",
+    "invoice_date": "2026-08-14",
+    "due_date": "2026-09-28",
+    "currency": "USD",
+    "subtotal": 5439.9,
+    "tax_amount": 448.79,
+    "total_amount": 5888.69,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.825,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1006\n**Date:** 2026-08-14\n**Due Date:** 2026-09-28\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-482\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $193.32 | $3866.40 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $157.35 | $1573.50 |\n\n**Subtotal:** $5439.90\n**Tax Amount (8.2%):** $448.79\n**Total Amount Due:** $5888.69\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1006'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>193.32</td><td>3866.40</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>157.35</td><td>1573.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5439.90</td></tr><tr><td colspan='3'>Tax</td><td>448.79</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>5888.69</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1006-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 193.32,
+        "line_total": 3866.4
+      },
+      {
+        "item_id": "INV-2026-1006-ITEM-2",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 10,
+        "unit_price": 157.35,
+        "line_total": 1573.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1007",
+    "file_name": "INV-2026-1007.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-08-01",
+    "due_date": "2026-09-15",
+    "currency": "USD",
+    "subtotal": 5878.55,
+    "tax_amount": 293.93,
+    "total_amount": 6172.48,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.983,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1007\n**Date:** 2026-08-01\n**Due Date:** 2026-09-15\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-770\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 1 | $791.93 | $791.93 |\n| Technical Support SLA - 24/7 Platinum | 10 | $468.64 | $4686.40 |\n| Enterprise Cloud Storage (1TB/mo) | 2 | $116.36 | $232.72 |\n| Network Egress & Transit Bandwidth | 50 | $0.07 | $3.50 |\n| High-Performance Compute Node (hr) | 50 | $3.28 | $164.00 |\n\n**Subtotal:** $5878.55\n**Tax Amount (5.0%):** $293.93\n**Total Amount Due:** $6172.48\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1007'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>791.93</td><td>791.93</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>468.64</td><td>4686.40</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>2</td><td>116.36</td><td>232.72</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>50</td><td>0.07</td><td>3.50</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.28</td><td>164.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5878.55</td></tr><tr><td colspan='3'>Tax</td><td>293.93</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>6172.48</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1007-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 1,
+        "unit_price": 791.93,
+        "line_total": 791.93
+      },
+      {
+        "item_id": "INV-2026-1007-ITEM-2",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 10,
+        "unit_price": 468.64,
+        "line_total": 4686.4
+      },
+      {
+        "item_id": "INV-2026-1007-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 2,
+        "unit_price": 116.36,
+        "line_total": 232.72
+      },
+      {
+        "item_id": "INV-2026-1007-ITEM-4",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 50,
+        "unit_price": 0.07,
+        "line_total": 3.5
+      },
+      {
+        "item_id": "INV-2026-1007-ITEM-5",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 50,
+        "unit_price": 3.28,
+        "line_total": 164.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1008",
+    "file_name": "INV-2026-1008.pdf",
+    "vendor_name": "Starlight SaaS Systems",
+    "invoice_date": "2026-04-08",
+    "due_date": "2026-06-07",
+    "currency": "USD",
+    "subtotal": 136411.18,
+    "tax_amount": 6820.56,
+    "total_amount": 143231.74,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.823,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1008\n**Date:** 2026-04-08\n**Due Date:** 2026-06-07\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-777\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 50 | $2648.40 | $132420.00 |\n| Network Egress & Transit Bandwidth | 2 | $0.07 | $0.14 |\n| Technical Support SLA - 24/7 Platinum | 1 | $541.26 | $541.26 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $146.78 | $146.78 |\n| Hardware Maintenance & Replacement Kit | 10 | $330.30 | $3303.00 |\n\n**Subtotal:** $136411.18\n**Tax Amount (5.0%):** $6820.56\n**Total Amount Due:** $143231.74\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1008'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2648.40</td><td>132420.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.07</td><td>0.14</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>1</td><td>541.26</td><td>541.26</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>146.78</td><td>146.78</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>330.30</td><td>3303.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>136411.18</td></tr><tr><td colspan='3'>Tax</td><td>6820.56</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>143231.74</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1008-ITEM-1",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 50,
+        "unit_price": 2648.4,
+        "line_total": 132420.0
+      },
+      {
+        "item_id": "INV-2026-1008-ITEM-2",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 2,
+        "unit_price": 0.07,
+        "line_total": 0.14
+      },
+      {
+        "item_id": "INV-2026-1008-ITEM-3",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 1,
+        "unit_price": 541.26,
+        "line_total": 541.26
+      },
+      {
+        "item_id": "INV-2026-1008-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 146.78,
+        "line_total": 146.78
+      },
+      {
+        "item_id": "INV-2026-1008-ITEM-5",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 10,
+        "unit_price": 330.3,
+        "line_total": 3303.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1009",
+    "file_name": "INV-2026-1009.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-04-13",
+    "due_date": "2026-05-28",
+    "currency": "USD",
+    "subtotal": 21589.84,
+    "tax_amount": 2158.98,
+    "total_amount": 23748.82,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.821,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1009\n**Date:** 2026-04-13\n**Due Date:** 2026-05-28\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-600\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 20 | $803.74 | $16074.80 |\n| Security Audit & Vulnerability Assessment | 1 | $2269.34 | $2269.34 |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $146.77 | $293.54 |\n| Technical Support SLA - 24/7 Platinum | 2 | $455.23 | $910.46 |\n| Software License - Professional Tier (Seats) | 10 | $40.77 | $407.70 |\n| Hardware Maintenance & Replacement Kit | 5 | $326.80 | $1634.00 |\n\n**Subtotal:** $21589.84\n**Tax Amount (10.0%):** $2158.98\n**Total Amount Due:** $23748.82\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1009'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>803.74</td><td>16074.80</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2269.34</td><td>2269.34</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>146.77</td><td>293.54</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>2</td><td>455.23</td><td>910.46</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>10</td><td>40.77</td><td>407.70</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>326.80</td><td>1634.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>21589.84</td></tr><tr><td colspan='3'>Tax</td><td>2158.98</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>23748.82</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1009-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 20,
+        "unit_price": 803.74,
+        "line_total": 16074.8
+      },
+      {
+        "item_id": "INV-2026-1009-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 1,
+        "unit_price": 2269.34,
+        "line_total": 2269.34
+      },
+      {
+        "item_id": "INV-2026-1009-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 2,
+        "unit_price": 146.77,
+        "line_total": 293.54
+      },
+      {
+        "item_id": "INV-2026-1009-ITEM-4",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 2,
+        "unit_price": 455.23,
+        "line_total": 910.46
+      },
+      {
+        "item_id": "INV-2026-1009-ITEM-5",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 10,
+        "unit_price": 40.77,
+        "line_total": 407.7
+      },
+      {
+        "item_id": "INV-2026-1009-ITEM-6",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 5,
+        "unit_price": 326.8,
+        "line_total": 1634.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1010",
+    "file_name": "INV-2026-1010.pdf",
+    "vendor_name": "Vertex Industrial Supply",
+    "invoice_date": "2026-05-31",
+    "due_date": "2026-06-30",
+    "currency": "USD",
+    "subtotal": 26312.6,
+    "tax_amount": 1315.63,
+    "total_amount": 27628.23,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.879,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1010\n**Date:** 2026-05-31\n**Due Date:** 2026-06-30\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-542\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 10 | $350.32 | $3503.20 |\n| High-Performance Compute Node (hr) | 5 | $3.23 | $16.15 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $157.75 | $157.75 |\n| Technical Support SLA - 24/7 Platinum | 50 | $452.71 | $22635.50 |\n\n**Subtotal:** $26312.60\n**Tax Amount (5.0%):** $1315.63\n**Total Amount Due:** $27628.23\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1010'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>350.32</td><td>3503.20</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.23</td><td>16.15</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>157.75</td><td>157.75</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>50</td><td>452.71</td><td>22635.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>26312.60</td></tr><tr><td colspan='3'>Tax</td><td>1315.63</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>27628.23</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1010-ITEM-1",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 10,
+        "unit_price": 350.32,
+        "line_total": 3503.2
+      },
+      {
+        "item_id": "INV-2026-1010-ITEM-2",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 5,
+        "unit_price": 3.23,
+        "line_total": 16.15
+      },
+      {
+        "item_id": "INV-2026-1010-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 157.75,
+        "line_total": 157.75
+      },
+      {
+        "item_id": "INV-2026-1010-ITEM-4",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 50,
+        "unit_price": 452.71,
+        "line_total": 22635.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1011",
+    "file_name": "INV-2026-1011.pdf",
+    "vendor_name": "Vertex Industrial Supply",
+    "invoice_date": "2026-05-20",
+    "due_date": "2026-07-04",
+    "currency": "USD",
+    "subtotal": 5608.7,
+    "tax_amount": 392.61,
+    "total_amount": 6001.31,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.822,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1011\n**Date:** 2026-05-20\n**Due Date:** 2026-07-04\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-974\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $159.68 | $3193.60 |\n| Network Egress & Transit Bandwidth | 10 | $0.09 | $0.90 |\n| Enterprise Cloud Storage (1TB/mo) | 20 | $120.71 | $2414.20 |\n\n**Subtotal:** $5608.70\n**Tax Amount (7.0%):** $392.61\n**Total Amount Due:** $6001.31\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1011'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>159.68</td><td>3193.60</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>10</td><td>0.09</td><td>0.90</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>20</td><td>120.71</td><td>2414.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5608.70</td></tr><tr><td colspan='3'>Tax</td><td>392.61</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>6001.31</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1011-ITEM-1",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 20,
+        "unit_price": 159.68,
+        "line_total": 3193.6
+      },
+      {
+        "item_id": "INV-2026-1011-ITEM-2",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 10,
+        "unit_price": 0.09,
+        "line_total": 0.9
+      },
+      {
+        "item_id": "INV-2026-1011-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 20,
+        "unit_price": 120.71,
+        "line_total": 2414.2
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1012",
+    "file_name": "INV-2026-1012.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-07-23",
+    "due_date": "2026-08-22",
+    "currency": "USD",
+    "subtotal": 13949.65,
+    "tax_amount": 697.48,
+    "total_amount": 14647.13,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.965,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1012\n**Date:** 2026-07-23\n**Due Date:** 2026-08-22\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-322\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 10 | $520.81 | $5208.10 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $158.02 | $1580.20 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $123.34 | $123.34 |\n| Hardware Maintenance & Replacement Kit | 20 | $307.20 | $6144.00 |\n| Managed Database Hosting - Multi-Region | 1 | $862.41 | $862.41 |\n| High-Performance Compute Node (hr) | 10 | $3.16 | $31.60 |\n\n**Subtotal:** $13949.65\n**Tax Amount (5.0%):** $697.48\n**Total Amount Due:** $14647.13\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1012'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>520.81</td><td>5208.10</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>158.02</td><td>1580.20</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>123.34</td><td>123.34</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>20</td><td>307.20</td><td>6144.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>862.41</td><td>862.41</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>10</td><td>3.16</td><td>31.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>13949.65</td></tr><tr><td colspan='3'>Tax</td><td>697.48</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>14647.13</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1012-ITEM-1",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 10,
+        "unit_price": 520.81,
+        "line_total": 5208.1
+      },
+      {
+        "item_id": "INV-2026-1012-ITEM-2",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 10,
+        "unit_price": 158.02,
+        "line_total": 1580.2
+      },
+      {
+        "item_id": "INV-2026-1012-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 123.34,
+        "line_total": 123.34
+      },
+      {
+        "item_id": "INV-2026-1012-ITEM-4",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 20,
+        "unit_price": 307.2,
+        "line_total": 6144.0
+      },
+      {
+        "item_id": "INV-2026-1012-ITEM-5",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 1,
+        "unit_price": 862.41,
+        "line_total": 862.41
+      },
+      {
+        "item_id": "INV-2026-1012-ITEM-6",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 10,
+        "unit_price": 3.16,
+        "line_total": 31.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1013",
+    "file_name": "INV-2026-1013.pdf",
+    "vendor_name": "Nova Telecom Services",
+    "invoice_date": "2026-03-24",
+    "due_date": "2026-04-08",
+    "currency": "USD",
+    "subtotal": 28105.75,
+    "tax_amount": 1967.4,
+    "total_amount": 30073.15,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.864,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1013\n**Date:** 2026-03-24\n**Due Date:** 2026-04-08\n\n## Vendor Information\n**Vendor:** Nova Telecom Services\n**Address:** 99 Fiber Way, Dallas, TX\n**Tax ID / GST:** TAX-22874\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-836\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 2 | $3.45 | $6.90 |\n| Consulting Hours - Senior ML Engineer | 5 | $180.31 | $901.55 |\n| Technical Support SLA - 24/7 Platinum | 50 | $529.83 | $26491.50 |\n| SSL/TLS Certificate Renewal (Annual) | 5 | $141.16 | $705.80 |\n\n**Subtotal:** $28105.75\n**Tax Amount (7.0%):** $1967.40\n**Total Amount Due:** $30073.15\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1013'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>2</td><td>3.45</td><td>6.90</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>180.31</td><td>901.55</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>50</td><td>529.83</td><td>26491.50</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>5</td><td>141.16</td><td>705.80</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>28105.75</td></tr><tr><td colspan='3'>Tax</td><td>1967.40</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>30073.15</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1013-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 2,
+        "unit_price": 3.45,
+        "line_total": 6.9
+      },
+      {
+        "item_id": "INV-2026-1013-ITEM-2",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 5,
+        "unit_price": 180.31,
+        "line_total": 901.55
+      },
+      {
+        "item_id": "INV-2026-1013-ITEM-3",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 50,
+        "unit_price": 529.83,
+        "line_total": 26491.5
+      },
+      {
+        "item_id": "INV-2026-1013-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 5,
+        "unit_price": 141.16,
+        "line_total": 705.8
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1014",
+    "file_name": "INV-2026-1014.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-03-01",
+    "due_date": "2026-04-15",
+    "currency": "USD",
+    "subtotal": 118.63,
+    "tax_amount": 9.79,
+    "total_amount": 128.42,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.858,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1014\n**Date:** 2026-03-01\n**Due Date:** 2026-04-15\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-571\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 1 | $3.21 | $3.21 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $115.42 | $115.42 |\n\n**Subtotal:** $118.63\n**Tax Amount (8.2%):** $9.79\n**Total Amount Due:** $128.42\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1014'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>1</td><td>3.21</td><td>3.21</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>115.42</td><td>115.42</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>118.63</td></tr><tr><td colspan='3'>Tax</td><td>9.79</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>128.42</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1014-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 1,
+        "unit_price": 3.21,
+        "line_total": 3.21
+      },
+      {
+        "item_id": "INV-2026-1014-ITEM-2",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 115.42,
+        "line_total": 115.42
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1015",
+    "file_name": "INV-2026-1015.pdf",
+    "vendor_name": "Nova Telecom Services",
+    "invoice_date": "2026-06-01",
+    "due_date": "2026-06-16",
+    "currency": "USD",
+    "subtotal": 25486.89,
+    "tax_amount": 2102.67,
+    "total_amount": 27589.56,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.951,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1015\n**Date:** 2026-06-01\n**Due Date:** 2026-06-16\n\n## Vendor Information\n**Vendor:** Nova Telecom Services\n**Address:** 99 Fiber Way, Dallas, TX\n**Tax ID / GST:** TAX-22874\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-257\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 5 | $135.31 | $676.55 |\n| Hardware Maintenance & Replacement Kit | 10 | $330.26 | $3302.60 |\n| Managed Database Hosting - Multi-Region | 20 | $933.94 | $18678.80 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $118.97 | $118.97 |\n| Security Audit & Vulnerability Assessment | 1 | $2709.57 | $2709.57 |\n| Network Egress & Transit Bandwidth | 5 | $0.08 | $0.40 |\n\n**Subtotal:** $25486.89\n**Tax Amount (8.2%):** $2102.67\n**Total Amount Due:** $27589.56\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1015'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>5</td><td>135.31</td><td>676.55</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>330.26</td><td>3302.60</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>933.94</td><td>18678.80</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>118.97</td><td>118.97</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2709.57</td><td>2709.57</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>5</td><td>0.08</td><td>0.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>25486.89</td></tr><tr><td colspan='3'>Tax</td><td>2102.67</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>27589.56</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1015-ITEM-1",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 5,
+        "unit_price": 135.31,
+        "line_total": 676.55
+      },
+      {
+        "item_id": "INV-2026-1015-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 10,
+        "unit_price": 330.26,
+        "line_total": 3302.6
+      },
+      {
+        "item_id": "INV-2026-1015-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 20,
+        "unit_price": 933.94,
+        "line_total": 18678.8
+      },
+      {
+        "item_id": "INV-2026-1015-ITEM-4",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 118.97,
+        "line_total": 118.97
+      },
+      {
+        "item_id": "INV-2026-1015-ITEM-5",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 1,
+        "unit_price": 2709.57,
+        "line_total": 2709.57
+      },
+      {
+        "item_id": "INV-2026-1015-ITEM-6",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 5,
+        "unit_price": 0.08,
+        "line_total": 0.4
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1016",
+    "file_name": "INV-2026-1016.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-09-03",
+    "due_date": "2026-10-18",
+    "currency": "USD",
+    "subtotal": 137177.08,
+    "tax_amount": 11317.11,
+    "total_amount": 148494.19,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.896,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1016\n**Date:** 2026-09-03\n**Due Date:** 2026-10-18\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-171\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 20 | $544.25 | $10885.00 |\n| Security Audit & Vulnerability Assessment | 50 | $2439.24 | $121962.00 |\n| High-Performance Compute Node (hr) | 1 | $3.46 | $3.46 |\n| Consulting Hours - Senior ML Engineer | 10 | $197.98 | $1979.80 |\n| Software License - Professional Tier (Seats) | 2 | $43.11 | $86.22 |\n| Enterprise Cloud Storage (1TB/mo) | 20 | $113.03 | $2260.60 |\n\n**Subtotal:** $137177.08\n**Tax Amount (8.2%):** $11317.11\n**Total Amount Due:** $148494.19\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1016'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>20</td><td>544.25</td><td>10885.00</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2439.24</td><td>121962.00</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>1</td><td>3.46</td><td>3.46</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>10</td><td>197.98</td><td>1979.80</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>43.11</td><td>86.22</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>20</td><td>113.03</td><td>2260.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>137177.08</td></tr><tr><td colspan='3'>Tax</td><td>11317.11</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>148494.19</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1016-ITEM-1",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 20,
+        "unit_price": 544.25,
+        "line_total": 10885.0
+      },
+      {
+        "item_id": "INV-2026-1016-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 50,
+        "unit_price": 2439.24,
+        "line_total": 121962.0
+      },
+      {
+        "item_id": "INV-2026-1016-ITEM-3",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 1,
+        "unit_price": 3.46,
+        "line_total": 3.46
+      },
+      {
+        "item_id": "INV-2026-1016-ITEM-4",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 10,
+        "unit_price": 197.98,
+        "line_total": 1979.8
+      },
+      {
+        "item_id": "INV-2026-1016-ITEM-5",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 43.11,
+        "line_total": 86.22
+      },
+      {
+        "item_id": "INV-2026-1016-ITEM-6",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 20,
+        "unit_price": 113.03,
+        "line_total": 2260.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1017",
+    "file_name": "INV-2026-1017.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-06-24",
+    "due_date": "2026-07-24",
+    "currency": "USD",
+    "subtotal": 4216.7,
+    "tax_amount": 210.84,
+    "total_amount": 4427.54,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.887,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1017\n**Date:** 2026-06-24\n**Due Date:** 2026-07-24\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-907\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 5 | $318.24 | $1591.20 |\n| Technical Support SLA - 24/7 Platinum | 5 | $525.10 | $2625.50 |\n\n**Subtotal:** $4216.70\n**Tax Amount (5.0%):** $210.84\n**Total Amount Due:** $4427.54\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1017'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>318.24</td><td>1591.20</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>525.10</td><td>2625.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4216.70</td></tr><tr><td colspan='3'>Tax</td><td>210.84</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4427.54</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1017-ITEM-1",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 5,
+        "unit_price": 318.24,
+        "line_total": 1591.2
+      },
+      {
+        "item_id": "INV-2026-1017-ITEM-2",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 525.1,
+        "line_total": 2625.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1018",
+    "file_name": "INV-2026-1018.pdf",
+    "vendor_name": "Vertex Industrial Supply",
+    "invoice_date": "2026-01-09",
+    "due_date": "2026-02-23",
+    "currency": "USD",
+    "subtotal": 33812.06,
+    "tax_amount": 2366.84,
+    "total_amount": 36178.9,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.891,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1018\n**Date:** 2026-01-09\n**Due Date:** 2026-02-23\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-864\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 20 | $848.23 | $16964.60 |\n| Hardware Maintenance & Replacement Kit | 50 | $329.60 | $16480.00 |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $142.37 | $284.74 |\n| Software License - Professional Tier (Seats) | 2 | $41.36 | $82.72 |\n\n**Subtotal:** $33812.06\n**Tax Amount (7.0%):** $2366.84\n**Total Amount Due:** $36178.90\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1018'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>848.23</td><td>16964.60</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>50</td><td>329.60</td><td>16480.00</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>142.37</td><td>284.74</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>41.36</td><td>82.72</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>33812.06</td></tr><tr><td colspan='3'>Tax</td><td>2366.84</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>36178.90</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1018-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 20,
+        "unit_price": 848.23,
+        "line_total": 16964.6
+      },
+      {
+        "item_id": "INV-2026-1018-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 50,
+        "unit_price": 329.6,
+        "line_total": 16480.0
+      },
+      {
+        "item_id": "INV-2026-1018-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 2,
+        "unit_price": 142.37,
+        "line_total": 284.74
+      },
+      {
+        "item_id": "INV-2026-1018-ITEM-4",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 41.36,
+        "line_total": 82.72
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1019",
+    "file_name": "INV-2026-1019.pdf",
+    "vendor_name": "Vertex Industrial Supply",
+    "invoice_date": "2026-06-05",
+    "due_date": "2026-07-05",
+    "currency": "USD",
+    "subtotal": 7322.42,
+    "tax_amount": 512.57,
+    "total_amount": 7834.99,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.821,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1019\n**Date:** 2026-06-05\n**Due Date:** 2026-07-05\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-720\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $191.91 | $3838.20 |\n| Enterprise Cloud Storage (1TB/mo) | 2 | $117.82 | $235.64 |\n| Hardware Maintenance & Replacement Kit | 1 | $319.98 | $319.98 |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $146.43 | $2928.60 |\n\n**Subtotal:** $7322.42\n**Tax Amount (7.0%):** $512.57\n**Total Amount Due:** $7834.99\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1019'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>191.91</td><td>3838.20</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>2</td><td>117.82</td><td>235.64</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>319.98</td><td>319.98</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>146.43</td><td>2928.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7322.42</td></tr><tr><td colspan='3'>Tax</td><td>512.57</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7834.99</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1019-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 191.91,
+        "line_total": 3838.2
+      },
+      {
+        "item_id": "INV-2026-1019-ITEM-2",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 2,
+        "unit_price": 117.82,
+        "line_total": 235.64
+      },
+      {
+        "item_id": "INV-2026-1019-ITEM-3",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 319.98,
+        "line_total": 319.98
+      },
+      {
+        "item_id": "INV-2026-1019-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 20,
+        "unit_price": 146.43,
+        "line_total": 2928.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1020",
+    "file_name": "INV-2026-1020.pdf",
+    "vendor_name": "Starlight SaaS Systems",
+    "invoice_date": "2026-05-07",
+    "due_date": "2026-06-21",
+    "currency": "USD",
+    "subtotal": 15462.64,
+    "tax_amount": 773.13,
+    "total_amount": 16235.77,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.936,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1020\n**Date:** 2026-05-07\n**Due Date:** 2026-06-21\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-145\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Enterprise Cloud Storage (1TB/mo) | 10 | $125.88 | $1258.80 |\n| Managed Database Hosting - Multi-Region | 2 | $791.18 | $1582.36 |\n| Consulting Hours - Senior ML Engineer | 20 | $195.80 | $3916.00 |\n| SSL/TLS Certificate Renewal (Annual) | 50 | $153.39 | $7669.50 |\n| Technical Support SLA - 24/7 Platinum | 2 | $517.99 | $1035.98 |\n\n**Subtotal:** $15462.64\n**Tax Amount (5.0%):** $773.13\n**Total Amount Due:** $16235.77\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1020'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>10</td><td>125.88</td><td>1258.80</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>791.18</td><td>1582.36</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>195.80</td><td>3916.00</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>50</td><td>153.39</td><td>7669.50</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>2</td><td>517.99</td><td>1035.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>15462.64</td></tr><tr><td colspan='3'>Tax</td><td>773.13</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>16235.77</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1020-ITEM-1",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 10,
+        "unit_price": 125.88,
+        "line_total": 1258.8
+      },
+      {
+        "item_id": "INV-2026-1020-ITEM-2",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 2,
+        "unit_price": 791.18,
+        "line_total": 1582.36
+      },
+      {
+        "item_id": "INV-2026-1020-ITEM-3",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 195.8,
+        "line_total": 3916.0
+      },
+      {
+        "item_id": "INV-2026-1020-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 50,
+        "unit_price": 153.39,
+        "line_total": 7669.5
+      },
+      {
+        "item_id": "INV-2026-1020-ITEM-5",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 2,
+        "unit_price": 517.99,
+        "line_total": 1035.98
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1021",
+    "file_name": "INV-2026-1021.pdf",
+    "vendor_name": "OmniChannel Retail Solutions",
+    "invoice_date": "2026-06-26",
+    "due_date": "2026-08-25",
+    "currency": "USD",
+    "subtotal": 29275.68,
+    "tax_amount": 2049.3,
+    "total_amount": 31324.98,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.87,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1021\n**Date:** 2026-06-26\n**Due Date:** 2026-08-25\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-891\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $175.19 | $3503.80 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $119.18 | $119.18 |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n| Hardware Maintenance & Replacement Kit | 1 | $324.12 | $324.12 |\n| Technical Support SLA - 24/7 Platinum | 50 | $506.57 | $25328.50 |\n\n**Subtotal:** $29275.68\n**Tax Amount (7.0%):** $2049.30\n**Total Amount Due:** $31324.98\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1021'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>175.19</td><td>3503.80</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>119.18</td><td>119.18</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>324.12</td><td>324.12</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>50</td><td>506.57</td><td>25328.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>29275.68</td></tr><tr><td colspan='3'>Tax</td><td>2049.30</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>31324.98</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1021-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 175.19,
+        "line_total": 3503.8
+      },
+      {
+        "item_id": "INV-2026-1021-ITEM-2",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 119.18,
+        "line_total": 119.18
+      },
+      {
+        "item_id": "INV-2026-1021-ITEM-3",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 1,
+        "unit_price": 0.08,
+        "line_total": 0.08
+      },
+      {
+        "item_id": "INV-2026-1021-ITEM-4",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 324.12,
+        "line_total": 324.12
+      },
+      {
+        "item_id": "INV-2026-1021-ITEM-5",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 50,
+        "unit_price": 506.57,
+        "line_total": 25328.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1022",
+    "file_name": "INV-2026-1022.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-04-17",
+    "due_date": "2026-05-17",
+    "currency": "USD",
+    "subtotal": 7316.61,
+    "tax_amount": 365.83,
+    "total_amount": 7682.44,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.932,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1022\n**Date:** 2026-04-17\n**Due Date:** 2026-05-17\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-546\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $125.73 | $6286.50 |\n| Managed Database Hosting - Multi-Region | 1 | $815.71 | $815.71 |\n| Software License - Professional Tier (Seats) | 5 | $42.88 | $214.40 |\n\n**Subtotal:** $7316.61\n**Tax Amount (5.0%):** $365.83\n**Total Amount Due:** $7682.44\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1022'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>125.73</td><td>6286.50</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>815.71</td><td>815.71</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>5</td><td>42.88</td><td>214.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7316.61</td></tr><tr><td colspan='3'>Tax</td><td>365.83</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7682.44</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1022-ITEM-1",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 50,
+        "unit_price": 125.73,
+        "line_total": 6286.5
+      },
+      {
+        "item_id": "INV-2026-1022-ITEM-2",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 1,
+        "unit_price": 815.71,
+        "line_total": 815.71
+      },
+      {
+        "item_id": "INV-2026-1022-ITEM-3",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 5,
+        "unit_price": 42.88,
+        "line_total": 214.4
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1023",
+    "file_name": "INV-2026-1023.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-06-07",
+    "due_date": "2026-07-22",
+    "currency": "USD",
+    "subtotal": 13201.18,
+    "tax_amount": 660.06,
+    "total_amount": 13861.24,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.963,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1023\n**Date:** 2026-06-07\n**Due Date:** 2026-07-22\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-593\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n| Security Audit & Vulnerability Assessment | 5 | $2640.22 | $13201.10 |\n\n**Subtotal:** $13201.18\n**Tax Amount (5.0%):** $660.06\n**Total Amount Due:** $13861.24\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1023'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>5</td><td>2640.22</td><td>13201.10</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>13201.18</td></tr><tr><td colspan='3'>Tax</td><td>660.06</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>13861.24</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1023-ITEM-1",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 1,
+        "unit_price": 0.08,
+        "line_total": 0.08
+      },
+      {
+        "item_id": "INV-2026-1023-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 5,
+        "unit_price": 2640.22,
+        "line_total": 13201.1
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1024",
+    "file_name": "INV-2026-1024.pdf",
+    "vendor_name": "BlueSky Consulting Group",
+    "invoice_date": "2026-03-01",
+    "due_date": "2026-04-15",
+    "currency": "USD",
+    "subtotal": 140810.69,
+    "tax_amount": 14081.07,
+    "total_amount": 154891.76,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.878,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1024\n**Date:** 2026-03-01\n**Due Date:** 2026-04-15\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-681\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $145.36 | $2907.20 |\n| Consulting Hours - Senior ML Engineer | 10 | $181.91 | $1819.10 |\n| Security Audit & Vulnerability Assessment | 50 | $2671.58 | $133579.00 |\n| Network Egress & Transit Bandwidth | 1 | $0.09 | $0.09 |\n| Technical Support SLA - 24/7 Platinum | 5 | $501.06 | $2505.30 |\n\n**Subtotal:** $140810.69\n**Tax Amount (10.0%):** $14081.07\n**Total Amount Due:** $154891.76\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1024'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>145.36</td><td>2907.20</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>10</td><td>181.91</td><td>1819.10</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2671.58</td><td>133579.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.09</td><td>0.09</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>501.06</td><td>2505.30</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>140810.69</td></tr><tr><td colspan='3'>Tax</td><td>14081.07</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>154891.76</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1024-ITEM-1",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 20,
+        "unit_price": 145.36,
+        "line_total": 2907.2
+      },
+      {
+        "item_id": "INV-2026-1024-ITEM-2",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 10,
+        "unit_price": 181.91,
+        "line_total": 1819.1
+      },
+      {
+        "item_id": "INV-2026-1024-ITEM-3",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 50,
+        "unit_price": 2671.58,
+        "line_total": 133579.0
+      },
+      {
+        "item_id": "INV-2026-1024-ITEM-4",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 1,
+        "unit_price": 0.09,
+        "line_total": 0.09
+      },
+      {
+        "item_id": "INV-2026-1024-ITEM-5",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 501.06,
+        "line_total": 2505.3
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1025",
+    "file_name": "INV-2026-1025.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-06-06",
+    "due_date": "2026-07-21",
+    "currency": "USD",
+    "subtotal": 18460.81,
+    "tax_amount": 923.04,
+    "total_amount": 19383.85,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.835,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1025\n**Date:** 2026-06-06\n**Due Date:** 2026-07-21\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-979\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 10 | $0.08 | $0.80 |\n| Security Audit & Vulnerability Assessment | 1 | $2705.81 | $2705.81 |\n| Managed Database Hosting - Multi-Region | 20 | $787.71 | $15754.20 |\n\n**Subtotal:** $18460.81\n**Tax Amount (5.0%):** $923.04\n**Total Amount Due:** $19383.85\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1025'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>10</td><td>0.08</td><td>0.80</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2705.81</td><td>2705.81</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>787.71</td><td>15754.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>18460.81</td></tr><tr><td colspan='3'>Tax</td><td>923.04</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>19383.85</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1025-ITEM-1",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 10,
+        "unit_price": 0.08,
+        "line_total": 0.8
+      },
+      {
+        "item_id": "INV-2026-1025-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 1,
+        "unit_price": 2705.81,
+        "line_total": 2705.81
+      },
+      {
+        "item_id": "INV-2026-1025-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 20,
+        "unit_price": 787.71,
+        "line_total": 15754.2
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1026",
+    "file_name": "INV-2026-1026.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-09-06",
+    "due_date": "2026-09-21",
+    "currency": "USD",
+    "subtotal": 51605.09,
+    "tax_amount": 3612.36,
+    "total_amount": 55217.45,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.924,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1026\n**Date:** 2026-09-06\n**Due Date:** 2026-09-21\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-520\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 20 | $2498.57 | $49971.40 |\n| Hardware Maintenance & Replacement Kit | 1 | $307.04 | $307.04 |\n| Managed Database Hosting - Multi-Region | 1 | $866.18 | $866.18 |\n| Technical Support SLA - 24/7 Platinum | 1 | $460.47 | $460.47 |\n\n**Subtotal:** $51605.09\n**Tax Amount (7.0%):** $3612.36\n**Total Amount Due:** $55217.45\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1026'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2498.57</td><td>49971.40</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>307.04</td><td>307.04</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>866.18</td><td>866.18</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>1</td><td>460.47</td><td>460.47</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>51605.09</td></tr><tr><td colspan='3'>Tax</td><td>3612.36</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>55217.45</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1026-ITEM-1",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 20,
+        "unit_price": 2498.57,
+        "line_total": 49971.4
+      },
+      {
+        "item_id": "INV-2026-1026-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 307.04,
+        "line_total": 307.04
+      },
+      {
+        "item_id": "INV-2026-1026-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 1,
+        "unit_price": 866.18,
+        "line_total": 866.18
+      },
+      {
+        "item_id": "INV-2026-1026-ITEM-4",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 1,
+        "unit_price": 460.47,
+        "line_total": 460.47
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1027",
+    "file_name": "INV-2026-1027.pdf",
+    "vendor_name": "OmniChannel Retail Solutions",
+    "invoice_date": "2026-01-02",
+    "due_date": "2026-03-03",
+    "currency": "USD",
+    "subtotal": 26457.71,
+    "tax_amount": 1852.04,
+    "total_amount": 28309.75,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.824,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1027\n**Date:** 2026-01-02\n**Due Date:** 2026-03-03\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-521\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $119.52 | $119.52 |\n| Security Audit & Vulnerability Assessment | 10 | $2453.15 | $24531.50 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $141.38 | $141.38 |\n| Hardware Maintenance & Replacement Kit | 5 | $331.55 | $1657.75 |\n| High-Performance Compute Node (hr) | 2 | $3.78 | $7.56 |\n\n**Subtotal:** $26457.71\n**Tax Amount (7.0%):** $1852.04\n**Total Amount Due:** $28309.75\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1027'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>119.52</td><td>119.52</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>10</td><td>2453.15</td><td>24531.50</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>141.38</td><td>141.38</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>331.55</td><td>1657.75</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>2</td><td>3.78</td><td>7.56</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>26457.71</td></tr><tr><td colspan='3'>Tax</td><td>1852.04</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>28309.75</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1027-ITEM-1",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 119.52,
+        "line_total": 119.52
+      },
+      {
+        "item_id": "INV-2026-1027-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 10,
+        "unit_price": 2453.15,
+        "line_total": 24531.5
+      },
+      {
+        "item_id": "INV-2026-1027-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 141.38,
+        "line_total": 141.38
+      },
+      {
+        "item_id": "INV-2026-1027-ITEM-4",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 5,
+        "unit_price": 331.55,
+        "line_total": 1657.75
+      },
+      {
+        "item_id": "INV-2026-1027-ITEM-5",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 2,
+        "unit_price": 3.78,
+        "line_total": 7.56
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1028",
+    "file_name": "INV-2026-1028.pdf",
+    "vendor_name": "Vertex Industrial Supply",
+    "invoice_date": "2026-08-30",
+    "due_date": "2026-09-14",
+    "currency": "USD",
+    "subtotal": 42504.5,
+    "tax_amount": 2125.22,
+    "total_amount": 44629.72,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.896,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1028\n**Date:** 2026-08-30\n**Due Date:** 2026-09-14\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-768\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 5 | $471.60 | $2358.00 |\n| Managed Database Hosting - Multi-Region | 50 | $802.93 | $40146.50 |\n\n**Subtotal:** $42504.50\n**Tax Amount (5.0%):** $2125.22\n**Total Amount Due:** $44629.72\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1028'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>471.60</td><td>2358.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>802.93</td><td>40146.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>42504.50</td></tr><tr><td colspan='3'>Tax</td><td>2125.22</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>44629.72</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1028-ITEM-1",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 471.6,
+        "line_total": 2358.0
+      },
+      {
+        "item_id": "INV-2026-1028-ITEM-2",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 50,
+        "unit_price": 802.93,
+        "line_total": 40146.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1029",
+    "file_name": "INV-2026-1029.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-02-04",
+    "due_date": "2026-03-06",
+    "currency": "USD",
+    "subtotal": 55967.12,
+    "tax_amount": 4617.29,
+    "total_amount": 60584.41,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.96,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1029\n**Date:** 2026-02-04\n**Due Date:** 2026-03-06\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-443\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 2 | $905.11 | $1810.22 |\n| Security Audit & Vulnerability Assessment | 20 | $2631.54 | $52630.80 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $152.45 | $1524.50 |\n| Network Egress & Transit Bandwidth | 20 | $0.08 | $1.60 |\n\n**Subtotal:** $55967.12\n**Tax Amount (8.2%):** $4617.29\n**Total Amount Due:** $60584.41\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1029'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>905.11</td><td>1810.22</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2631.54</td><td>52630.80</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>152.45</td><td>1524.50</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>20</td><td>0.08</td><td>1.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>55967.12</td></tr><tr><td colspan='3'>Tax</td><td>4617.29</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60584.41</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1029-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 2,
+        "unit_price": 905.11,
+        "line_total": 1810.22
+      },
+      {
+        "item_id": "INV-2026-1029-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 20,
+        "unit_price": 2631.54,
+        "line_total": 52630.8
+      },
+      {
+        "item_id": "INV-2026-1029-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 10,
+        "unit_price": 152.45,
+        "line_total": 1524.5
+      },
+      {
+        "item_id": "INV-2026-1029-ITEM-4",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 20,
+        "unit_price": 0.08,
+        "line_total": 1.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1030",
+    "file_name": "INV-2026-1030.pdf",
+    "vendor_name": "Nova Telecom Services",
+    "invoice_date": "2026-05-26",
+    "due_date": "2026-06-25",
+    "currency": "USD",
+    "subtotal": 2280.82,
+    "tax_amount": 159.66,
+    "total_amount": 2440.48,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.906,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1030\n**Date:** 2026-05-26\n**Due Date:** 2026-06-25\n\n## Vendor Information\n**Vendor:** Nova Telecom Services\n**Address:** 99 Fiber Way, Dallas, TX\n**Tax ID / GST:** TAX-22874\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-226\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 2 | $767.88 | $1535.76 |\n| Network Egress & Transit Bandwidth | 2 | $0.08 | $0.16 |\n| SSL/TLS Certificate Renewal (Annual) | 5 | $148.98 | $744.90 |\n\n**Subtotal:** $2280.82\n**Tax Amount (7.0%):** $159.66\n**Total Amount Due:** $2440.48\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1030'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>767.88</td><td>1535.76</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.08</td><td>0.16</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>5</td><td>148.98</td><td>744.90</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>2280.82</td></tr><tr><td colspan='3'>Tax</td><td>159.66</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>2440.48</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1030-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 2,
+        "unit_price": 767.88,
+        "line_total": 1535.76
+      },
+      {
+        "item_id": "INV-2026-1030-ITEM-2",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 2,
+        "unit_price": 0.08,
+        "line_total": 0.16
+      },
+      {
+        "item_id": "INV-2026-1030-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 5,
+        "unit_price": 148.98,
+        "line_total": 744.9
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1031",
+    "file_name": "INV-2026-1031.pdf",
+    "vendor_name": "Quantum Data Services",
+    "invoice_date": "2026-01-06",
+    "due_date": "2026-02-20",
+    "currency": "USD",
+    "subtotal": 302.64,
+    "tax_amount": 21.18,
+    "total_amount": 323.82,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.852,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1031\n**Date:** 2026-01-06\n**Due Date:** 2026-02-20\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-240\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $151.32 | $302.64 |\n\n**Subtotal:** $302.64\n**Tax Amount (7.0%):** $21.18\n**Total Amount Due:** $323.82\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1031'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>151.32</td><td>302.64</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>302.64</td></tr><tr><td colspan='3'>Tax</td><td>21.18</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>323.82</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1031-ITEM-1",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 2,
+        "unit_price": 151.32,
+        "line_total": 302.64
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1032",
+    "file_name": "INV-2026-1032.pdf",
+    "vendor_name": "Quantum Data Services",
+    "invoice_date": "2026-06-15",
+    "due_date": "2026-08-14",
+    "currency": "USD",
+    "subtotal": 53833.59,
+    "tax_amount": 5383.36,
+    "total_amount": 59216.95,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.872,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1032\n**Date:** 2026-06-15\n**Due Date:** 2026-08-14\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-886\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 20 | $42.64 | $852.80 |\n| Hardware Maintenance & Replacement Kit | 1 | $291.15 | $291.15 |\n| Managed Database Hosting - Multi-Region | 50 | $795.21 | $39760.50 |\n| SSL/TLS Certificate Renewal (Annual) | 50 | $159.24 | $7962.00 |\n| High-Performance Compute Node (hr) | 50 | $3.47 | $173.50 |\n| Security Audit & Vulnerability Assessment | 2 | $2396.82 | $4793.64 |\n\n**Subtotal:** $53833.59\n**Tax Amount (10.0%):** $5383.36\n**Total Amount Due:** $59216.95\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1032'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>20</td><td>42.64</td><td>852.80</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>291.15</td><td>291.15</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>795.21</td><td>39760.50</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>50</td><td>159.24</td><td>7962.00</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.47</td><td>173.50</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>2</td><td>2396.82</td><td>4793.64</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>53833.59</td></tr><tr><td colspan='3'>Tax</td><td>5383.36</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>59216.95</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1032-ITEM-1",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 20,
+        "unit_price": 42.64,
+        "line_total": 852.8
+      },
+      {
+        "item_id": "INV-2026-1032-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 291.15,
+        "line_total": 291.15
+      },
+      {
+        "item_id": "INV-2026-1032-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 50,
+        "unit_price": 795.21,
+        "line_total": 39760.5
+      },
+      {
+        "item_id": "INV-2026-1032-ITEM-4",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 50,
+        "unit_price": 159.24,
+        "line_total": 7962.0
+      },
+      {
+        "item_id": "INV-2026-1032-ITEM-5",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 50,
+        "unit_price": 3.47,
+        "line_total": 173.5
+      },
+      {
+        "item_id": "INV-2026-1032-ITEM-6",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 2,
+        "unit_price": 2396.82,
+        "line_total": 4793.64
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1033",
+    "file_name": "INV-2026-1033.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-01-23",
+    "due_date": "2026-02-22",
+    "currency": "USD",
+    "subtotal": 4922.25,
+    "tax_amount": 492.23,
+    "total_amount": 5414.48,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.823,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1033\n**Date:** 2026-01-23\n**Due Date:** 2026-02-22\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-229\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 20 | $48.98 | $979.60 |\n| Security Audit & Vulnerability Assessment | 1 | $2630.55 | $2630.55 |\n| Enterprise Cloud Storage (1TB/mo) | 10 | $131.21 | $1312.10 |\n\n**Subtotal:** $4922.25\n**Tax Amount (10.0%):** $492.23\n**Total Amount Due:** $5414.48\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1033'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>20</td><td>48.98</td><td>979.60</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2630.55</td><td>2630.55</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>10</td><td>131.21</td><td>1312.10</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4922.25</td></tr><tr><td colspan='3'>Tax</td><td>492.23</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>5414.48</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1033-ITEM-1",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 20,
+        "unit_price": 48.98,
+        "line_total": 979.6
+      },
+      {
+        "item_id": "INV-2026-1033-ITEM-2",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 1,
+        "unit_price": 2630.55,
+        "line_total": 2630.55
+      },
+      {
+        "item_id": "INV-2026-1033-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 10,
+        "unit_price": 131.21,
+        "line_total": 1312.1
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1034",
+    "file_name": "INV-2026-1034.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-04-14",
+    "due_date": "2026-04-29",
+    "currency": "USD",
+    "subtotal": 50149.13,
+    "tax_amount": 4137.3,
+    "total_amount": 54286.43,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.886,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1034\n**Date:** 2026-04-14\n**Due Date:** 2026-04-29\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-942\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 5 | $3.41 | $17.05 |\n| SSL/TLS Certificate Renewal (Annual) | 50 | $163.54 | $8177.00 |\n| Managed Database Hosting - Multi-Region | 50 | $825.41 | $41270.50 |\n| Enterprise Cloud Storage (1TB/mo) | 5 | $118.70 | $593.50 |\n| Software License - Professional Tier (Seats) | 2 | $45.47 | $90.94 |\n| Network Egress & Transit Bandwidth | 2 | $0.07 | $0.14 |\n\n**Subtotal:** $50149.13\n**Tax Amount (8.2%):** $4137.30\n**Total Amount Due:** $54286.43\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1034'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.41</td><td>17.05</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>50</td><td>163.54</td><td>8177.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>825.41</td><td>41270.50</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>5</td><td>118.70</td><td>593.50</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>45.47</td><td>90.94</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.07</td><td>0.14</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>50149.13</td></tr><tr><td colspan='3'>Tax</td><td>4137.30</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>54286.43</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1034-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 5,
+        "unit_price": 3.41,
+        "line_total": 17.05
+      },
+      {
+        "item_id": "INV-2026-1034-ITEM-2",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 50,
+        "unit_price": 163.54,
+        "line_total": 8177.0
+      },
+      {
+        "item_id": "INV-2026-1034-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 50,
+        "unit_price": 825.41,
+        "line_total": 41270.5
+      },
+      {
+        "item_id": "INV-2026-1034-ITEM-4",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 5,
+        "unit_price": 118.7,
+        "line_total": 593.5
+      },
+      {
+        "item_id": "INV-2026-1034-ITEM-5",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 45.47,
+        "line_total": 90.94
+      },
+      {
+        "item_id": "INV-2026-1034-ITEM-6",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 2,
+        "unit_price": 0.07,
+        "line_total": 0.14
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1035",
+    "file_name": "INV-2026-1035.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-07-13",
+    "due_date": "2026-07-28",
+    "currency": "USD",
+    "subtotal": 7646.82,
+    "tax_amount": 764.68,
+    "total_amount": 8411.5,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.929,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1035\n**Date:** 2026-07-13\n**Due Date:** 2026-07-28\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-987\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 5 | $867.01 | $4335.05 |\n| Hardware Maintenance & Replacement Kit | 10 | $320.31 | $3203.10 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $108.67 | $108.67 |\n\n**Subtotal:** $7646.82\n**Tax Amount (10.0%):** $764.68\n**Total Amount Due:** $8411.50\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1035'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>867.01</td><td>4335.05</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>320.31</td><td>3203.10</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>108.67</td><td>108.67</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7646.82</td></tr><tr><td colspan='3'>Tax</td><td>764.68</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>8411.50</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1035-ITEM-1",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 5,
+        "unit_price": 867.01,
+        "line_total": 4335.05
+      },
+      {
+        "item_id": "INV-2026-1035-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 10,
+        "unit_price": 320.31,
+        "line_total": 3203.1
+      },
+      {
+        "item_id": "INV-2026-1035-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 1,
+        "unit_price": 108.67,
+        "line_total": 108.67
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1036",
+    "file_name": "INV-2026-1036.pdf",
+    "vendor_name": "Starlight SaaS Systems",
+    "invoice_date": "2026-01-13",
+    "due_date": "2026-03-14",
+    "currency": "USD",
+    "subtotal": 1656.45,
+    "tax_amount": 136.66,
+    "total_amount": 1793.11,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.863,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1036\n**Date:** 2026-01-13\n**Due Date:** 2026-03-14\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-332\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 20 | $3.75 | $75.00 |\n| Consulting Hours - Senior ML Engineer | 5 | $163.01 | $815.05 |\n| Managed Database Hosting - Multi-Region | 1 | $766.40 | $766.40 |\n\n**Subtotal:** $1656.45\n**Tax Amount (8.2%):** $136.66\n**Total Amount Due:** $1793.11\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1036'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>20</td><td>3.75</td><td>75.00</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>163.01</td><td>815.05</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>766.40</td><td>766.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1656.45</td></tr><tr><td colspan='3'>Tax</td><td>136.66</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1793.11</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1036-ITEM-1",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 20,
+        "unit_price": 3.75,
+        "line_total": 75.0
+      },
+      {
+        "item_id": "INV-2026-1036-ITEM-2",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 5,
+        "unit_price": 163.01,
+        "line_total": 815.05
+      },
+      {
+        "item_id": "INV-2026-1036-ITEM-3",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 1,
+        "unit_price": 766.4,
+        "line_total": 766.4
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1037",
+    "file_name": "INV-2026-1037.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-01-28",
+    "due_date": "2026-03-14",
+    "currency": "USD",
+    "subtotal": 489.6,
+    "tax_amount": 34.27,
+    "total_amount": 523.87,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.895,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1037\n**Date:** 2026-01-28\n**Due Date:** 2026-03-14\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-171\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 10 | $48.96 | $489.60 |\n\n**Subtotal:** $489.60\n**Tax Amount (7.0%):** $34.27\n**Total Amount Due:** $523.87\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1037'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>10</td><td>48.96</td><td>489.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>489.60</td></tr><tr><td colspan='3'>Tax</td><td>34.27</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>523.87</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1037-ITEM-1",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 10,
+        "unit_price": 48.96,
+        "line_total": 489.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1038",
+    "file_name": "INV-2026-1038.pdf",
+    "vendor_name": "Quantum Data Services",
+    "invoice_date": "2026-04-30",
+    "due_date": "2026-06-29",
+    "currency": "USD",
+    "subtotal": 18282.1,
+    "tax_amount": 1508.27,
+    "total_amount": 19790.37,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.85,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1038\n**Date:** 2026-04-30\n**Due Date:** 2026-06-29\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-481\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $190.33 | $3806.60 |\n| Hardware Maintenance & Replacement Kit | 50 | $289.51 | $14475.50 |\n\n**Subtotal:** $18282.10\n**Tax Amount (8.2%):** $1508.27\n**Total Amount Due:** $19790.37\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1038'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>190.33</td><td>3806.60</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>50</td><td>289.51</td><td>14475.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>18282.10</td></tr><tr><td colspan='3'>Tax</td><td>1508.27</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>19790.37</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1038-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 190.33,
+        "line_total": 3806.6
+      },
+      {
+        "item_id": "INV-2026-1038-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 50,
+        "unit_price": 289.51,
+        "line_total": 14475.5
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1039",
+    "file_name": "INV-2026-1039.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-04-05",
+    "due_date": "2026-06-04",
+    "currency": "USD",
+    "subtotal": 143.46,
+    "tax_amount": 14.35,
+    "total_amount": 157.81,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.926,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1039\n**Date:** 2026-04-05\n**Due Date:** 2026-06-04\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-725\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $143.46 | $143.46 |\n\n**Subtotal:** $143.46\n**Tax Amount (10.0%):** $14.35\n**Total Amount Due:** $157.81\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1039'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>143.46</td><td>143.46</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>143.46</td></tr><tr><td colspan='3'>Tax</td><td>14.35</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>157.81</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1039-ITEM-1",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 143.46,
+        "line_total": 143.46
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1040",
+    "file_name": "INV-2026-1040.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-06-22",
+    "due_date": "2026-07-22",
+    "currency": "USD",
+    "subtotal": 11077.7,
+    "tax_amount": 775.44,
+    "total_amount": 11853.14,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.856,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1040\n**Date:** 2026-06-22\n**Due Date:** 2026-07-22\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-148\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 20 | $0.09 | $1.80 |\n| Technical Support SLA - 24/7 Platinum | 10 | $538.87 | $5388.70 |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $112.02 | $5601.00 |\n| Software License - Professional Tier (Seats) | 2 | $43.10 | $86.20 |\n\n**Subtotal:** $11077.70\n**Tax Amount (7.0%):** $775.44\n**Total Amount Due:** $11853.14\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1040'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>20</td><td>0.09</td><td>1.80</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>538.87</td><td>5388.70</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>112.02</td><td>5601.00</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>43.10</td><td>86.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>11077.70</td></tr><tr><td colspan='3'>Tax</td><td>775.44</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>11853.14</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1040-ITEM-1",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 20,
+        "unit_price": 0.09,
+        "line_total": 1.8
+      },
+      {
+        "item_id": "INV-2026-1040-ITEM-2",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 10,
+        "unit_price": 538.87,
+        "line_total": 5388.7
+      },
+      {
+        "item_id": "INV-2026-1040-ITEM-3",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 50,
+        "unit_price": 112.02,
+        "line_total": 5601.0
+      },
+      {
+        "item_id": "INV-2026-1040-ITEM-4",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 43.1,
+        "line_total": 86.2
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1041",
+    "file_name": "INV-2026-1041.pdf",
+    "vendor_name": "Apex Office & Hardware",
+    "invoice_date": "2026-05-06",
+    "due_date": "2026-07-05",
+    "currency": "USD",
+    "subtotal": 2689.0,
+    "tax_amount": 268.9,
+    "total_amount": 2957.9,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.915,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1041\n**Date:** 2026-05-06\n**Due Date:** 2026-07-05\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-456\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 5 | $537.80 | $2689.00 |\n\n**Subtotal:** $2689.00\n**Tax Amount (10.0%):** $268.90\n**Total Amount Due:** $2957.90\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1041'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>537.80</td><td>2689.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>2689.00</td></tr><tr><td colspan='3'>Tax</td><td>268.90</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>2957.90</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1041-ITEM-1",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 537.8,
+        "line_total": 2689.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1042",
+    "file_name": "INV-2026-1042.pdf",
+    "vendor_name": "CyberShield Security Ltd.",
+    "invoice_date": "2026-07-12",
+    "due_date": "2026-09-10",
+    "currency": "USD",
+    "subtotal": 148692.17,
+    "tax_amount": 12267.1,
+    "total_amount": 160959.27,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.956,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1042\n**Date:** 2026-07-12\n**Due Date:** 2026-09-10\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-912\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $170.31 | $851.55 |\n| Technical Support SLA - 24/7 Platinum | 20 | $481.89 | $9637.80 |\n| Security Audit & Vulnerability Assessment | 50 | $2662.71 | $133135.50 |\n| Hardware Maintenance & Replacement Kit | 2 | $302.76 | $605.52 |\n| High-Performance Compute Node (hr) | 50 | $3.75 | $187.50 |\n| Managed Database Hosting - Multi-Region | 5 | $854.86 | $4274.30 |\n\n**Subtotal:** $148692.17\n**Tax Amount (8.2%):** $12267.10\n**Total Amount Due:** $160959.27\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1042'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>170.31</td><td>851.55</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>20</td><td>481.89</td><td>9637.80</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2662.71</td><td>133135.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>2</td><td>302.76</td><td>605.52</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>50</td><td>3.75</td><td>187.50</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>5</td><td>854.86</td><td>4274.30</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>148692.17</td></tr><tr><td colspan='3'>Tax</td><td>12267.10</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>160959.27</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1042-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 5,
+        "unit_price": 170.31,
+        "line_total": 851.55
+      },
+      {
+        "item_id": "INV-2026-1042-ITEM-2",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 20,
+        "unit_price": 481.89,
+        "line_total": 9637.8
+      },
+      {
+        "item_id": "INV-2026-1042-ITEM-3",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 50,
+        "unit_price": 2662.71,
+        "line_total": 133135.5
+      },
+      {
+        "item_id": "INV-2026-1042-ITEM-4",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 2,
+        "unit_price": 302.76,
+        "line_total": 605.52
+      },
+      {
+        "item_id": "INV-2026-1042-ITEM-5",
+        "item_description": "High-Performance Compute Node (hr)",
+        "quantity": 50,
+        "unit_price": 3.75,
+        "line_total": 187.5
+      },
+      {
+        "item_id": "INV-2026-1042-ITEM-6",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 5,
+        "unit_price": 854.86,
+        "line_total": 4274.3
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1043",
+    "file_name": "INV-2026-1043.pdf",
+    "vendor_name": "OmniChannel Retail Solutions",
+    "invoice_date": "2026-01-01",
+    "due_date": "2026-01-16",
+    "currency": "USD",
+    "subtotal": 12648.35,
+    "tax_amount": 632.42,
+    "total_amount": 13280.77,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.825,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1043\n**Date:** 2026-01-01\n**Due Date:** 2026-01-16\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-823\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 1 | $2507.95 | $2507.95 |\n| Technical Support SLA - 24/7 Platinum | 20 | $507.02 | $10140.40 |\n\n**Subtotal:** $12648.35\n**Tax Amount (5.0%):** $632.42\n**Total Amount Due:** $13280.77\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1043'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2507.95</td><td>2507.95</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>20</td><td>507.02</td><td>10140.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>12648.35</td></tr><tr><td colspan='3'>Tax</td><td>632.42</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>13280.77</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1043-ITEM-1",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 1,
+        "unit_price": 2507.95,
+        "line_total": 2507.95
+      },
+      {
+        "item_id": "INV-2026-1043-ITEM-2",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 20,
+        "unit_price": 507.02,
+        "line_total": 10140.4
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1044",
+    "file_name": "INV-2026-1044.pdf",
+    "vendor_name": "OmniChannel Retail Solutions",
+    "invoice_date": "2026-06-19",
+    "due_date": "2026-07-04",
+    "currency": "USD",
+    "subtotal": 1720.31,
+    "tax_amount": 172.03,
+    "total_amount": 1892.34,
+    "line_items_count": 2,
+    "page_count": 1,
+    "document_quality_score": 0.849,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1044\n**Date:** 2026-06-19\n**Due Date:** 2026-07-04\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-546\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 5 | $335.47 | $1677.35 |\n| Software License - Professional Tier (Seats) | 1 | $42.96 | $42.96 |\n\n**Subtotal:** $1720.31\n**Tax Amount (10.0%):** $172.03\n**Total Amount Due:** $1892.34\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1044'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>335.47</td><td>1677.35</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>1</td><td>42.96</td><td>42.96</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1720.31</td></tr><tr><td colspan='3'>Tax</td><td>172.03</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1892.34</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1044-ITEM-1",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 5,
+        "unit_price": 335.47,
+        "line_total": 1677.35
+      },
+      {
+        "item_id": "INV-2026-1044-ITEM-2",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 1,
+        "unit_price": 42.96,
+        "line_total": 42.96
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1045",
+    "file_name": "INV-2026-1045.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-08-18",
+    "due_date": "2026-10-02",
+    "currency": "USD",
+    "subtotal": 9406.06,
+    "tax_amount": 940.61,
+    "total_amount": 10346.67,
+    "line_items_count": 5,
+    "page_count": 2,
+    "document_quality_score": 0.918,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1045\n**Date:** 2026-08-18\n**Due Date:** 2026-10-02\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-368\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $171.77 | $858.85 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $140.41 | $140.41 |\n| Software License - Professional Tier (Seats) | 10 | $43.55 | $435.50 |\n| Technical Support SLA - 24/7 Platinum | 5 | $484.66 | $2423.30 |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $110.96 | $5548.00 |\n\n**Subtotal:** $9406.06\n**Tax Amount (10.0%):** $940.61\n**Total Amount Due:** $10346.67\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1045'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>171.77</td><td>858.85</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>140.41</td><td>140.41</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>10</td><td>43.55</td><td>435.50</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>484.66</td><td>2423.30</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>110.96</td><td>5548.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>9406.06</td></tr><tr><td colspan='3'>Tax</td><td>940.61</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>10346.67</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1045-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 5,
+        "unit_price": 171.77,
+        "line_total": 858.85
+      },
+      {
+        "item_id": "INV-2026-1045-ITEM-2",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 140.41,
+        "line_total": 140.41
+      },
+      {
+        "item_id": "INV-2026-1045-ITEM-3",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 10,
+        "unit_price": 43.55,
+        "line_total": 435.5
+      },
+      {
+        "item_id": "INV-2026-1045-ITEM-4",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 484.66,
+        "line_total": 2423.3
+      },
+      {
+        "item_id": "INV-2026-1045-ITEM-5",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 50,
+        "unit_price": 110.96,
+        "line_total": 5548.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1046",
+    "file_name": "INV-2026-1046.pdf",
+    "vendor_name": "Acme Logistics Inc.",
+    "invoice_date": "2026-01-27",
+    "due_date": "2026-03-28",
+    "currency": "USD",
+    "subtotal": 56129.9,
+    "tax_amount": 3929.09,
+    "total_amount": 60058.99,
+    "line_items_count": 4,
+    "page_count": 2,
+    "document_quality_score": 0.895,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1046\n**Date:** 2026-01-27\n**Due Date:** 2026-03-28\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-476\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $169.52 | $3390.40 |\n| Software License - Professional Tier (Seats) | 50 | $45.97 | $2298.50 |\n| Hardware Maintenance & Replacement Kit | 1 | $329.00 | $329.00 |\n| Security Audit & Vulnerability Assessment | 20 | $2505.60 | $50112.00 |\n\n**Subtotal:** $56129.90\n**Tax Amount (7.0%):** $3929.09\n**Total Amount Due:** $60058.99\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1046'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>169.52</td><td>3390.40</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>50</td><td>45.97</td><td>2298.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>329.00</td><td>329.00</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2505.60</td><td>50112.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>56129.90</td></tr><tr><td colspan='3'>Tax</td><td>3929.09</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60058.99</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1046-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 20,
+        "unit_price": 169.52,
+        "line_total": 3390.4
+      },
+      {
+        "item_id": "INV-2026-1046-ITEM-2",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 50,
+        "unit_price": 45.97,
+        "line_total": 2298.5
+      },
+      {
+        "item_id": "INV-2026-1046-ITEM-3",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 329.0,
+        "line_total": 329.0
+      },
+      {
+        "item_id": "INV-2026-1046-ITEM-4",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 20,
+        "unit_price": 2505.6,
+        "line_total": 50112.0
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1047",
+    "file_name": "INV-2026-1047.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-06-07",
+    "due_date": "2026-07-22",
+    "currency": "USD",
+    "subtotal": 140702.66,
+    "tax_amount": 11607.97,
+    "total_amount": 152310.63,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.974,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1047\n**Date:** 2026-06-07\n**Due Date:** 2026-07-22\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-298\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 50 | $2709.11 | $135455.50 |\n| Network Egress & Transit Bandwidth | 5 | $0.08 | $0.40 |\n| Consulting Hours - Senior ML Engineer | 1 | $169.06 | $169.06 |\n| Enterprise Cloud Storage (1TB/mo) | 10 | $109.18 | $1091.80 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $142.63 | $1426.30 |\n| Technical Support SLA - 24/7 Platinum | 5 | $511.92 | $2559.60 |\n\n**Subtotal:** $140702.66\n**Tax Amount (8.2%):** $11607.97\n**Total Amount Due:** $152310.63\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1047'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2709.11</td><td>135455.50</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>5</td><td>0.08</td><td>0.40</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>1</td><td>169.06</td><td>169.06</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>10</td><td>109.18</td><td>1091.80</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>142.63</td><td>1426.30</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>511.92</td><td>2559.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>140702.66</td></tr><tr><td colspan='3'>Tax</td><td>11607.97</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>152310.63</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1047-ITEM-1",
+        "item_description": "Security Audit & Vulnerability Assessment",
+        "quantity": 50,
+        "unit_price": 2709.11,
+        "line_total": 135455.5
+      },
+      {
+        "item_id": "INV-2026-1047-ITEM-2",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 5,
+        "unit_price": 0.08,
+        "line_total": 0.4
+      },
+      {
+        "item_id": "INV-2026-1047-ITEM-3",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 1,
+        "unit_price": 169.06,
+        "line_total": 169.06
+      },
+      {
+        "item_id": "INV-2026-1047-ITEM-4",
+        "item_description": "Enterprise Cloud Storage (1TB/mo)",
+        "quantity": 10,
+        "unit_price": 109.18,
+        "line_total": 1091.8
+      },
+      {
+        "item_id": "INV-2026-1047-ITEM-5",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 10,
+        "unit_price": 142.63,
+        "line_total": 1426.3
+      },
+      {
+        "item_id": "INV-2026-1047-ITEM-6",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 5,
+        "unit_price": 511.92,
+        "line_total": 2559.6
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1048",
+    "file_name": "INV-2026-1048.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-01-24",
+    "due_date": "2026-02-23",
+    "currency": "USD",
+    "subtotal": 1416.58,
+    "tax_amount": 116.87,
+    "total_amount": 1533.45,
+    "line_items_count": 3,
+    "page_count": 1,
+    "document_quality_score": 0.974,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1048\n**Date:** 2026-01-24\n**Due Date:** 2026-02-23\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-381\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 20 | $46.99 | $939.80 |\n| Hardware Maintenance & Replacement Kit | 1 | $316.27 | $316.27 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $160.51 | $160.51 |\n\n**Subtotal:** $1416.58\n**Tax Amount (8.2%):** $116.87\n**Total Amount Due:** $1533.45\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1048'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>20</td><td>46.99</td><td>939.80</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>316.27</td><td>316.27</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>160.51</td><td>160.51</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1416.58</td></tr><tr><td colspan='3'>Tax</td><td>116.87</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1533.45</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1048-ITEM-1",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 20,
+        "unit_price": 46.99,
+        "line_total": 939.8
+      },
+      {
+        "item_id": "INV-2026-1048-ITEM-2",
+        "item_description": "Hardware Maintenance & Replacement Kit",
+        "quantity": 1,
+        "unit_price": 316.27,
+        "line_total": 316.27
+      },
+      {
+        "item_id": "INV-2026-1048-ITEM-3",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 1,
+        "unit_price": 160.51,
+        "line_total": 160.51
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1049",
+    "file_name": "INV-2026-1049.pdf",
+    "vendor_name": "CloudScale Technologies",
+    "invoice_date": "2026-05-22",
+    "due_date": "2026-07-06",
+    "currency": "USD",
+    "subtotal": 972.65,
+    "tax_amount": 80.24,
+    "total_amount": 1052.89,
+    "line_items_count": 1,
+    "page_count": 1,
+    "document_quality_score": 0.976,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1049\n**Date:** 2026-05-22\n**Due Date:** 2026-07-06\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-176\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 5 | $194.53 | $972.65 |\n\n**Subtotal:** $972.65\n**Tax Amount (8.2%):** $80.24\n**Total Amount Due:** $1052.89\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1049'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>194.53</td><td>972.65</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>972.65</td></tr><tr><td colspan='3'>Tax</td><td>80.24</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1052.89</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1049-ITEM-1",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 5,
+        "unit_price": 194.53,
+        "line_total": 972.65
+      }
+    ]
+  },
+  {
+    "invoice_id": "INV-2026-1050",
+    "file_name": "INV-2026-1050.pdf",
+    "vendor_name": "Quantum Data Services",
+    "invoice_date": "2026-07-03",
+    "due_date": "2026-09-01",
+    "currency": "USD",
+    "subtotal": 44754.82,
+    "tax_amount": 3692.27,
+    "total_amount": 48447.09,
+    "line_items_count": 6,
+    "page_count": 3,
+    "document_quality_score": 0.967,
+    "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1050\n**Date:** 2026-07-03\n**Due Date:** 2026-09-01\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-449\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 2 | $41.69 | $83.38 |\n| Consulting Hours - Senior ML Engineer | 1 | $178.42 | $178.42 |\n| Network Egress & Transit Bandwidth | 50 | $0.07 | $3.50 |\n| Technical Support SLA - 24/7 Platinum | 2 | $549.84 | $1099.68 |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $156.92 | $313.84 |\n| Managed Database Hosting - Multi-Region | 50 | $861.52 | $43076.00 |\n\n**Subtotal:** $44754.82\n**Tax Amount (8.2%):** $3692.27\n**Total Amount Due:** $48447.09\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+    "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1050'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>41.69</td><td>83.38</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>1</td><td>178.42</td><td>178.42</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>50</td><td>0.07</td><td>3.50</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>2</td><td>549.84</td><td>1099.68</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>156.92</td><td>313.84</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>50</td><td>861.52</td><td>43076.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>44754.82</td></tr><tr><td colspan='3'>Tax</td><td>3692.27</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>48447.09</strong></td></tr></tfoot></table>",
+    "line_items": [
+      {
+        "item_id": "INV-2026-1050-ITEM-1",
+        "item_description": "Software License - Professional Tier (Seats)",
+        "quantity": 2,
+        "unit_price": 41.69,
+        "line_total": 83.38
+      },
+      {
+        "item_id": "INV-2026-1050-ITEM-2",
+        "item_description": "Consulting Hours - Senior ML Engineer",
+        "quantity": 1,
+        "unit_price": 178.42,
+        "line_total": 178.42
+      },
+      {
+        "item_id": "INV-2026-1050-ITEM-3",
+        "item_description": "Network Egress & Transit Bandwidth",
+        "quantity": 50,
+        "unit_price": 0.07,
+        "line_total": 3.5
+      },
+      {
+        "item_id": "INV-2026-1050-ITEM-4",
+        "item_description": "Technical Support SLA - 24/7 Platinum",
+        "quantity": 2,
+        "unit_price": 549.84,
+        "line_total": 1099.68
+      },
+      {
+        "item_id": "INV-2026-1050-ITEM-5",
+        "item_description": "SSL/TLS Certificate Renewal (Annual)",
+        "quantity": 2,
+        "unit_price": 156.92,
+        "line_total": 313.84
+      },
+      {
+        "item_id": "INV-2026-1050-ITEM-6",
+        "item_description": "Managed Database Hosting - Multi-Region",
+        "quantity": 50,
+        "unit_price": 861.52,
+        "line_total": 43076.0
+      }
+    ]
+  }
+]

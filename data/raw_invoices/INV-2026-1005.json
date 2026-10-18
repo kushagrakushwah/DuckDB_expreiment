@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-2026-1005",
+  "file_name": "INV-2026-1005.pdf",
+  "vendor_name": "BlueSky Consulting Group",
+  "invoice_date": "2026-01-29",
+  "due_date": "2026-02-28",
+  "currency": "USD",
+  "subtotal": 180.69,
+  "tax_amount": 12.65,
+  "total_amount": 193.34,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.891,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1005\n**Date:** 2026-01-29\n**Due Date:** 2026-02-28\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-438\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 1 | $180.69 | $180.69 |\n\n**Subtotal:** $180.69\n**Tax Amount (7.0%):** $12.65\n**Total Amount Due:** $193.34\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1005'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>1</td><td>180.69</td><td>180.69</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>180.69</td></tr><tr><td colspan='3'>Tax</td><td>12.65</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>193.34</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1005-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 1,
+      "unit_price": 180.69,
+      "line_total": 180.69
+    }
+  ]
+}

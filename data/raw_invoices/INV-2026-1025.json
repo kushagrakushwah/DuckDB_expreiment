@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1025",
+  "file_name": "INV-2026-1025.pdf",
+  "vendor_name": "CloudScale Technologies",
+  "invoice_date": "2026-06-06",
+  "due_date": "2026-07-21",
+  "currency": "USD",
+  "subtotal": 18460.81,
+  "tax_amount": 923.04,
+  "total_amount": 19383.85,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.835,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1025\n**Date:** 2026-06-06\n**Due Date:** 2026-07-21\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-979\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 10 | $0.08 | $0.80 |\n| Security Audit & Vulnerability Assessment | 1 | $2705.81 | $2705.81 |\n| Managed Database Hosting - Multi-Region | 20 | $787.71 | $15754.20 |\n\n**Subtotal:** $18460.81\n**Tax Amount (5.0%):** $923.04\n**Total Amount Due:** $19383.85\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1025'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>10</td><td>0.08</td><td>0.80</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2705.81</td><td>2705.81</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>787.71</td><td>15754.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>18460.81</td></tr><tr><td colspan='3'>Tax</td><td>923.04</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>19383.85</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1025-ITEM-1",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 10,
+      "unit_price": 0.08,
+      "line_total": 0.8
+    },
+    {
+      "item_id": "INV-2026-1025-ITEM-2",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 1,
+      "unit_price": 2705.81,
+      "line_total": 2705.81
+    },
+    {
+      "item_id": "INV-2026-1025-ITEM-3",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 20,
+      "unit_price": 787.71,
+      "line_total": 15754.2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1043",
+  "file_name": "INV-2026-1043.pdf",
+  "vendor_name": "OmniChannel Retail Solutions",
+  "invoice_date": "2026-01-01",
+  "due_date": "2026-01-16",
+  "currency": "USD",
+  "subtotal": 12648.35,
+  "tax_amount": 632.42,
+  "total_amount": 13280.77,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.825,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1043\n**Date:** 2026-01-01\n**Due Date:** 2026-01-16\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-823\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 1 | $2507.95 | $2507.95 |\n| Technical Support SLA - 24/7 Platinum | 20 | $507.02 | $10140.40 |\n\n**Subtotal:** $12648.35\n**Tax Amount (5.0%):** $632.42\n**Total Amount Due:** $13280.77\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1043'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2507.95</td><td>2507.95</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>20</td><td>507.02</td><td>10140.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>12648.35</td></tr><tr><td colspan='3'>Tax</td><td>632.42</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>13280.77</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1043-ITEM-1",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 1,
+      "unit_price": 2507.95,
+      "line_total": 2507.95
+    },
+    {
+      "item_id": "INV-2026-1043-ITEM-2",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 20,
+      "unit_price": 507.02,
+      "line_total": 10140.4
+    }
+  ]
+}

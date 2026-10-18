@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1030",
+  "file_name": "INV-2026-1030.pdf",
+  "vendor_name": "Nova Telecom Services",
+  "invoice_date": "2026-05-26",
+  "due_date": "2026-06-25",
+  "currency": "USD",
+  "subtotal": 2280.82,
+  "tax_amount": 159.66,
+  "total_amount": 2440.48,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.906,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1030\n**Date:** 2026-05-26\n**Due Date:** 2026-06-25\n\n## Vendor Information\n**Vendor:** Nova Telecom Services\n**Address:** 99 Fiber Way, Dallas, TX\n**Tax ID / GST:** TAX-22874\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-226\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 2 | $767.88 | $1535.76 |\n| Network Egress & Transit Bandwidth | 2 | $0.08 | $0.16 |\n| SSL/TLS Certificate Renewal (Annual) | 5 | $148.98 | $744.90 |\n\n**Subtotal:** $2280.82\n**Tax Amount (7.0%):** $159.66\n**Total Amount Due:** $2440.48\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1030'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>767.88</td><td>1535.76</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.08</td><td>0.16</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>5</td><td>148.98</td><td>744.90</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>2280.82</td></tr><tr><td colspan='3'>Tax</td><td>159.66</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>2440.48</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1030-ITEM-1",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 2,
+      "unit_price": 767.88,
+      "line_total": 1535.76
+    },
+    {
+      "item_id": "INV-2026-1030-ITEM-2",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 2,
+      "unit_price": 0.08,
+      "line_total": 0.16
+    },
+    {
+      "item_id": "INV-2026-1030-ITEM-3",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 5,
+      "unit_price": 148.98,
+      "line_total": 744.9
+    }
+  ]
+}

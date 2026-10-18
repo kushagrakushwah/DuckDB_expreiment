@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1024",
+  "file_name": "INV-2026-1024.pdf",
+  "vendor_name": "BlueSky Consulting Group",
+  "invoice_date": "2026-03-01",
+  "due_date": "2026-04-15",
+  "currency": "USD",
+  "subtotal": 140810.69,
+  "tax_amount": 14081.07,
+  "total_amount": 154891.76,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.878,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1024\n**Date:** 2026-03-01\n**Due Date:** 2026-04-15\n\n## Vendor Information\n**Vendor:** BlueSky Consulting Group\n**Address:** 100 Peachtree St, Atlanta, GA\n**Tax ID / GST:** TAX-66102\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-681\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $145.36 | $2907.20 |\n| Consulting Hours - Senior ML Engineer | 10 | $181.91 | $1819.10 |\n| Security Audit & Vulnerability Assessment | 50 | $2671.58 | $133579.00 |\n| Network Egress & Transit Bandwidth | 1 | $0.09 | $0.09 |\n| Technical Support SLA - 24/7 Platinum | 5 | $501.06 | $2505.30 |\n\n**Subtotal:** $140810.69\n**Tax Amount (10.0%):** $14081.07\n**Total Amount Due:** $154891.76\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1024'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>145.36</td><td>2907.20</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>10</td><td>181.91</td><td>1819.10</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2671.58</td><td>133579.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.09</td><td>0.09</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>501.06</td><td>2505.30</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>140810.69</td></tr><tr><td colspan='3'>Tax</td><td>14081.07</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>154891.76</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1024-ITEM-1",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 20,
+      "unit_price": 145.36,
+      "line_total": 2907.2
+    },
+    {
+      "item_id": "INV-2026-1024-ITEM-2",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 10,
+      "unit_price": 181.91,
+      "line_total": 1819.1
+    },
+    {
+      "item_id": "INV-2026-1024-ITEM-3",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 50,
+      "unit_price": 2671.58,
+      "line_total": 133579.0
+    },
+    {
+      "item_id": "INV-2026-1024-ITEM-4",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 1,
+      "unit_price": 0.09,
+      "line_total": 0.09
+    },
+    {
+      "item_id": "INV-2026-1024-ITEM-5",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 5,
+      "unit_price": 501.06,
+      "line_total": 2505.3
+    }
+  ]
+}

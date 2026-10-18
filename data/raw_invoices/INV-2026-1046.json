@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1046",
+  "file_name": "INV-2026-1046.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-01-27",
+  "due_date": "2026-03-28",
+  "currency": "USD",
+  "subtotal": 56129.9,
+  "tax_amount": 3929.09,
+  "total_amount": 60058.99,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.895,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1046\n**Date:** 2026-01-27\n**Due Date:** 2026-03-28\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-476\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $169.52 | $3390.40 |\n| Software License - Professional Tier (Seats) | 50 | $45.97 | $2298.50 |\n| Hardware Maintenance & Replacement Kit | 1 | $329.00 | $329.00 |\n| Security Audit & Vulnerability Assessment | 20 | $2505.60 | $50112.00 |\n\n**Subtotal:** $56129.90\n**Tax Amount (7.0%):** $3929.09\n**Total Amount Due:** $60058.99\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1046'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>169.52</td><td>3390.40</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>50</td><td>45.97</td><td>2298.50</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>329.00</td><td>329.00</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2505.60</td><td>50112.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>56129.90</td></tr><tr><td colspan='3'>Tax</td><td>3929.09</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60058.99</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1046-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 169.52,
+      "line_total": 3390.4
+    },
+    {
+      "item_id": "INV-2026-1046-ITEM-2",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 50,
+      "unit_price": 45.97,
+      "line_total": 2298.5
+    },
+    {
+      "item_id": "INV-2026-1046-ITEM-3",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 1,
+      "unit_price": 329.0,
+      "line_total": 329.0
+    },
+    {
+      "item_id": "INV-2026-1046-ITEM-4",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 20,
+      "unit_price": 2505.6,
+      "line_total": 50112.0
+    }
+  ]
+}

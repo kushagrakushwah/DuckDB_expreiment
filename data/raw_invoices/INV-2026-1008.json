@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1008",
+  "file_name": "INV-2026-1008.pdf",
+  "vendor_name": "Starlight SaaS Systems",
+  "invoice_date": "2026-04-08",
+  "due_date": "2026-06-07",
+  "currency": "USD",
+  "subtotal": 136411.18,
+  "tax_amount": 6820.56,
+  "total_amount": 143231.74,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.823,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1008\n**Date:** 2026-04-08\n**Due Date:** 2026-06-07\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-777\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 50 | $2648.40 | $132420.00 |\n| Network Egress & Transit Bandwidth | 2 | $0.07 | $0.14 |\n| Technical Support SLA - 24/7 Platinum | 1 | $541.26 | $541.26 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $146.78 | $146.78 |\n| Hardware Maintenance & Replacement Kit | 10 | $330.30 | $3303.00 |\n\n**Subtotal:** $136411.18\n**Tax Amount (5.0%):** $6820.56\n**Total Amount Due:** $143231.74\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1008'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>50</td><td>2648.40</td><td>132420.00</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>2</td><td>0.07</td><td>0.14</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>1</td><td>541.26</td><td>541.26</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>146.78</td><td>146.78</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>330.30</td><td>3303.00</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>136411.18</td></tr><tr><td colspan='3'>Tax</td><td>6820.56</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>143231.74</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1008-ITEM-1",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 50,
+      "unit_price": 2648.4,
+      "line_total": 132420.0
+    },
+    {
+      "item_id": "INV-2026-1008-ITEM-2",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 2,
+      "unit_price": 0.07,
+      "line_total": 0.14
+    },
+    {
+      "item_id": "INV-2026-1008-ITEM-3",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 1,
+      "unit_price": 541.26,
+      "line_total": 541.26
+    },
+    {
+      "item_id": "INV-2026-1008-ITEM-4",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 1,
+      "unit_price": 146.78,
+      "line_total": 146.78
+    },
+    {
+      "item_id": "INV-2026-1008-ITEM-5",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 10,
+      "unit_price": 330.3,
+      "line_total": 3303.0
+    }
+  ]
+}

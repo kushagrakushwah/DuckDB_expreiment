@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1006",
+  "file_name": "INV-2026-1006.pdf",
+  "vendor_name": "Quantum Data Services",
+  "invoice_date": "2026-08-14",
+  "due_date": "2026-09-28",
+  "currency": "USD",
+  "subtotal": 5439.9,
+  "tax_amount": 448.79,
+  "total_amount": 5888.69,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.825,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1006\n**Date:** 2026-08-14\n**Due Date:** 2026-09-28\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-482\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $193.32 | $3866.40 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $157.35 | $1573.50 |\n\n**Subtotal:** $5439.90\n**Tax Amount (8.2%):** $448.79\n**Total Amount Due:** $5888.69\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1006'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>193.32</td><td>3866.40</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>157.35</td><td>1573.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5439.90</td></tr><tr><td colspan='3'>Tax</td><td>448.79</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>5888.69</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1006-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 193.32,
+      "line_total": 3866.4
+    },
+    {
+      "item_id": "INV-2026-1006-ITEM-2",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 10,
+      "unit_price": 157.35,
+      "line_total": 1573.5
+    }
+  ]
+}

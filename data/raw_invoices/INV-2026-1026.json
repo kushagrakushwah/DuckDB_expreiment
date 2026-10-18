@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1026",
+  "file_name": "INV-2026-1026.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-09-06",
+  "due_date": "2026-09-21",
+  "currency": "USD",
+  "subtotal": 51605.09,
+  "tax_amount": 3612.36,
+  "total_amount": 55217.45,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.924,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1026\n**Date:** 2026-09-06\n**Due Date:** 2026-09-21\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-520\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Security Audit & Vulnerability Assessment | 20 | $2498.57 | $49971.40 |\n| Hardware Maintenance & Replacement Kit | 1 | $307.04 | $307.04 |\n| Managed Database Hosting - Multi-Region | 1 | $866.18 | $866.18 |\n| Technical Support SLA - 24/7 Platinum | 1 | $460.47 | $460.47 |\n\n**Subtotal:** $51605.09\n**Tax Amount (7.0%):** $3612.36\n**Total Amount Due:** $55217.45\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1026'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2498.57</td><td>49971.40</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>307.04</td><td>307.04</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>866.18</td><td>866.18</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>1</td><td>460.47</td><td>460.47</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>51605.09</td></tr><tr><td colspan='3'>Tax</td><td>3612.36</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>55217.45</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1026-ITEM-1",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 20,
+      "unit_price": 2498.57,
+      "line_total": 49971.4
+    },
+    {
+      "item_id": "INV-2026-1026-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 1,
+      "unit_price": 307.04,
+      "line_total": 307.04
+    },
+    {
+      "item_id": "INV-2026-1026-ITEM-3",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 1,
+      "unit_price": 866.18,
+      "line_total": 866.18
+    },
+    {
+      "item_id": "INV-2026-1026-ITEM-4",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 1,
+      "unit_price": 460.47,
+      "line_total": 460.47
+    }
+  ]
+}

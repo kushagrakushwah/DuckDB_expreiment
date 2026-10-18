@@ -1,0 +1,25 @@
+{
+  "invoice_id": "INV-2026-1031",
+  "file_name": "INV-2026-1031.pdf",
+  "vendor_name": "Quantum Data Services",
+  "invoice_date": "2026-01-06",
+  "due_date": "2026-02-20",
+  "currency": "USD",
+  "subtotal": 302.64,
+  "tax_amount": 21.18,
+  "total_amount": 323.82,
+  "line_items_count": 1,
+  "page_count": 1,
+  "document_quality_score": 0.852,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1031\n**Date:** 2026-01-06\n**Due Date:** 2026-02-20\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-240\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 2 | $151.32 | $302.64 |\n\n**Subtotal:** $302.64\n**Tax Amount (7.0%):** $21.18\n**Total Amount Due:** $323.82\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1031'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>2</td><td>151.32</td><td>302.64</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>302.64</td></tr><tr><td colspan='3'>Tax</td><td>21.18</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>323.82</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1031-ITEM-1",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 2,
+      "unit_price": 151.32,
+      "line_total": 302.64
+    }
+  ]
+}

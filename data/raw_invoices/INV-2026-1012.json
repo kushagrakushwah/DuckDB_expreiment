@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-2026-1012",
+  "file_name": "INV-2026-1012.pdf",
+  "vendor_name": "CyberShield Security Ltd.",
+  "invoice_date": "2026-07-23",
+  "due_date": "2026-08-22",
+  "currency": "USD",
+  "subtotal": 13949.65,
+  "tax_amount": 697.48,
+  "total_amount": 14647.13,
+  "line_items_count": 6,
+  "page_count": 3,
+  "document_quality_score": 0.965,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1012\n**Date:** 2026-07-23\n**Due Date:** 2026-08-22\n\n## Vendor Information\n**Vendor:** CyberShield Security Ltd.\n**Address:** 12 Wall St, New York, NY\n**Tax ID / GST:** TAX-55291\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-322\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Technical Support SLA - 24/7 Platinum | 10 | $520.81 | $5208.10 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $158.02 | $1580.20 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $123.34 | $123.34 |\n| Hardware Maintenance & Replacement Kit | 20 | $307.20 | $6144.00 |\n| Managed Database Hosting - Multi-Region | 1 | $862.41 | $862.41 |\n| High-Performance Compute Node (hr) | 10 | $3.16 | $31.60 |\n\n**Subtotal:** $13949.65\n**Tax Amount (5.0%):** $697.48\n**Total Amount Due:** $14647.13\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1012'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>520.81</td><td>5208.10</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>158.02</td><td>1580.20</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>123.34</td><td>123.34</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>20</td><td>307.20</td><td>6144.00</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>862.41</td><td>862.41</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>10</td><td>3.16</td><td>31.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>13949.65</td></tr><tr><td colspan='3'>Tax</td><td>697.48</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>14647.13</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1012-ITEM-1",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 10,
+      "unit_price": 520.81,
+      "line_total": 5208.1
+    },
+    {
+      "item_id": "INV-2026-1012-ITEM-2",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 10,
+      "unit_price": 158.02,
+      "line_total": 1580.2
+    },
+    {
+      "item_id": "INV-2026-1012-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 1,
+      "unit_price": 123.34,
+      "line_total": 123.34
+    },
+    {
+      "item_id": "INV-2026-1012-ITEM-4",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 20,
+      "unit_price": 307.2,
+      "line_total": 6144.0
+    },
+    {
+      "item_id": "INV-2026-1012-ITEM-5",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 1,
+      "unit_price": 862.41,
+      "line_total": 862.41
+    },
+    {
+      "item_id": "INV-2026-1012-ITEM-6",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 10,
+      "unit_price": 3.16,
+      "line_total": 31.6
+    }
+  ]
+}

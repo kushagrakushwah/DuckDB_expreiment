@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1044",
+  "file_name": "INV-2026-1044.pdf",
+  "vendor_name": "OmniChannel Retail Solutions",
+  "invoice_date": "2026-06-19",
+  "due_date": "2026-07-04",
+  "currency": "USD",
+  "subtotal": 1720.31,
+  "tax_amount": 172.03,
+  "total_amount": 1892.34,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.849,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1044\n**Date:** 2026-06-19\n**Due Date:** 2026-07-04\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-546\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 5 | $335.47 | $1677.35 |\n| Software License - Professional Tier (Seats) | 1 | $42.96 | $42.96 |\n\n**Subtotal:** $1720.31\n**Tax Amount (10.0%):** $172.03\n**Total Amount Due:** $1892.34\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1044'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>335.47</td><td>1677.35</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>1</td><td>42.96</td><td>42.96</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1720.31</td></tr><tr><td colspan='3'>Tax</td><td>172.03</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1892.34</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1044-ITEM-1",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 5,
+      "unit_price": 335.47,
+      "line_total": 1677.35
+    },
+    {
+      "item_id": "INV-2026-1044-ITEM-2",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 1,
+      "unit_price": 42.96,
+      "line_total": 42.96
+    }
+  ]
+}

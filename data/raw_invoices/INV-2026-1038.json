@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1038",
+  "file_name": "INV-2026-1038.pdf",
+  "vendor_name": "Quantum Data Services",
+  "invoice_date": "2026-04-30",
+  "due_date": "2026-06-29",
+  "currency": "USD",
+  "subtotal": 18282.1,
+  "tax_amount": 1508.27,
+  "total_amount": 19790.37,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.85,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1038\n**Date:** 2026-04-30\n**Due Date:** 2026-06-29\n\n## Vendor Information\n**Vendor:** Quantum Data Services\n**Address:** 700 Tech Square, Cambridge, MA\n**Tax ID / GST:** TAX-88231\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-481\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $190.33 | $3806.60 |\n| Hardware Maintenance & Replacement Kit | 50 | $289.51 | $14475.50 |\n\n**Subtotal:** $18282.10\n**Tax Amount (8.2%):** $1508.27\n**Total Amount Due:** $19790.37\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1038'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>190.33</td><td>3806.60</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>50</td><td>289.51</td><td>14475.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>18282.10</td></tr><tr><td colspan='3'>Tax</td><td>1508.27</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>19790.37</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1038-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 190.33,
+      "line_total": 3806.6
+    },
+    {
+      "item_id": "INV-2026-1038-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 50,
+      "unit_price": 289.51,
+      "line_total": 14475.5
+    }
+  ]
+}

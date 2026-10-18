@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1033",
+  "file_name": "INV-2026-1033.pdf",
+  "vendor_name": "CloudScale Technologies",
+  "invoice_date": "2026-01-23",
+  "due_date": "2026-02-22",
+  "currency": "USD",
+  "subtotal": 4922.25,
+  "tax_amount": 492.23,
+  "total_amount": 5414.48,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.823,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1033\n**Date:** 2026-01-23\n**Due Date:** 2026-02-22\n\n## Vendor Information\n**Vendor:** CloudScale Technologies\n**Address:** 450 Silicon Blvd, San Jose, CA\n**Tax ID / GST:** TAX-44120\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-229\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Software License - Professional Tier (Seats) | 20 | $48.98 | $979.60 |\n| Security Audit & Vulnerability Assessment | 1 | $2630.55 | $2630.55 |\n| Enterprise Cloud Storage (1TB/mo) | 10 | $131.21 | $1312.10 |\n\n**Subtotal:** $4922.25\n**Tax Amount (10.0%):** $492.23\n**Total Amount Due:** $5414.48\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1033'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Software License - Professional Tier (Seats)</td><td>20</td><td>48.98</td><td>979.60</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2630.55</td><td>2630.55</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>10</td><td>131.21</td><td>1312.10</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4922.25</td></tr><tr><td colspan='3'>Tax</td><td>492.23</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>5414.48</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1033-ITEM-1",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 20,
+      "unit_price": 48.98,
+      "line_total": 979.6
+    },
+    {
+      "item_id": "INV-2026-1033-ITEM-2",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 1,
+      "unit_price": 2630.55,
+      "line_total": 2630.55
+    },
+    {
+      "item_id": "INV-2026-1033-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 10,
+      "unit_price": 131.21,
+      "line_total": 1312.1
+    }
+  ]
+}

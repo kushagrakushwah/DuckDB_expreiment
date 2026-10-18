@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1020",
+  "file_name": "INV-2026-1020.pdf",
+  "vendor_name": "Starlight SaaS Systems",
+  "invoice_date": "2026-05-07",
+  "due_date": "2026-06-21",
+  "currency": "USD",
+  "subtotal": 15462.64,
+  "tax_amount": 773.13,
+  "total_amount": 16235.77,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.936,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1020\n**Date:** 2026-05-07\n**Due Date:** 2026-06-21\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-145\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Enterprise Cloud Storage (1TB/mo) | 10 | $125.88 | $1258.80 |\n| Managed Database Hosting - Multi-Region | 2 | $791.18 | $1582.36 |\n| Consulting Hours - Senior ML Engineer | 20 | $195.80 | $3916.00 |\n| SSL/TLS Certificate Renewal (Annual) | 50 | $153.39 | $7669.50 |\n| Technical Support SLA - 24/7 Platinum | 2 | $517.99 | $1035.98 |\n\n**Subtotal:** $15462.64\n**Tax Amount (5.0%):** $773.13\n**Total Amount Due:** $16235.77\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1020'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>10</td><td>125.88</td><td>1258.80</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>791.18</td><td>1582.36</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>195.80</td><td>3916.00</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>50</td><td>153.39</td><td>7669.50</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>2</td><td>517.99</td><td>1035.98</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>15462.64</td></tr><tr><td colspan='3'>Tax</td><td>773.13</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>16235.77</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1020-ITEM-1",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 10,
+      "unit_price": 125.88,
+      "line_total": 1258.8
+    },
+    {
+      "item_id": "INV-2026-1020-ITEM-2",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 2,
+      "unit_price": 791.18,
+      "line_total": 1582.36
+    },
+    {
+      "item_id": "INV-2026-1020-ITEM-3",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 195.8,
+      "line_total": 3916.0
+    },
+    {
+      "item_id": "INV-2026-1020-ITEM-4",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 50,
+      "unit_price": 153.39,
+      "line_total": 7669.5
+    },
+    {
+      "item_id": "INV-2026-1020-ITEM-5",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 2,
+      "unit_price": 517.99,
+      "line_total": 1035.98
+    }
+  ]
+}

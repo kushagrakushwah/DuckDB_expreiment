@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1010",
+  "file_name": "INV-2026-1010.pdf",
+  "vendor_name": "Vertex Industrial Supply",
+  "invoice_date": "2026-05-31",
+  "due_date": "2026-06-30",
+  "currency": "USD",
+  "subtotal": 26312.6,
+  "tax_amount": 1315.63,
+  "total_amount": 27628.23,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.879,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1010\n**Date:** 2026-05-31\n**Due Date:** 2026-06-30\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-542\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 10 | $350.32 | $3503.20 |\n| High-Performance Compute Node (hr) | 5 | $3.23 | $16.15 |\n| SSL/TLS Certificate Renewal (Annual) | 1 | $157.75 | $157.75 |\n| Technical Support SLA - 24/7 Platinum | 50 | $452.71 | $22635.50 |\n\n**Subtotal:** $26312.60\n**Tax Amount (5.0%):** $1315.63\n**Total Amount Due:** $27628.23\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1010'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>350.32</td><td>3503.20</td></tr><tr><td>High-Performance Compute Node (hr)</td><td>5</td><td>3.23</td><td>16.15</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>1</td><td>157.75</td><td>157.75</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>50</td><td>452.71</td><td>22635.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>26312.60</td></tr><tr><td colspan='3'>Tax</td><td>1315.63</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>27628.23</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1010-ITEM-1",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 10,
+      "unit_price": 350.32,
+      "line_total": 3503.2
+    },
+    {
+      "item_id": "INV-2026-1010-ITEM-2",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 5,
+      "unit_price": 3.23,
+      "line_total": 16.15
+    },
+    {
+      "item_id": "INV-2026-1010-ITEM-3",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 1,
+      "unit_price": 157.75,
+      "line_total": 157.75
+    },
+    {
+      "item_id": "INV-2026-1010-ITEM-4",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 50,
+      "unit_price": 452.71,
+      "line_total": 22635.5
+    }
+  ]
+}

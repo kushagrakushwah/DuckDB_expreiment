@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1023",
+  "file_name": "INV-2026-1023.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-06-07",
+  "due_date": "2026-07-22",
+  "currency": "USD",
+  "subtotal": 13201.18,
+  "tax_amount": 660.06,
+  "total_amount": 13861.24,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.963,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1023\n**Date:** 2026-06-07\n**Due Date:** 2026-07-22\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-593\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n| Security Audit & Vulnerability Assessment | 5 | $2640.22 | $13201.10 |\n\n**Subtotal:** $13201.18\n**Tax Amount (5.0%):** $660.06\n**Total Amount Due:** $13861.24\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1023'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>5</td><td>2640.22</td><td>13201.10</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>13201.18</td></tr><tr><td colspan='3'>Tax</td><td>660.06</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>13861.24</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1023-ITEM-1",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 1,
+      "unit_price": 0.08,
+      "line_total": 0.08
+    },
+    {
+      "item_id": "INV-2026-1023-ITEM-2",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 5,
+      "unit_price": 2640.22,
+      "line_total": 13201.1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "invoice_id": "INV-2026-1021",
+  "file_name": "INV-2026-1021.pdf",
+  "vendor_name": "OmniChannel Retail Solutions",
+  "invoice_date": "2026-06-26",
+  "due_date": "2026-08-25",
+  "currency": "USD",
+  "subtotal": 29275.68,
+  "tax_amount": 2049.3,
+  "total_amount": 31324.98,
+  "line_items_count": 5,
+  "page_count": 2,
+  "document_quality_score": 0.87,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1021\n**Date:** 2026-06-26\n**Due Date:** 2026-08-25\n\n## Vendor Information\n**Vendor:** OmniChannel Retail Solutions\n**Address:** 220 Broadway, Denver, CO\n**Tax ID / GST:** TAX-99041\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-891\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Consulting Hours - Senior ML Engineer | 20 | $175.19 | $3503.80 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $119.18 | $119.18 |\n| Network Egress & Transit Bandwidth | 1 | $0.08 | $0.08 |\n| Hardware Maintenance & Replacement Kit | 1 | $324.12 | $324.12 |\n| Technical Support SLA - 24/7 Platinum | 50 | $506.57 | $25328.50 |\n\n**Subtotal:** $29275.68\n**Tax Amount (7.0%):** $2049.30\n**Total Amount Due:** $31324.98\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1021'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Consulting Hours - Senior ML Engineer</td><td>20</td><td>175.19</td><td>3503.80</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>119.18</td><td>119.18</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>1</td><td>0.08</td><td>0.08</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>1</td><td>324.12</td><td>324.12</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>50</td><td>506.57</td><td>25328.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>29275.68</td></tr><tr><td colspan='3'>Tax</td><td>2049.30</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>31324.98</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1021-ITEM-1",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 20,
+      "unit_price": 175.19,
+      "line_total": 3503.8
+    },
+    {
+      "item_id": "INV-2026-1021-ITEM-2",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 1,
+      "unit_price": 119.18,
+      "line_total": 119.18
+    },
+    {
+      "item_id": "INV-2026-1021-ITEM-3",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 1,
+      "unit_price": 0.08,
+      "line_total": 0.08
+    },
+    {
+      "item_id": "INV-2026-1021-ITEM-4",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 1,
+      "unit_price": 324.12,
+      "line_total": 324.12
+    },
+    {
+      "item_id": "INV-2026-1021-ITEM-5",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 50,
+      "unit_price": 506.57,
+      "line_total": 25328.5
+    }
+  ]
+}

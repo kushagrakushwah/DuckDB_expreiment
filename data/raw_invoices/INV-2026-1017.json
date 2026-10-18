@@ -1,0 +1,32 @@
+{
+  "invoice_id": "INV-2026-1017",
+  "file_name": "INV-2026-1017.pdf",
+  "vendor_name": "Apex Office & Hardware",
+  "invoice_date": "2026-06-24",
+  "due_date": "2026-07-24",
+  "currency": "USD",
+  "subtotal": 4216.7,
+  "tax_amount": 210.84,
+  "total_amount": 4427.54,
+  "line_items_count": 2,
+  "page_count": 1,
+  "document_quality_score": 0.887,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1017\n**Date:** 2026-06-24\n**Due Date:** 2026-07-24\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-907\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Hardware Maintenance & Replacement Kit | 5 | $318.24 | $1591.20 |\n| Technical Support SLA - 24/7 Platinum | 5 | $525.10 | $2625.50 |\n\n**Subtotal:** $4216.70\n**Tax Amount (5.0%):** $210.84\n**Total Amount Due:** $4427.54\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1017'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Hardware Maintenance & Replacement Kit</td><td>5</td><td>318.24</td><td>1591.20</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>5</td><td>525.10</td><td>2625.50</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>4216.70</td></tr><tr><td colspan='3'>Tax</td><td>210.84</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>4427.54</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1017-ITEM-1",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 5,
+      "unit_price": 318.24,
+      "line_total": 1591.2
+    },
+    {
+      "item_id": "INV-2026-1017-ITEM-2",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 5,
+      "unit_price": 525.1,
+      "line_total": 2625.5
+    }
+  ]
+}

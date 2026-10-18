@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1029",
+  "file_name": "INV-2026-1029.pdf",
+  "vendor_name": "Apex Office & Hardware",
+  "invoice_date": "2026-02-04",
+  "due_date": "2026-03-06",
+  "currency": "USD",
+  "subtotal": 55967.12,
+  "tax_amount": 4617.29,
+  "total_amount": 60584.41,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.96,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1029\n**Date:** 2026-02-04\n**Due Date:** 2026-03-06\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-443\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Managed Database Hosting - Multi-Region | 2 | $905.11 | $1810.22 |\n| Security Audit & Vulnerability Assessment | 20 | $2631.54 | $52630.80 |\n| SSL/TLS Certificate Renewal (Annual) | 10 | $152.45 | $1524.50 |\n| Network Egress & Transit Bandwidth | 20 | $0.08 | $1.60 |\n\n**Subtotal:** $55967.12\n**Tax Amount (8.2%):** $4617.29\n**Total Amount Due:** $60584.41\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1029'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Managed Database Hosting - Multi-Region</td><td>2</td><td>905.11</td><td>1810.22</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>20</td><td>2631.54</td><td>52630.80</td></tr><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>10</td><td>152.45</td><td>1524.50</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>20</td><td>0.08</td><td>1.60</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>55967.12</td></tr><tr><td colspan='3'>Tax</td><td>4617.29</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>60584.41</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1029-ITEM-1",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 2,
+      "unit_price": 905.11,
+      "line_total": 1810.22
+    },
+    {
+      "item_id": "INV-2026-1029-ITEM-2",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 20,
+      "unit_price": 2631.54,
+      "line_total": 52630.8
+    },
+    {
+      "item_id": "INV-2026-1029-ITEM-3",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 10,
+      "unit_price": 152.45,
+      "line_total": 1524.5
+    },
+    {
+      "item_id": "INV-2026-1029-ITEM-4",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 20,
+      "unit_price": 0.08,
+      "line_total": 1.6
+    }
+  ]
+}

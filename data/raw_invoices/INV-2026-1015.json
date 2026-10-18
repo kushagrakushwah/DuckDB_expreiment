@@ -1,0 +1,60 @@
+{
+  "invoice_id": "INV-2026-1015",
+  "file_name": "INV-2026-1015.pdf",
+  "vendor_name": "Nova Telecom Services",
+  "invoice_date": "2026-06-01",
+  "due_date": "2026-06-16",
+  "currency": "USD",
+  "subtotal": 25486.89,
+  "tax_amount": 2102.67,
+  "total_amount": 27589.56,
+  "line_items_count": 6,
+  "page_count": 3,
+  "document_quality_score": 0.951,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1015\n**Date:** 2026-06-01\n**Due Date:** 2026-06-16\n\n## Vendor Information\n**Vendor:** Nova Telecom Services\n**Address:** 99 Fiber Way, Dallas, TX\n**Tax ID / GST:** TAX-22874\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-257\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 5 | $135.31 | $676.55 |\n| Hardware Maintenance & Replacement Kit | 10 | $330.26 | $3302.60 |\n| Managed Database Hosting - Multi-Region | 20 | $933.94 | $18678.80 |\n| Enterprise Cloud Storage (1TB/mo) | 1 | $118.97 | $118.97 |\n| Security Audit & Vulnerability Assessment | 1 | $2709.57 | $2709.57 |\n| Network Egress & Transit Bandwidth | 5 | $0.08 | $0.40 |\n\n**Subtotal:** $25486.89\n**Tax Amount (8.2%):** $2102.67\n**Total Amount Due:** $27589.56\n\n---\n*Thank you for your business! Payment terms: Net 15 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1015'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>5</td><td>135.31</td><td>676.55</td></tr><tr><td>Hardware Maintenance & Replacement Kit</td><td>10</td><td>330.26</td><td>3302.60</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>20</td><td>933.94</td><td>18678.80</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>1</td><td>118.97</td><td>118.97</td></tr><tr><td>Security Audit & Vulnerability Assessment</td><td>1</td><td>2709.57</td><td>2709.57</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>5</td><td>0.08</td><td>0.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>25486.89</td></tr><tr><td colspan='3'>Tax</td><td>2102.67</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>27589.56</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1015-ITEM-1",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 5,
+      "unit_price": 135.31,
+      "line_total": 676.55
+    },
+    {
+      "item_id": "INV-2026-1015-ITEM-2",
+      "item_description": "Hardware Maintenance & Replacement Kit",
+      "quantity": 10,
+      "unit_price": 330.26,
+      "line_total": 3302.6
+    },
+    {
+      "item_id": "INV-2026-1015-ITEM-3",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 20,
+      "unit_price": 933.94,
+      "line_total": 18678.8
+    },
+    {
+      "item_id": "INV-2026-1015-ITEM-4",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 1,
+      "unit_price": 118.97,
+      "line_total": 118.97
+    },
+    {
+      "item_id": "INV-2026-1015-ITEM-5",
+      "item_description": "Security Audit & Vulnerability Assessment",
+      "quantity": 1,
+      "unit_price": 2709.57,
+      "line_total": 2709.57
+    },
+    {
+      "item_id": "INV-2026-1015-ITEM-6",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 5,
+      "unit_price": 0.08,
+      "line_total": 0.4
+    }
+  ]
+}

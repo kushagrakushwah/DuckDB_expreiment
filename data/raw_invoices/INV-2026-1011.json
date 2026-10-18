@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1011",
+  "file_name": "INV-2026-1011.pdf",
+  "vendor_name": "Vertex Industrial Supply",
+  "invoice_date": "2026-05-20",
+  "due_date": "2026-07-04",
+  "currency": "USD",
+  "subtotal": 5608.7,
+  "tax_amount": 392.61,
+  "total_amount": 6001.31,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.822,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1011\n**Date:** 2026-05-20\n**Due Date:** 2026-07-04\n\n## Vendor Information\n**Vendor:** Vertex Industrial Supply\n**Address:** 501 Factory Lane, Detroit, MI\n**Tax ID / GST:** TAX-33419\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-974\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| SSL/TLS Certificate Renewal (Annual) | 20 | $159.68 | $3193.60 |\n| Network Egress & Transit Bandwidth | 10 | $0.09 | $0.90 |\n| Enterprise Cloud Storage (1TB/mo) | 20 | $120.71 | $2414.20 |\n\n**Subtotal:** $5608.70\n**Tax Amount (7.0%):** $392.61\n**Total Amount Due:** $6001.31\n\n---\n*Thank you for your business! Payment terms: Net 45 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1011'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>SSL/TLS Certificate Renewal (Annual)</td><td>20</td><td>159.68</td><td>3193.60</td></tr><tr><td>Network Egress & Transit Bandwidth</td><td>10</td><td>0.09</td><td>0.90</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>20</td><td>120.71</td><td>2414.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>5608.70</td></tr><tr><td colspan='3'>Tax</td><td>392.61</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>6001.31</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1011-ITEM-1",
+      "item_description": "SSL/TLS Certificate Renewal (Annual)",
+      "quantity": 20,
+      "unit_price": 159.68,
+      "line_total": 3193.6
+    },
+    {
+      "item_id": "INV-2026-1011-ITEM-2",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 10,
+      "unit_price": 0.09,
+      "line_total": 0.9
+    },
+    {
+      "item_id": "INV-2026-1011-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 20,
+      "unit_price": 120.71,
+      "line_total": 2414.2
+    }
+  ]
+}

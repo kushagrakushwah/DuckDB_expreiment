@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1022",
+  "file_name": "INV-2026-1022.pdf",
+  "vendor_name": "Acme Logistics Inc.",
+  "invoice_date": "2026-04-17",
+  "due_date": "2026-05-17",
+  "currency": "USD",
+  "subtotal": 7316.61,
+  "tax_amount": 365.83,
+  "total_amount": 7682.44,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.932,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1022\n**Date:** 2026-04-17\n**Due Date:** 2026-05-17\n\n## Vendor Information\n**Vendor:** Acme Logistics Inc.\n**Address:** 102 Industrial Way, Austin, TX\n**Tax ID / GST:** TAX-99214\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-546\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $125.73 | $6286.50 |\n| Managed Database Hosting - Multi-Region | 1 | $815.71 | $815.71 |\n| Software License - Professional Tier (Seats) | 5 | $42.88 | $214.40 |\n\n**Subtotal:** $7316.61\n**Tax Amount (5.0%):** $365.83\n**Total Amount Due:** $7682.44\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1022'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>125.73</td><td>6286.50</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>815.71</td><td>815.71</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>5</td><td>42.88</td><td>214.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>7316.61</td></tr><tr><td colspan='3'>Tax</td><td>365.83</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>7682.44</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1022-ITEM-1",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 50,
+      "unit_price": 125.73,
+      "line_total": 6286.5
+    },
+    {
+      "item_id": "INV-2026-1022-ITEM-2",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 1,
+      "unit_price": 815.71,
+      "line_total": 815.71
+    },
+    {
+      "item_id": "INV-2026-1022-ITEM-3",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 5,
+      "unit_price": 42.88,
+      "line_total": 214.4
+    }
+  ]
+}

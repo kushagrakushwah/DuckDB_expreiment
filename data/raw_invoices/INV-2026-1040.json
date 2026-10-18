@@ -1,0 +1,46 @@
+{
+  "invoice_id": "INV-2026-1040",
+  "file_name": "INV-2026-1040.pdf",
+  "vendor_name": "Apex Office & Hardware",
+  "invoice_date": "2026-06-22",
+  "due_date": "2026-07-22",
+  "currency": "USD",
+  "subtotal": 11077.7,
+  "tax_amount": 775.44,
+  "total_amount": 11853.14,
+  "line_items_count": 4,
+  "page_count": 2,
+  "document_quality_score": 0.856,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1040\n**Date:** 2026-06-22\n**Due Date:** 2026-07-22\n\n## Vendor Information\n**Vendor:** Apex Office & Hardware\n**Address:** 88 Market St, Chicago, IL\n**Tax ID / GST:** TAX-77812\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-148\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| Network Egress & Transit Bandwidth | 20 | $0.09 | $1.80 |\n| Technical Support SLA - 24/7 Platinum | 10 | $538.87 | $5388.70 |\n| Enterprise Cloud Storage (1TB/mo) | 50 | $112.02 | $5601.00 |\n| Software License - Professional Tier (Seats) | 2 | $43.10 | $86.20 |\n\n**Subtotal:** $11077.70\n**Tax Amount (7.0%):** $775.44\n**Total Amount Due:** $11853.14\n\n---\n*Thank you for your business! Payment terms: Net 30 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1040'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>Network Egress & Transit Bandwidth</td><td>20</td><td>0.09</td><td>1.80</td></tr><tr><td>Technical Support SLA - 24/7 Platinum</td><td>10</td><td>538.87</td><td>5388.70</td></tr><tr><td>Enterprise Cloud Storage (1TB/mo)</td><td>50</td><td>112.02</td><td>5601.00</td></tr><tr><td>Software License - Professional Tier (Seats)</td><td>2</td><td>43.10</td><td>86.20</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>11077.70</td></tr><tr><td colspan='3'>Tax</td><td>775.44</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>11853.14</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1040-ITEM-1",
+      "item_description": "Network Egress & Transit Bandwidth",
+      "quantity": 20,
+      "unit_price": 0.09,
+      "line_total": 1.8
+    },
+    {
+      "item_id": "INV-2026-1040-ITEM-2",
+      "item_description": "Technical Support SLA - 24/7 Platinum",
+      "quantity": 10,
+      "unit_price": 538.87,
+      "line_total": 5388.7
+    },
+    {
+      "item_id": "INV-2026-1040-ITEM-3",
+      "item_description": "Enterprise Cloud Storage (1TB/mo)",
+      "quantity": 50,
+      "unit_price": 112.02,
+      "line_total": 5601.0
+    },
+    {
+      "item_id": "INV-2026-1040-ITEM-4",
+      "item_description": "Software License - Professional Tier (Seats)",
+      "quantity": 2,
+      "unit_price": 43.1,
+      "line_total": 86.2
+    }
+  ]
+}

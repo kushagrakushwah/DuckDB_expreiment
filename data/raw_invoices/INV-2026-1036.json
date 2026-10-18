@@ -1,0 +1,39 @@
+{
+  "invoice_id": "INV-2026-1036",
+  "file_name": "INV-2026-1036.pdf",
+  "vendor_name": "Starlight SaaS Systems",
+  "invoice_date": "2026-01-13",
+  "due_date": "2026-03-14",
+  "currency": "USD",
+  "subtotal": 1656.45,
+  "tax_amount": 136.66,
+  "total_amount": 1793.11,
+  "line_items_count": 3,
+  "page_count": 1,
+  "document_quality_score": 0.863,
+  "ocr_markdown": "# INVOICE\n**Invoice Number:** INV-2026-1036\n**Date:** 2026-01-13\n**Due Date:** 2026-03-14\n\n## Vendor Information\n**Vendor:** Starlight SaaS Systems\n**Address:** 33 Innovation Dr, Seattle, WA\n**Tax ID / GST:** TAX-11029\n\n## Bill To\n**Customer:** Fint Enterprise Solutions\n**Account ID:** FINT-ACC-332\n\n## Line Items\n| Item Description | Qty | Unit Price | Total |\n| :--- | :---: | :---: | :---: |\n| High-Performance Compute Node (hr) | 20 | $3.75 | $75.00 |\n| Consulting Hours - Senior ML Engineer | 5 | $163.01 | $815.05 |\n| Managed Database Hosting - Multi-Region | 1 | $766.40 | $766.40 |\n\n**Subtotal:** $1656.45\n**Tax Amount (8.2%):** $136.66\n**Total Amount Due:** $1793.11\n\n---\n*Thank you for your business! Payment terms: Net 60 days.*",
+  "ocr_html_tables": "<table class='invoice-table' id='table-INV-2026-1036'><thead><tr><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr></thead><tbody><tr><td>High-Performance Compute Node (hr)</td><td>20</td><td>3.75</td><td>75.00</td></tr><tr><td>Consulting Hours - Senior ML Engineer</td><td>5</td><td>163.01</td><td>815.05</td></tr><tr><td>Managed Database Hosting - Multi-Region</td><td>1</td><td>766.40</td><td>766.40</td></tr></tbody><tfoot><tr><td colspan='3'>Subtotal</td><td>1656.45</td></tr><tr><td colspan='3'>Tax</td><td>136.66</td></tr><tr><td colspan='3'><strong>Grand Total</strong></td><td><strong>1793.11</strong></td></tr></tfoot></table>",
+  "line_items": [
+    {
+      "item_id": "INV-2026-1036-ITEM-1",
+      "item_description": "High-Performance Compute Node (hr)",
+      "quantity": 20,
+      "unit_price": 3.75,
+      "line_total": 75.0
+    },
+    {
+      "item_id": "INV-2026-1036-ITEM-2",
+      "item_description": "Consulting Hours - Senior ML Engineer",
+      "quantity": 5,
+      "unit_price": 163.01,
+      "line_total": 815.05
+    },
+    {
+      "item_id": "INV-2026-1036-ITEM-3",
+      "item_description": "Managed Database Hosting - Multi-Region",
+      "quantity": 1,
+      "unit_price": 766.4,
+      "line_total": 766.4
+    }
+  ]
+}
