@@ -1,54 +1,90 @@
-# DuckDB Invoice Warehouse & Data Analysis
+# 🧾 DuckDB Invoice Warehouse & EDA Layer
 
-Hey everyone! This repository is the data foundation for our SLM (Small Language Model) invoice processing project. 
+> A clean, fast, and serverless data foundation built for testing Small Language Models (**GLiNER** & **TabPFN**) on real-world financial documents.
 
-Instead of jumping straight into training or testing models on random fake text, we wanted to build a clean, real-world data layer first. We fetched 50 real scanned invoice images and their actual text annotations, converted them into clean formats, and loaded everything into DuckDB.
-
----
-
-### What Does This Project Do?
-
-In simple words, this project takes messy invoice documents and turns them into clean, structured data that anyone on the team can query in milliseconds.
-
-1. **Real Invoice Scans**: We downloaded 50 real invoice images from the open-source Katana ML Sparrow dataset on Hugging Face. You can open and view all the original scans inside the `data/real_invoices/images/` folder.
-2. **Prepared for Small Models**: We converted each invoice into two simple formats:
-   * **Markdown text**: Great for testing **GLiNER** to pull out things like vendor names, invoice numbers, and dates.
-   * **HTML tables**: Great for testing **TabPFN** to check line items, prices, and math.
-3. **Stored in DuckDB**: Everything is saved in a single, fast local database file (`slm_warehouse.duckdb`). You don't need to install any heavy database server like PostgreSQL or MySQL—DuckDB runs directly inside Python with zero setup.
-4. **Data Health Check (EDA)**: We wrote automated SQL checks to measure text lengths and review vendor distributions. We found that our longest invoice is around 315 tokens, which easily fits inside GLiNER's 512-token limit without cutting off any text.
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![DuckDB](https://img.shields.io/badge/Database-DuckDB-FFF000?logo=duckdb&logoColor=black)](https://duckdb.org/)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/katanaml-org/invoices-donut-data-v1)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 ---
 
-### Folder Structure
+### 👋 Hey Team!
 
-Here is how the project is organized:
+Before diving into training models or writing complex prompts, we wanted to make sure we had a solid, trustworthy data foundation. 
 
-* `data/real_invoices/images/` — Contains all 50 real invoice pictures (`.jpg`).
-* `data/real_invoices/` — Contains the structured JSON files for each invoice and a complete manifest.
-* `data/slm_warehouse.duckdb` — The local DuckDB database file containing all tables.
-* `src/` — Python scripts to download the data (`fetch_real_invoices.py`), set up the database (`db.py`), load the data (`ingest.py`), and run the analysis (`eda.py`).
-* `notebooks/01_duckdb_eda.ipynb` — An interactive Jupyter notebook with pre-written SQL queries to explore the dataset visually.
-* `run_pipeline.py` — A single runner script that sets up everything from start to finish.
+Instead of playing with dummy text or synthetic mockups, this project pulls **50 real-world scanned invoices**, prepares them for our upcoming SLM harness, and stores everything in a local **DuckDB** warehouse that anyone can query in milliseconds without setting up a database server.
 
 ---
 
-### How to Run It Locally
+### ✨ What’s Inside?
 
-You only need Python installed.
+* **🖼️ 50 Real Invoice Scans**: Downloaded from Katana ML's open-source Sparrow benchmark on Hugging Face. You can open and view all original scanned receipts and bills right inside [`data/real_invoices/images/`](data/real_invoices/images/).
+* **📝 Dual Formats for SLMs**:
+  * **Markdown Text**: Formatted with clear headings and key-value sections so **GLiNER** can pull out vendor names, dates, tax IDs, and totals.
+  * **HTML Tables**: Clean `<table>` tags preserving line-item rows so **TabPFN** can inspect quantities, prices, and math.
+* **⚡ Serverless DuckDB Warehouse**: All invoices, individual line items, and experiment logs are saved inside a single portable file (`data/slm_warehouse.duckdb`). No Docker, no open ports, and zero configuration required.
+* **📊 Pre-run EDA Notebook**: A ready-to-share Jupyter notebook (`notebooks/01_duckdb_eda.ipynb`) packed with interactive SQL queries to evaluate data health, spend volumes, and scan qualities.
 
-1. **Activate the virtual environment**:
-   ```bash
-   ..\.venv\Scripts\Activate.ps1
-   ```
+---
 
-2. **Run the entire pipeline**:
-   ```bash
-   python run_pipeline.py
-   ```
+### 💡 What Did We Discover From the Data?
 
-3. **Explore in Jupyter**:
-   ```bash
-   jupyter lab notebooks/01_duckdb_eda.ipynb
-   ```
+Running Exploratory Data Analysis (EDA) on the 50 real invoices gave us three important takeaways for our model pipeline:
 
-Feel free to explore the notebook, run your own queries on `slm_warehouse.duckdb`, or view the invoice images!
+| What We Checked | What the Data Showed | Why It Matters for Us |
+| :--- | :--- | :--- |
+| **Document Length** | Average **226 tokens**, Maximum **315 tokens** | GLiNER has a 512-token limit. Because every invoice is under 315 tokens, **we don't need any text chunking or sliding windows**. GLiNER can read each document in one pass! |
+| **Field Types** | Currencies & tax rates repeat; descriptions are unique | Low-cardinality fields (currency, rates) can be parsed with instant Regex, while high-cardinality fields (vendors, items) get routed to GLiNER. |
+| **Table Sizes** | 1 to 7 line items per invoice | Small tables are the exact sweet spot for **TabPFN**, giving us instant tabular predictions without training from scratch. |
+
+---
+
+### 📁 Project Structure
+
+```text
+duckdb implementation/
+├── README.md                     # Project overview and guide
+├── requirements.txt              # Required Python libraries
+├── run_pipeline.py               # 1-click runner: downloads data, builds DB, runs EDA
+│
+├── data/
+│   ├── real_invoices/            # 50 invoice JSONs + invoices_manifest.json
+│   │   └── images/               # 50 real high-res invoice scans (.jpg)
+│   └── slm_warehouse.duckdb      # Single-file persistent DuckDB database
+│
+├── src/
+│   ├── fetch_real_invoices.py    # Pulls 50 real invoices from Hugging Face
+│   ├── db.py                     # DuckDB schema and table setup
+│   ├── ingest.py                 # Loads JSON records into DuckDB tables
+│   └── eda.py                    # Analytical SQL queries and statistical reports
+│
+└── notebooks/
+    └── 01_duckdb_eda.ipynb       # Interactive Jupyter analysis notebook
+```
+
+---
+
+### 🚀 Getting Started in 2 Minutes
+
+#### 1. Activate Environment
+```powershell
+..\.venv\Scripts\Activate.ps1
+```
+
+#### 2. Run the Full Pipeline
+This verifies the real invoices, populates DuckDB, and prints out the EDA summary:
+```powershell
+python run_pipeline.py
+```
+
+#### 3. Open the Interactive Notebook
+```powershell
+jupyter lab notebooks/01_duckdb_eda.ipynb
+```
+
+---
+
+### 🎯 Next Steps
+
+Now that our data layer, real invoice scans, and DuckDB warehouse are live, the next phase is building the **DSPy harness** to connect **GLiNER** (for text spans) and **TabPFN** (for line-item validation), tracking all experiment scores directly in **MLflow**.
